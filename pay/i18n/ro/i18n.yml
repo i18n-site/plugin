@@ -1,0 +1,32 @@
+bill: Factură
+translate: Traduceți
+topup: Umple
+manual: Manual
+creditCard: Card de credit
+asset: Active
+amountInTotal: Total
+needTopup: Vă rugăm să reîncărcați mai întâi
+topupOnWay: Reîncărcare în curs
+autoChargeTip: Când soldul este insuficient, plata anticipată va fi efectuată automat
+autoChargeHelp: Pe baza utilizării istorice, atunci când soldul estimat este mai mic decât consumul în următoarele zece zile, cheltuielile pentru o lună vor fi preîncărcate automat.
+autoChargeMin : Suprafața minimă este de zece dolari de fiecare dată
+needHelp: Au probleme ?
+pleaseMail: Vă rugăm să trimiteți un e-mail
+topupAmount: Suma de reîncărcare
+USD: USD
+EUR: EURO
+topUpFailed: Reîncărcare eșuată
+rtRetry: Întoarceți-vă și încercați din nou
+amount: Cantitate
+exchangeRate: Rata de schimb
+pay: A plati
+topupOk: Succes de reîncărcare
+addCard: Adăugați card de reîncărcare
+addNewCard: Adăugați un card de taxare nou
+setDefault: Setați ca implicit
+expire: Expirare
+
+
+
+
+

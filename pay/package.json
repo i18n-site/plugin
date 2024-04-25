@@ -1,0 +1,46 @@
+{
+  "name": "@~3/pay",
+  "version": "0.1.20",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n/plugin.git"
+  },
+  "homepage": "https://atomgit.com/i18n/plugin/tree/dev/pay",
+  "keywords": [
+    "i18n.site/plugin"
+  ],
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    ".": "./lib/index.js",
+    "./*": "./lib/*"
+  },
+  "files": [
+    "lib/*"
+  ],
+  "peerDependencies": {
+    "@2-/errer": "^0.1.4",
+    "@2-/ing": "^0.1.3",
+    "@2-/new": "^0.1.1",
+    "@2-/route": "^0.1.4",
+    "@2-/tag0": "^0.1.1",
+    "@3-/time": "^0.1.11",
+    "@3-/urlli": "^0.1.10",
+    "@3-/utf8": "^0.0.3",
+    "@5-/pay": "^0.2.2",
+    "@stripe/stripe-js": "^3.3.0",
+    "@~3/auth": "workspace:^",
+    "@~3/box": "workspace:^",
+    "@~3/drop": "workspace:^",
+    "@~3/lang": "workspace:^",
+    "@~3/scroll": "workspace:^",
+    "@~3/tip": "workspace:^"
+  },
+  "scripts": {},
+  "devDependencies": {
+    "@3-/urlli": "../../site/node_modules/@3-/urlli",
+    "@2-/route": "../../site/node_modules/@2-/route",
+    "@~3/auth": "../../site/node_modules/@~3/auth"
+  },
+  "type": "module"
+}

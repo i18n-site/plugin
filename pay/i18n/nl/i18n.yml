@@ -1,0 +1,32 @@
+bill: Rekening
+translate: Vertalen
+topup: Opwaarderen
+manual: Handmatig
+creditCard: Kredietkaart
+asset: Activa
+amountInTotal: Totaal
+needTopup: Gelieve eerst op te waarderen
+topupOnWay: Opwaarderen wordt uitgevoerd
+autoChargeTip: Wanneer het saldo onvoldoende is, wordt er automatisch een vooruitbetaling gedaan
+autoChargeHelp: Op basis van historisch gebruik, wanneer het geschatte saldo lager is dan het verbruik in de komende tien dagen, worden de kosten van een maand automatisch vooraf in rekening gebracht.
+autoChargeMin : De minimale opwaardering is elke keer tien dollar
+needHelp: Problemen hebben ?
+pleaseMail: Mail austublieft
+topupAmount: Opwaardeerbedrag
+USD: Amerikaanse Dollar
+EUR: EUR
+topUpFailed: Opwaarderen mislukt
+rtRetry: Keer terug en probeer het opnieuw
+amount: Hoeveelheid
+exchangeRate: Wisselkoers
+pay: Betalen
+topupOk: Succes bij het opwaarderen
+addCard: Opwaardeerkaart toevoegen
+addNewCard: Nieuwe laadpas toevoegen
+setDefault: Instellen als standaard
+expire: Vervaldatum
+
+
+
+
+

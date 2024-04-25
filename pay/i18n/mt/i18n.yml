@@ -1,0 +1,32 @@
+bill: Bill
+translate: Ittraduċi
+topup: TopUp
+manual: Manwal
+creditCard: Karta tal-kreditu
+asset: Assi
+amountInTotal: Total
+needTopup: Jekk jogħġbok TopUp L-Ewwel
+topupOnWay: Topup Fil-Progress
+autoChargeTip: Meta l-bilanċ ma jkunx biżżejjed, il-ħlas bil-quddiem isir awtomatikament
+autoChargeHelp: Ibbażat fuq l-użu storiku, meta l-bilanċ stmat ikun inqas mill-konsum fl-għaxart ijiem li ġejjin, il-valur ta 'xahar ta' spejjeż jiġu awtomatikament iċċarġjati minn qabel.
+autoChargeMin : It-topup minimu huwa għaxar dollari kull darba
+needHelp: Għandek problemi?
+pleaseMail: Jekk jogħġbok Email
+topupAmount: Ammont Topup
+USD: USD
+EUR: EUR
+topUpFailed: It-topup fallew
+rtRetry: Irritorna u Erġa' Ipprova
+amount: Ammont
+exchangeRate: Rata tal-Kambju
+pay: Ħlas
+topupOk: Topup Suċċess
+addCard: Żid Topup Card
+addNewCard: Żid karta ta' ħlas ġdida
+setDefault: Issettja bħala Default
+expire: Skadenza
+
+
+
+
+

@@ -1,0 +1,32 @@
+bill: Bill
+translate: translate
+topup: TopUp
+manual: BOKY
+creditCard: Carte de crédit
+asset: fananana
+amountInTotal: sokajy
+needTopup: Mba TopUp aloha
+topupOnWay: Topup an-dalam-pandrosoana
+autoChargeTip: Rehefa tsy ampy ny fifandanjana dia atao ho azy ny fandoavana mialoha
+autoChargeHelp: Mifototra amin'ny fampiasana ara-tantara, rehefa latsaka noho ny fanjifana ao anatin'ny folo andro manaraka ny fifandanjana tombanana, dia ho voaloa ho azy ny fandaniana iray volana.
+autoChargeMin : Ny topup farany ambany dia folo dolara isaky ny mandeha
+needHelp: Manana olana?
+pleaseMail: Alefaso azafady
+topupAmount: Haben'ny Topup
+USD: USD
+EUR: EUR
+topUpFailed: Tsy nahomby ny topup
+rtRetry: Miverena ary andramo indray
+amount: vola
+exchangeRate: Taham-panakalozana
+pay: KARAMANY
+topupOk: Fahombiazana Topup
+addCard: Ampio karatra Topup
+addNewCard: Manampia carte de charge vaovao
+setDefault: Ataovy ho Default
+expire: lany
+
+
+
+
+

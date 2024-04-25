@@ -1,0 +1,32 @@
+bill: Bill
+translate: Tərcümə etmək
+topup: Yuxarı
+manual: Manual
+creditCard: Kredit kartı
+asset: Aktivlər
+amountInTotal: Ümumi
+needTopup: Zəhmət olmasa, əvvəlcə doldurun
+topupOnWay: Yükləmə davam edir
+autoChargeTip: Balans kifayət etmədikdə, əvvəlcədən ödəniş avtomatik olaraq həyata keçiriləcək
+autoChargeHelp: Tarixi istifadəyə əsasən, təxmin edilən balans növbəti on gündə istehlakdan az olduqda, bir aylıq xərclər avtomatik olaraq əvvəlcədən hesablanacaq.
+autoChargeMin : Minimum əlavə hər dəfə on dollardır
+needHelp: Probleminiz var?
+pleaseMail: E-poçt göndərin
+topupAmount: Yükləmə məbləği
+USD: ABŞ dolları
+EUR: Avro
+topUpFailed: Yükləmə uğursuz oldu
+rtRetry: Qayıdın və Yenidən cəhd edin
+amount: Məbləğ
+exchangeRate: Valyuta məzənnəsi
+pay: Ödəmək
+topupOk: Topup Uğur
+addCard: Topup Card əlavə edin
+addNewCard: Yeni ödəniş kartı əlavə edin
+setDefault: Defolt olaraq təyin edin
+expire: İstifadə müddəti
+
+
+
+
+

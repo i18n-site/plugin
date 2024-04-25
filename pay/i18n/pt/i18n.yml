@@ -1,0 +1,32 @@
+bill: Conta
+translate: Traduzir
+topup: Completar
+manual: Manual
+creditCard: Cartão de crédito
+asset: Ativos
+amountInTotal: Total
+needTopup: Por favor, recarregue primeiro
+topupOnWay: Recarga em andamento
+autoChargeTip: Quando o saldo for insuficiente, o pré-pagamento será feito automaticamente
+autoChargeHelp: Com base no histórico de uso, quando o saldo estimado for menor que o consumo nos próximos dez dias, o valor de um mês de despesas será automaticamente pré-cobrado.
+autoChargeMin : A recarga mínima é de dez dólares cada vez
+needHelp: Tem problemas ?
+pleaseMail: Por favor enviar e-mail
+topupAmount: Valor de recarga
+USD: USD
+EUR: EUR
+topUpFailed: Falha na recarga
+rtRetry: Retorne e tente novamente
+amount: Quantia
+exchangeRate: Taxa de câmbio
+pay: Pagar
+topupOk: Sucesso na recarga
+addCard: Adicionar cartão de recarga
+addNewCard: Adicionar novo cartão de cobrança
+setDefault: Definir como padrão
+expire: Expiração
+
+
+
+
+

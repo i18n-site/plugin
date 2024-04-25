@@ -1,0 +1,28 @@
+bill: Bill
+translate: Translate
+topup: TopUp
+manual: Manual
+creditCard: Credit Card
+asset: Assets
+amountInTotal: Total
+needTopup: Please TopUp First
+topupOnWay: Topup In Progress
+autoChargeTip: When the balance is insufficient, prepayment will be automatically made
+autoChargeHelp: Based on historical usage, when the estimated balance is less than the consumption in the next ten days, one month's worth of expenses will be automatically precharged.
+autoChargeMin : The minimum topup is ten dollars each time
+needHelp: Have problems ?
+pleaseMail: Please Email
+topupAmount: Topup Amount
+USD: USD
+EUR: EUR
+topUpFailed: Topup Failed
+rtRetry: Return and Try Again
+amount: Amount
+exchangeRate: Exchange Rate
+pay: Pay
+topupOk: Topup Success
+addCard: Add Topup Card
+addNewCard: Add New Topup Card
+setDefault: Set As Default
+expire: Expiration
+

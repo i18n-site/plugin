@@ -1,0 +1,20 @@
+signIn: SignIn ti
+signUp: Agpirma
+mail: I-email
+password: Password
+setPassword: Itakderan ti Password
+agree: Umanamong
+userAgreement: Tulag ti Agus-usar
+resetPassword: I-reset ti Password
+name: Nagan
+code: Kodigo ti Beripikasion
+enterCode: Iserrek ti Verification Code nga Naawatmo
+checkSpam: Dimo Lipatan ti Mangsukimat iti Spam
+accountExist: Addadan ti Kuenta, Direkta nga Ag-signIn
+created: Naparsua ti Kuenta
+exit: Rumuar
+userAdmin: Admin ti Agus-usar
+addAccount: Add Account
+exitAll: Rummuar iti Amin
+nowMail: Ita, Mail
+newMail: Baro a Koreo

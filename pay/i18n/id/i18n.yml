@@ -1,0 +1,32 @@
+bill: Tagihan
+translate: Menerjemahkan
+topup: Isi Ulang
+manual: petunjuk
+creditCard: Kartu kredit
+asset: Aktiva
+amountInTotal: Total
+needTopup: Silakan TopUp Terlebih Dahulu
+topupOnWay: Isi Ulang Sedang Berlangsung
+autoChargeTip: Jika saldo tidak mencukupi, pembayaran di muka akan dilakukan secara otomatis
+autoChargeHelp: Berdasarkan riwayat penggunaan, bila perkiraan saldo kurang dari konsumsi dalam sepuluh hari berikutnya, biaya satu bulan akan dibebankan secara otomatis di muka.
+autoChargeMin : Isi ulang minimum adalah sepuluh dolar setiap kali
+needHelp: Punya masalah ?
+pleaseMail: Tolong email
+topupAmount: Jumlah Isi Ulang
+USD: Rp
+EUR: EUR
+topUpFailed: Gagal Isi Ulang
+rtRetry: Kembali dan Coba Lagi
+amount: Jumlah
+exchangeRate: Kurs
+pay: Membayar
+topupOk: Sukses Isi Ulang
+addCard: Tambahkan Kartu Isi Ulang
+addNewCard: Tambahkan kartu tagihan baru
+setDefault: Ditetapkan sebagai default
+expire: Kedaluwarsa
+
+
+
+
+

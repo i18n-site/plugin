@@ -1,0 +1,20 @@
+signIn: เข้าสู่ระบบ
+signUp: ลงชื่อ
+mail: อีเมล
+password: รหัสผ่าน
+setPassword: ตั้งรหัสผ่าน
+agree: เห็นด้วย
+userAgreement: ข้อตกลงการใช้
+resetPassword: รีเซ็ตรหัสผ่าน
+name: ชื่อ
+code: รหัสยืนยัน
+enterCode: กรอกรหัสยืนยันที่คุณได้รับ
+checkSpam: อย่าลืมตรวจสอบสแปม
+accountExist: มีบัญชีอยู่แล้ว ลงชื่อเข้าใช้โดยตรง
+created: สร้างบัญชีแล้ว
+exit: ออก
+userAdmin: ผู้ดูแลระบบผู้ใช้
+addAccount: เพิ่มบัญชี
+exitAll: ออกทั้งหมด
+nowMail: ตอนนี้เมล
+newMail: จดหมายใหม่

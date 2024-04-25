@@ -1,0 +1,32 @@
+bill: Bill
+translate: Tanthauzirani
+topup: TopUp
+manual: Pamanja
+creditCard: Kiredi
+asset: Katundu
+amountInTotal: Zonse
+needTopup: Chonde TopUp Choyamba
+topupOnWay: Zowonjezera Zikupita Patsogolo
+autoChargeTip: Ngati ndalamazo sizikukwanira, kulipiriratu kumangochitika zokha
+autoChargeHelp: Kutengera ndi kagwiritsidwe ntchito kakale, ndalama zomwe zayerekezedwa zikakhala zochepa poyerekeza ndi zomwe zidzagwiritsidwe ntchito m'masiku khumi otsatirawa, zowonongera za mwezi umodzi zidzalipitsidwa.
+autoChargeMin : Kuchulukitsa kocheperako ndi madola khumi nthawi iliyonse
+needHelp: Muli ndi mavuto?
+pleaseMail: Chonde Imelo
+topupAmount: Mtengo Wowonjezera
+USD: USD
+EUR: EUR
+topUpFailed: Kuchulukitsa Kwalephera
+rtRetry: Bwererani ndikuyesanso
+amount: Ndalama
+exchangeRate: Mtengo wosinthitsira
+pay: Lipirani
+topupOk: Kupambana Kwambiri
+addCard: Onjezani Khadi Lowonjezera
+addNewCard: Onjezani khadi yatsopano yolipirira
+setDefault: Khazikitsani Monga Zofikira
+expire: Kutha ntchito
+
+
+
+
+

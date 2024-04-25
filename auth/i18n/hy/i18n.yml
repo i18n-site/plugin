@@ -1,0 +1,20 @@
+signIn: Մուտք գործել
+signUp: Գրանցվել
+mail: Էլ
+password: Գաղտնաբառ
+setPassword: Սահմանել գաղտնաբառը
+agree: Համաձայնվել
+userAgreement: Օգտագործողի պայմանագիր
+resetPassword: Վերականգնել գաղտնաբառը
+name: Անուն
+code: Ստուգման կոդը
+enterCode: Մուտքագրեք ձեր ստացած հաստատման կոդը
+checkSpam: Մի մոռացեք ստուգել սպամը
+accountExist: Հաշիվն արդեն գոյություն ունի, Մուտք գործեք անմիջապես
+created: Ստեղծվել է հաշիվ
+exit: Ելք
+userAdmin: Օգտատիրոջ ադմին
+addAccount: Ավելացնել հաշիվ
+exitAll: Դուրս գալ բոլորից
+nowMail: Այժմ Փոստ
+newMail: Նոր փոստ

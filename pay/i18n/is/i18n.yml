@@ -1,0 +1,32 @@
+bill: Bill
+translate: Þýða
+topup: Efst upp
+manual: Handbók
+creditCard: Kreditkort
+asset: Eignir
+amountInTotal: Samtals
+needTopup: Vinsamlegast fylltu á fyrst
+topupOnWay: Áfylling í gangi
+autoChargeTip: Þegar staðan er ófullnægjandi mun fyrirframgreiðsla fara fram sjálfkrafa
+autoChargeHelp: Miðað við sögulega notkun, þegar áætluð staða er minni en neyslan næstu tíu daga, verður eins mánaðar útgjöld sjálfkrafa fyrirframgjaldfærð.
+autoChargeMin : Lágmarksuppbót er tíu dollarar í hvert skipti
+needHelp: Áttu í vandræðum?
+pleaseMail: Vinsamlegast sendu tölvupóst
+topupAmount: Uppfyllingarupphæð
+USD: USD
+EUR: EUR
+topUpFailed: Áfylling mistókst
+rtRetry: Farðu aftur og reyndu aftur
+amount: Magn
+exchangeRate: Gengi
+pay: Borga
+topupOk: Árangur af áfyllingu
+addCard: Bæta við áfyllingarkorti
+addNewCard: Bæta við nýju greiðslukorti
+setDefault: Stillt sem sjálfgefið
+expire: Gildistími
+
+
+
+
+

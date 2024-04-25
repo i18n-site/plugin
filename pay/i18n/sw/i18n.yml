@@ -1,0 +1,32 @@
+bill: Bill
+translate: Tafsiri
+topup: Juu Juu
+manual: Mwongozo
+creditCard: Kadi ya Mkopo
+asset: Mali
+amountInTotal: Jumla
+needTopup: Tafadhali TopUp Kwanza
+topupOnWay: Nyongeza Inaendelea
+autoChargeTip: Wakati salio halitoshi, malipo ya mapema yatafanywa kiotomatiki
+autoChargeHelp: Kulingana na matumizi ya kihistoria, wakati salio lililokadiriwa ni chini ya matumizi katika siku kumi zijazo, gharama za mwezi mmoja zitatozwa kiotomatiki mapema.
+autoChargeMin : Kiwango cha chini cha nyongeza ni dola kumi kila wakati
+needHelp: Una matatizo?
+pleaseMail: Tafadhali tuma barua pepe
+topupAmount: Kiasi cha Kuongeza
+USD: USD
+EUR: EUR
+topUpFailed: Kuongeza Imeshindwa
+rtRetry: Rudi na Ujaribu Tena
+amount: Kiasi
+exchangeRate: Kiwango cha ubadilishaji
+pay: Lipa
+topupOk: Mafanikio ya Kuongeza
+addCard: Ongeza Kadi ya Kuongeza
+addNewCard: Ongeza kadi mpya ya malipo
+setDefault: Weka kama Chaguomsingi
+expire: Kuisha muda wake
+
+
+
+
+

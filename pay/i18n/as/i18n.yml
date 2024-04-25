@@ -1,0 +1,32 @@
+bill: বিল
+translate: অনুবাদ কৰা
+topup: টপআপ
+manual: হাতপুথি
+creditCard: ক্ৰেডিট কাৰ্ড
+asset: সম্পত্তিসমূহ
+amountInTotal: মুঠ
+needTopup: অনুগ্ৰহ কৰি প্ৰথমে TopUp কৰক
+topupOnWay: টপআপ চলি আছে
+autoChargeTip: যেতিয়া বেলেঞ্চ অপৰ্যাপ্ত হ’ব তেতিয়া স্বয়ংক্ৰিয়ভাৱে প্ৰিপেমেণ্ট কৰা হ’ব
+autoChargeHelp: ঐতিহাসিক ব্যৱহাৰৰ ভিত্তিত যেতিয়া অহা দহ দিনত আনুমানিক বেলেঞ্চ খৰচতকৈ কম হ’ব, তেতিয়া এমাহৰ খৰচ স্বয়ংক্ৰিয়ভাৱে প্ৰিচাৰ্জ কৰা হ’ব।
+autoChargeMin : প্ৰতিবাৰেই নূন্যতম টপআপ দহ ডলাৰ
+needHelp: সমস্যা আছেনে ?
+pleaseMail: অনুগ্ৰহ কৰি ইমেইল কৰক
+topupAmount: টপআপৰ পৰিমাণ
+USD: USD
+EUR: EUR
+topUpFailed: টপআপ বিফল
+rtRetry: উভতি যাওক আৰু আকৌ চেষ্টা কৰক
+amount: পৰিমাণ
+exchangeRate: বিনিময় হাৰ
+pay: পৰিশোধ কৰা
+topupOk: টপআপ সফলতা
+addCard: টপআপ কাৰ্ড যোগ কৰক
+addNewCard: নতুন চাৰ্জ কাৰ্ড যোগ কৰক
+setDefault: অবিকল্পিত হিচাপে নিৰ্ধাৰণ কৰক
+expire: মেয়াদ উকলি যোৱা
+
+
+
+
+

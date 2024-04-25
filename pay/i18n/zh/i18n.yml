@@ -1,0 +1,32 @@
+bill: 账单
+translate: 翻译
+topup: 充值
+manual: 手动
+creditCard: 信用卡
+asset: 资产
+amountInTotal: 合计
+needTopup: 请先充值
+topupOnWay: 充值在途
+autoChargeTip: 余额不足时，将自动预付费
+autoChargeHelp: 会根据历史使用，预判余额小于未来十天的消费时，自动预充一个月的费用。
+autoChargeMin : 每次最低充值十美元。
+needHelp: 遇到问题?
+pleaseMail: 请邮件
+topupAmount: 充值金额
+USD: 美元
+EUR: 欧元
+topUpFailed: 扣费失败
+rtRetry: 返回重试
+amount: 金额
+exchangeRate: 汇率
+pay: 支付
+topupOk: 充值成功
+addCard: 添加扣费卡
+addNewCard: 添加新的扣费卡
+setDefault: 设为默认
+expire: 过期时间
+
+
+
+
+

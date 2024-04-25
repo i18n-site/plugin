@@ -1,0 +1,32 @@
+bill: Regning
+translate: Oversette
+topup: Fylle opp
+manual: Håndbok
+creditCard: Kredittkort
+asset: Eiendeler
+amountInTotal: Total
+needTopup: Fyll på først
+topupOnWay: Påfylling pågår
+autoChargeTip: Når saldoen er utilstrekkelig, foretas forskuddsbetaling automatisk
+autoChargeHelp: Basert på historisk bruk, når den estimerte saldoen er mindre enn forbruket de neste ti dagene, vil en måneds utgifter automatisk forhåndslades.
+autoChargeMin : Minimum påfyll er ti dollar hver gang
+needHelp: Har du problemer?
+pleaseMail: Send en e-post
+topupAmount: Påfyllingsbeløp
+USD: USD
+EUR: EUR
+topUpFailed: Påfylling mislyktes
+rtRetry: Gå tilbake og prøv igjen
+amount: Beløp
+exchangeRate: Vekslingskurs
+pay: Betale
+topupOk: Påfyllingssuksess
+addCard: Legg til påfyllingskort
+addNewCard: Legg til nytt betalingskort
+setDefault: Satt som standard
+expire: Utløp
+
+
+
+
+

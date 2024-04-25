@@ -1,0 +1,32 @@
+bill: Bill
+translate: Fassara
+topup: TopUp
+manual: Manual
+creditCard: Katin Kiredit
+asset: Kadari
+amountInTotal: Jimlar
+needTopup: Don Allah TopUp Farko
+topupOnWay: Ana Ci Gaban Sakawa
+autoChargeTip: Lokacin da ma'auni bai isa ba, za a yi biya kafin lokaci ta atomatik
+autoChargeHelp: Dangane da amfani da tarihi, lokacin da kiyasin ma'auni ya yi ƙasa da abin da ake amfani da shi a cikin kwanaki goma masu zuwa, ƙimar kuɗin wata ɗaya za a fara caji ta atomatik.
+autoChargeMin : Matsakaicin kuɗin da aka samu shine dala goma kowane lokaci
+needHelp: Kuna da matsaloli?
+pleaseMail: Da fatan za a yi Imel
+topupAmount: Adadin Sakawa
+USD: dalar Amurka
+EUR: EUR
+topUpFailed: Ba a yi nasara ba
+rtRetry: Koma Ka Sake Gwada
+amount: Adadin
+exchangeRate: Darajar musayar kudi
+pay: Biya
+topupOk: Babban Nasara
+addCard: Ƙara Katin Topup
+addNewCard: Ƙara sabon katin caji
+setDefault: Saita azaman Tsoho
+expire: Karewa
+
+
+
+
+

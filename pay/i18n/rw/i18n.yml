@@ -1,0 +1,32 @@
+bill: Bill
+translate: Sobanura
+topup: TopUp
+manual: Igitabo
+creditCard: Ikarita y'inguzanyo
+asset: Umutungo
+amountInTotal: Igiteranyo
+needTopup: Nyamuneka TopUp Banza
+topupOnWay: Hejuru
+autoChargeTip: Iyo impirimbanyi idahagije, kwishyura mbere bizahita bikorwa
+autoChargeHelp: Ukurikije imikoreshereze yamateka, mugihe igipimo cyagereranijwe kiri munsi yikiguzi muminsi icumi iri imbere, ukwezi kumwe kumafaranga azahita yishyurwa.
+autoChargeMin : Nibura topup ni amadorari icumi buri gihe
+needHelp: Ufite ibibazo?
+pleaseMail: Nyamuneka imeri
+topupAmount: Amafaranga yo hejuru
+USD: USD
+EUR: EUR
+topUpFailed: Topup Yatsinzwe
+rtRetry: Garuka hanyuma ugerageze
+amount: Umubare
+exchangeRate: Igipimo cy'ivunjisha
+pay: Kwishura
+topupOk: Intsinzi yo hejuru
+addCard: Ongeraho Ikarita ya Topup
+addNewCard: Ongeraho ikarita nshya
+setDefault: Shiraho nkibisanzwe
+expire: Igihe kirangiye
+
+
+
+
+

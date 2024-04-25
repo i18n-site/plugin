@@ -1,0 +1,20 @@
+signIn: Log ind
+signUp: Tilmelde
+mail: E-mail
+password: Adgangskode
+setPassword: Indstil adgangskode
+agree: Enig
+userAgreement: Brugeraftale
+resetPassword: Nulstille kodeord
+name: Navn
+code: Verifikationskode
+enterCode: Indtast bekræftelseskode, du har modtaget
+checkSpam: Glem ikke at tjekke spam
+accountExist: Konto eksisterer allerede, log ind direkte
+created: Konto oprettet
+exit: Afslut
+userAdmin: Bruger Admin
+addAccount: Tilføj konto
+exitAll: Afslut alle
+nowMail: Nu Mail
+newMail: Ny mail

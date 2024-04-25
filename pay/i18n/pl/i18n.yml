@@ -1,0 +1,32 @@
+bill: Rachunek
+translate: Tłumaczyć
+topup: Doładowanie
+manual: podręcznik
+creditCard: Karta kredytowa
+asset: Aktywa
+amountInTotal: Całkowity
+needTopup: Najpierw doładuj
+topupOnWay: Doładowanie w toku
+autoChargeTip: Jeżeli saldo będzie niewystarczające, automatycznie zostanie dokonana przedpłata
+autoChargeHelp: Na podstawie historycznego zużycia, gdy szacowane saldo będzie mniejsze niż zużycie w ciągu następnych dziesięciu dni, automatycznie zostanie automatycznie pobrana kwota wydatków za jeden miesiąc.
+autoChargeMin : Minimalne doładowanie za każdym razem wynosi dziesięć dolarów
+needHelp: Mieć problemy ?
+pleaseMail: Proszę o e-mail
+topupAmount: Kwota doładowania
+USD: USD
+EUR: EUR
+topUpFailed: Doładowanie nie powiodło się
+rtRetry: Wróć i spróbuj ponownie
+amount: Kwota
+exchangeRate: Kurs wymiany
+pay: Płacić
+topupOk: Sukces doładowania
+addCard: Dodaj kartę doładowującą
+addNewCard: Dodaj nową kartę płatniczą
+setDefault: Ustaw jako domyślne
+expire: Wygaśnięcie
+
+
+
+
+

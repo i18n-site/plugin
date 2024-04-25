@@ -1,0 +1,32 @@
+bill: Bill
+translate: Iwwersetzen
+topup: TopUp
+manual: Manuell
+creditCard: Kreditkaart
+asset: Verméigen
+amountInTotal: Ganzen
+needTopup: W.e.g. TopUp Éischt
+topupOnWay: Topup amgaang
+autoChargeTip: Wann d'Gläichgewiicht net genuch ass, gëtt d'Virbezuelung automatesch gemaach
+autoChargeHelp: Baséierend op historescher Notzung, wann de geschätzte Gläichgewiicht manner ass wéi de Konsum an den nächsten zéng Deeg, ginn d'Ausgabe vun engem Mount automatesch virbereet.
+autoChargeMin : De Minimum Topup ass zéng Dollar all Kéier
+needHelp: Hutt Dir Problemer?
+pleaseMail: Weg Email
+topupAmount: Topup Betrag
+USD: USD
+EUR: EUR
+topUpFailed: Topup Ausgefall
+rtRetry: Zréck a probéiert nach eng Kéier
+amount: Betrag
+exchangeRate: Exchange Taux
+pay: Bezuelen
+topupOk: Topup Erfolleg
+addCard: Add Topup Card
+addNewCard: Füügt eng nei Chargekaart
+setDefault: Set als Default
+expire: Verfall
+
+
+
+
+

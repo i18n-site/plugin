@@ -1,0 +1,32 @@
+bill: Bill
+translate: Translate
+topup: TopUp
+manual: Manual
+creditCard: Promeritum Pecto
+asset: BONA
+amountInTotal: Totalis
+needTopup: Quaeso Topup Primum
+topupOnWay: Topup in Exsecutione
+autoChargeTip: Cum statera insufficiens sit, praeparatio statim facta erit
+autoChargeHelp: Ex consuetudine historica, cum trutina aestimata minor est quam consumptio proximis decem diebus, pretium unius mensis expensarum ipso facto praeiudicabitur.
+autoChargeMin : Minimum topup est decem dollariis omni tempore
+needHelp: Have problems ?
+pleaseMail: Quaeso Email
+topupAmount: Topup vehicula
+USD: USD
+EUR: EUR
+topUpFailed: Topup Deficio
+rtRetry: Redi et Conari Iterum
+amount: Moles
+exchangeRate: Commutatio Rate
+pay: Stipendium
+topupOk: Topup Success
+addCard: Add Topup Card
+addNewCard: Addere novam causam card
+setDefault: Set quod default
+expire: Expirata
+
+
+
+
+

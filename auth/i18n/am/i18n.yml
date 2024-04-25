@@ -1,0 +1,20 @@
+signIn: ስግን እን
+signUp: ተመዝገቢ
+mail: ኢሜይል
+password: የይለፍ ቃል
+setPassword: የይለፍ ቃል አዘጋጅ
+agree: ተስማማ
+userAgreement: የተጠቃሚ ስምምነት
+resetPassword: የይለፍ ቃል ዳግም አስጀምር
+name: ስም
+code: የማረጋገጫ የሚስጥር ቁጥር
+enterCode: የተቀበልከውን የማረጋገጫ ኮድ አስገባ
+checkSpam: አይፈለጌ መልዕክት መፈተሽን አይርሱ
+accountExist: መለያ አስቀድሞ አለ፣ በቀጥታ ይግቡ
+created: መለያ ተፈጠረ
+exit: ውጣ
+userAdmin: የተጠቃሚ አስተዳዳሪ
+addAccount: መለያ አክል
+exitAll: ሁሉንም ውጣ
+nowMail: አሁን ደብዳቤ
+newMail: አዲስ ደብዳቤ

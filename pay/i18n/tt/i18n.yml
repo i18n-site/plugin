@@ -1,0 +1,32 @@
+bill: Билл
+translate: Тәрҗемә итү
+topup: TopUp
+manual: Дәреслек
+creditCard: Кредит картас
+asset: Активлар
+amountInTotal: Барлыгы
+needTopup: Зинһар, башта TopUp
+topupOnWay: Түләү дәвам итә
+autoChargeTip: Баланс җитмәгәндә, алдан түләү автоматик рәвештә ясалачак
+autoChargeHelp: Тарихи куллануга нигезләнеп, фаразланган баланс киләсе ун көн эчендә кулланудан азрак булганда, бер айлык чыгымнар автоматик рәвештә алдан түләнәчәк.
+autoChargeMin : Минималь түләү - ун доллар
+needHelp: Проблемалар бармы?
+pleaseMail: Зинһар, электрон почтага җибәрегез
+topupAmount: Күчереп алу күләме
+USD: USD
+EUR: EUR
+topUpFailed: Таплау уңышсыз
+rtRetry: Кайтыгыз һәм кабатлап карагыз
+amount: Күләм
+exchangeRate: Алмашу исәбе
+pay: Түләү
+topupOk: Уңыш
+addCard: Топуп картасын өстәгез
+addNewCard: Яңа заряд картасын өстәгез
+setDefault: Килешү итеп куегыз
+expire: Срогы
+
+
+
+
+

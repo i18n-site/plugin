@@ -1,0 +1,32 @@
+bill: 청구서
+translate: 번역하다
+topup: 충전하다
+manual: 수동
+creditCard: 신용 카드
+asset: 자산
+amountInTotal: 총
+needTopup: 먼저 충전해주세요
+topupOnWay: 충전 진행 중
+autoChargeTip: 잔액이 부족할 경우 자동으로 선불결제가 이루어집니다.
+autoChargeHelp: 과거 사용량을 기준으로 향후 10일 동안 예상 잔액이 사용량보다 적을 경우 한 달치의 비용이 자동으로 선결제됩니다.
+autoChargeMin : 최소 충전 금액은 매번 10달러입니다.
+needHelp: 문제가 발생했나요?
+pleaseMail: 이메일을 보내주세요
+topupAmount: 충전금액
+USD: 달러
+EUR: EUR
+topUpFailed: 공제 실패
+rtRetry: 돌아가서 다시 시도해 보세요.
+amount: 양
+exchangeRate: 환율
+pay: 지불하다
+topupOk: 재충전 성공
+addCard: 신용카드 추가
+addNewCard: 새 신용카드 추가
+setDefault: 기본값으로 설정
+expire: 만료
+
+
+
+
+

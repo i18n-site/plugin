@@ -1,0 +1,32 @@
+bill: Räkningen
+translate: Översätt
+topup: TopUp
+manual: Manuell
+creditCard: Kreditkort
+asset: Tillgångar
+amountInTotal: Total
+needTopup: Fyll på först
+topupOnWay: Påfyllning pågår
+autoChargeTip: När saldot är otillräckligt kommer förskottsbetalning att göras automatiskt
+autoChargeHelp: Baserat på historisk användning, när det uppskattade saldot är mindre än förbrukningen under de kommande tio dagarna, kommer en månads utgifter att fördebiteras automatiskt.
+autoChargeMin : Minsta påfyllning är tio dollar varje gång
+needHelp: Ha problem ?
+pleaseMail: Vänligen maila
+topupAmount: Påfyllningsmängd
+USD: USD
+EUR: EUR
+topUpFailed: Påfyllning misslyckades
+rtRetry: Återvänd och försök igen
+amount: Belopp
+exchangeRate: Växlingskurs
+pay: Betala
+topupOk: Topup framgång
+addCard: Lägg till påfyllningskort
+addNewCard: Lägg till nytt betalkort
+setDefault: Ange som standard
+expire: Utgång
+
+
+
+
+

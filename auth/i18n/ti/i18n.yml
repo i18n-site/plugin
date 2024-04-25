@@ -1,0 +1,20 @@
+signIn: SignIn
+signUp: ምዝገባ
+mail: ኢመይል
+password: መሕለፊ ቓል
+setPassword: Password ኣቐምጥ
+agree: ተስማዕማዕ
+userAgreement: ስምምዕ ተጠቃሚ
+resetPassword: ፓስዎርድ ዳግማይ ምትካል
+name: ሽም
+code: ናይ ምርግጋጽ ኮድ
+enterCode: ዝረኸብካዮ ናይ ምርግጋጽ ኮድ ኣእቱ
+checkSpam: ስፓም ምፍታሽ ኣይትረስዑ
+accountExist: ኣካውንት ድሮ ኣሎ፣ ብቐጥታ SignIn
+created: ኣካውንት ተፈጢሩ
+exit: መውፅኢ
+userAdmin: ተጠቃሚ ኣድሚን
+addAccount: ኣካውንት ምውሳኽ
+exitAll: ካብ ኩሉ ወጺእካ
+nowMail: ሕጂ መልእኽቲ
+newMail: ሓድሽ ፖስታ

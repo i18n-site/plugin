@@ -1,0 +1,32 @@
+bill: Hóa đơn
+translate: Dịch
+topup: nạp tiền
+manual: Thủ công
+creditCard: Thẻ tín dụng
+asset: Tài sản
+amountInTotal: Tổng cộng
+needTopup: Vui lòng nạp tiền trước
+topupOnWay: Đang nạp tiền
+autoChargeTip: Khi số dư không đủ, việc thanh toán trước sẽ tự động được thực hiện
+autoChargeHelp: Dựa trên lịch sử sử dụng, khi số dư ước tính nhỏ hơn mức tiêu thụ trong mười ngày tới, chi phí của một tháng sẽ tự động được tính trước.
+autoChargeMin : Số tiền nạp tối thiểu là mười đô la mỗi lần
+needHelp: Có vấn đề?
+pleaseMail: Xin vui lòng gửi email
+topupAmount: Số tiền nạp
+USD: đô la Mỹ
+EUR: EUR
+topUpFailed: Nạp tiền không thành công
+rtRetry: Quay lại và thử lại
+amount: Số lượng
+exchangeRate: Tỷ giá
+pay: Chi trả
+topupOk: Nạp tiền thành công
+addCard: Thêm thẻ nạp tiền
+addNewCard: Thêm thẻ thanh toán mới
+setDefault: Đặt làm mặc định
+expire: Hết hạn
+
+
+
+
+

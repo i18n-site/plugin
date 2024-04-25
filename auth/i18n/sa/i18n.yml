@@ -1,0 +1,20 @@
+signIn: SignIn
+signUp: SignUp
+mail: ईमेल
+password: समाभाष्
+setPassword: गुप्तशब्दं सेट् कुर्वन्तु
+agree: अङ्गीकरोतु
+userAgreement: उपयोक्तृसम्झौता
+resetPassword: गुप्तशब्दं पुनः सेट् कुर्वन्तु
+name: नामः
+code: सत्यापन संहिता
+enterCode: भवता प्राप्तः सत्यापनसङ्केतः प्रविष्टः
+checkSpam: स्पैम चेक कर्तुं न विस्मरन्तु
+accountExist: खाता पूर्वमेव विद्यते, प्रत्यक्षतया प्रवेशं कुर्वन्तु
+created: खाता निर्मित
+exit: निर्गम
+userAdmin: उपयोक्ता व्यवस्थापकः
+addAccount: खाता योजयतु
+exitAll: सर्वेभ्यः निर्गच्छन्तु
+nowMail: अधुना मेल
+newMail: नवीन मेल

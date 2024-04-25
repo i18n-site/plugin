@@ -1,0 +1,32 @@
+bill: Bill
+translate: Tõlgi
+topup: TopUp
+manual: Käsiraamat
+creditCard: Krediitkaart
+asset: Varad
+amountInTotal: Kokku
+needTopup: Palun lisage kõigepealt
+topupOnWay: Täiendamine on pooleli
+autoChargeTip: Kui saldo on ebapiisav, tehakse ettemaks automaatselt
+autoChargeHelp: Ajaloolise kasutuse põhjal, kui hinnanguline saldo on väiksem kui järgmise kümne päeva tarbimine, arvestatakse automaatselt ühe kuu kulud ette.
+autoChargeMin : Minimaalne lisatasu on kümme dollarit iga kord
+needHelp: Kas teil on probleeme?
+pleaseMail: Palun saatke e-kiri
+topupAmount: Täiendamise summa
+USD: USD
+EUR: EUR
+topUpFailed: Täiendamine ebaõnnestus
+rtRetry: Naaske ja proovige uuesti
+amount: Summa
+exchangeRate: Vahetuskurss
+pay: Maksma
+topupOk: Täiendamise õnnestumine
+addCard: Lisa täienduskaart
+addNewCard: Lisa uus maksekaart
+setDefault: Määra vaikeväärtuseks
+expire: Aegumine
+
+
+
+
+

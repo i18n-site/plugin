@@ -1,0 +1,20 @@
+signIn: Logi sisse
+signUp: Registreeri
+mail: Meil
+password: Parool
+setPassword: Määra parool
+agree: Nõus
+userAgreement: Kasutusleping
+resetPassword: Lähtestage parool
+name: Nimi
+code: Kinnituskood
+enterCode: Sisestage saadud kinnituskood
+checkSpam: Ärge unustage rämpsposti kontrollida
+accountExist: Konto on juba olemas, logige otse sisse
+created: Konto loodud
+exit: Välju
+userAdmin: Kasutaja administraator
+addAccount: Lisada konto
+exitAll: Välju kõigest
+nowMail: Nüüd Mail
+newMail: Uus kiri

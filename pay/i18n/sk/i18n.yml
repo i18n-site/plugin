@@ -1,0 +1,32 @@
+bill: Bill
+translate: Preložiť
+topup: TopUp
+manual: Manuálny
+creditCard: Kreditná karta
+asset: Aktíva
+amountInTotal: Celkom
+needTopup: Najprv doplňte
+topupOnWay: Prebieha dopĺňanie
+autoChargeTip: Ak je zostatok nedostatočný, platba vopred sa automaticky vykoná
+autoChargeHelp: Na základe historického používania, keď je odhadovaný zostatok nižší ako spotreba v nasledujúcich desiatich dňoch, budú automaticky predúčtované náklady v hodnote jedného mesiaca.
+autoChargeMin : Minimálne nabitie je zakaždým desať dolárov
+needHelp: Máte problémy?
+pleaseMail: Pošlite e-mail
+topupAmount: Suma doplnenia
+USD: Americký dolár
+EUR: eur
+topUpFailed: Doplnenie zlyhalo
+rtRetry: Vráťte sa a skúste to znova
+amount: Suma
+exchangeRate: Výmenný kurz
+pay: zaplatiť
+topupOk: Úspešné dopĺňanie
+addCard: Pridať dobíjaciu kartu
+addNewCard: Pridajte novú platobnú kartu
+setDefault: Nastaviť ako predvolenú
+expire: Expirácia
+
+
+
+
+

@@ -1,0 +1,32 @@
+bill: Fatura
+translate: Çevirmek
+topup: Yükleme
+manual: Manuel
+creditCard: Kredi kartı
+asset: Varlıklar
+amountInTotal: Toplam
+needTopup: Lütfen Önce Yükleme Yapın
+topupOnWay: Yükleme Devam Ediyor
+autoChargeTip: Bakiye yetersiz olduğunda ön ödeme otomatik olarak yapılacaktır.
+autoChargeHelp: Geçmiş kullanıma bağlı olarak, tahmini bakiye önümüzdeki on gün içindeki tüketimden az olduğunda, bir aylık harcamalar otomatik olarak önceden tahsil edilecektir.
+autoChargeMin : Minimum yükleme her seferinde on dolar
+needHelp: Problemler var ?
+pleaseMail: Lutfen email
+topupAmount: Miktarı artırmak
+USD: Amerikan Doları
+EUR: EUR
+topUpFailed: Yükleme Başarısız
+rtRetry: Geri Dönün ve Tekrar Deneyin
+amount: Miktar
+exchangeRate: Döviz kuru
+pay: Ödemek
+topupOk: Yükleme Başarılı
+addCard: Yükleme Kartı Ekle
+addNewCard: Yeni ödeme kartı ekle
+setDefault: Varsayılan olarak ayarla
+expire: Son
+
+
+
+
+

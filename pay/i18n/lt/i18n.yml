@@ -1,0 +1,32 @@
+bill: Bill
+translate: Išversti
+topup: Prisipilti
+manual: vadovas
+creditCard: Kreditinė kortelė
+asset: Turtas
+amountInTotal: Iš viso
+needTopup: Pirmiausia papildykite
+topupOnWay: Vykdomas papildymas
+autoChargeTip: Kai likučio nepakanka, išankstinis apmokėjimas bus atliktas automatiškai
+autoChargeHelp: Remiantis istoriniu naudojimu, kai apskaičiuotas likutis yra mažesnis nei suvartojimas per ateinančias dešimt dienų, bus automatiškai iš anksto apmokestinamos vieno mėnesio išlaidos.
+autoChargeMin : Minimalus papildymas yra dešimt dolerių kiekvieną kartą
+needHelp: Turite problemų?
+pleaseMail: Prašome el. paštu
+topupAmount: Papildymo suma
+USD: USD
+EUR: Euras
+topUpFailed: Papildymas nepavyko
+rtRetry: Grįžkite ir bandykite dar kartą
+amount: Suma
+exchangeRate: Valiutos kursas
+pay: Mokėti
+topupOk: Papildymo sėkmė
+addCard: Pridėti papildymo kortelę
+addNewCard: Pridėti naują mokėjimo kortelę
+setDefault: Nustatyti kaip numatytąjį
+expire: Galiojimo laikas
+
+
+
+
+

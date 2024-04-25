@@ -1,0 +1,32 @@
+bill: Bil
+translate: Terjemah
+topup: Tambah nilai
+manual: Manual
+creditCard: Kad kredit
+asset: Aset
+amountInTotal: Jumlah
+needTopup: Sila TopUp Dulu
+topupOnWay: Topup Sedang Berlangsung
+autoChargeTip: Apabila baki tidak mencukupi, bayaran pendahuluan akan dibuat secara automatik
+autoChargeHelp: Berdasarkan penggunaan sejarah, apabila baki anggaran kurang daripada penggunaan dalam sepuluh hari berikutnya, perbelanjaan selama sebulan akan dipracaj secara automatik.
+autoChargeMin : Topup minimum ialah sepuluh ringgit setiap kali
+needHelp: Ada masalah?
+pleaseMail: Sila Email
+topupAmount: Jumlah Topup
+USD: Dolar Amerika
+EUR: EUR
+topUpFailed: Topup Gagal
+rtRetry: Kembali dan Cuba Lagi
+amount: Jumlah
+exchangeRate: Kadar pertukaran
+pay: Bayar
+topupOk: Kejayaan Topup
+addCard: Tambah Kad Topup
+addNewCard: Tambah kad caj baharu
+setDefault: Tetapkan sebagai Lalai
+expire: Tamat tempoh
+
+
+
+
+

@@ -1,0 +1,20 @@
+signIn: Ielogoties
+signUp: Pierakstīties
+mail: E-pasts
+password: Parole
+setPassword: Uzstādīt paroli
+agree: Piekrītu
+userAgreement: Lietotāja līgums
+resetPassword: Atiestatīt paroli
+name: Vārds
+code: Verifikācijas kods
+enterCode: Ievadiet saņemto verifikācijas kodu
+checkSpam: Neaizmirstiet pārbaudīt surogātpastu
+accountExist: Konts jau pastāv, pierakstieties tieši
+created: Konts izveidots
+exit: Izeja
+userAdmin: Lietotāja administrators
+addAccount: Pievienot kontu
+exitAll: Iziet no visiem
+nowMail: Tagad pasts
+newMail: Jauns pasts

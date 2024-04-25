@@ -1,0 +1,20 @@
+signIn: Đăng nhập
+signUp: Đăng ký
+mail: E-mail
+password: Mật khẩu
+setPassword: Đặt mật khẩu
+agree: Đồng ý
+userAgreement: sự thỏa thuận của người dùng
+resetPassword: Đặt lại mật khẩu
+name: Tên
+code: Mã xác nhận
+enterCode: Nhập mã xác minh bạn nhận được
+checkSpam: Đừng quên kiểm tra thư rác
+accountExist: Tài khoản đã tồn tại, đăng nhập trực tiếp
+created: Tài khoản đã được tạo
+exit: Lối ra
+userAdmin: Quản trị viên người dùng
+addAccount: Thêm tài khoản
+exitAll: Thoát tất cả
+nowMail: Gửi thư ngay bây giờ
+newMail: Thư điện tử mới

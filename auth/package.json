@@ -1,0 +1,48 @@
+{
+  "name": "@~3/auth",
+  "version": "0.1.62",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n/plugin.git"
+  },
+  "homepage": "https://atomgit.com/i18n/plugin/tree/dev/auth",
+  "keywords": [
+    "i18n.site/plugin"
+  ],
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    ".": "./lib/auth.js",
+    "./*": "./lib/*"
+  },
+  "files": [
+    "lib/*"
+  ],
+  "scripts": {},
+  "type": "module",
+  "peerDependencies": {
+    "@2-/bc": "^0.1.4",
+    "@2-/conf": "^0.1.2",
+    "@2-/cookie": "^0.1.7",
+    "@2-/errer": "^0.1.4",
+    "@2-/focus": "^0.1.1",
+    "@2-/fp": "^0.1.7",
+    "@2-/share": "^0.1.6",
+    "@3-/lang": "^0.1.10",
+    "@3-/on": "^0.0.1",
+    "@5-/auth": "^0.2.2",
+    "@3-/urlli": "^0.1.10",
+    "@~3/box": "workspace:^",
+    "@~3/boxmd": "workspace:^",
+    "@~3/edit": "workspace:^",
+    "@~3/input_mail_a": "workspace:^",
+    "@~3/lang": "workspace:^",
+    "@~3/menu": "workspace:^",
+    "@~3/resend": "workspace:^",
+    "@~3/wait": "workspace:^"
+  },
+  "devDependencies": {
+    "@3-/urlli": "../../site/node_modules/@3-/urlli",
+    "@2-/route": "../../site/node_modules/@2-/route"
+  }
+}

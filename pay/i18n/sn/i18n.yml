@@ -1,0 +1,32 @@
+bill: Bill
+translate: Shandura
+topup: TopUp
+manual: Manual
+creditCard: Kadhi rechikwereti
+asset: Assets
+amountInTotal: Total
+needTopup: Ndapota TopUp Kutanga
+topupOnWay: Topup In Progress
+autoChargeTip: Kana chiyero chikasakwana, prepayment inoitwa otomatiki
+autoChargeHelp: Zvichienderana nemashandisirwo ekare, kana mari inofungidzirwa ishoma pane yekushandisa mumazuva gumi anotevera, mari yemwedzi mumwe chete inochajwa kare.
+autoChargeMin : Iyo shoma yekuisa kumusoro imadhora gumi nguva yega yega
+needHelp: Une matambudziko?
+pleaseMail: Ndapota Email
+topupAmount: Topup Amount
+USD: USD
+EUR: EUR
+topUpFailed: Topup Yakundikana
+rtRetry: Dzoka uye Edza Zvakare
+amount: Mari
+exchangeRate: Exchange Rate
+pay: Pay
+topupOk: Topup Success
+addCard: Wedzera Topup Card
+addNewCard: Wedzera kadhi nyowani yekuchaja
+setDefault: Seta seDefault
+expire: Kupera
+
+
+
+
+

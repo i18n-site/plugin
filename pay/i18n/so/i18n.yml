@@ -1,0 +1,32 @@
+bill: Bill
+translate: Turjun
+topup: TopUp
+manual: Buugga
+creditCard: Kaarka deynta
+asset: Hantida
+amountInTotal: Wadarta
+needTopup: Fadlan Marka hore TopUp
+topupOnWay: Kor-u-qaadku wuu socdaa
+autoChargeTip: Marka baaqigu ku filnaan waayo, lacag-bixinta hore ayaa si toos ah loo samayn doonaa
+autoChargeHelp: Iyadoo lagu saleynayo isticmaalka taariikhiga ah, marka hadhaaga la qiyaasay uu ka yaraado isticmaalka tobanka maalmood ee soo socda, kharashyada qiimaha hal bil ayaa si toos ah loo dallaci doonaa.
+autoChargeMin : Lacagta ugu yar ee lagu shubo waa toban dollar mar kasta
+needHelp: Dhibaato ma leedahay?
+pleaseMail: Fadlan iimayl u dir
+topupAmount: Qadarka wax lagu shubo
+USD: USD
+EUR: EUR
+topUpFailed: Kor u qaadis waa guuldareystay
+rtRetry: Soo noqo oo marlabaad isku day
+amount: Qadarka
+exchangeRate: Qiimaha Sarrifka
+pay: Bixi
+topupOk: Guul Kordhinta
+addCard: Kudar Kaarka Kor-u-qaadka
+addNewCard: Ku dar kaadhka lacag-bixinta cusub
+setDefault: U dhig sidii Default
+expire: Dhicis
+
+
+
+
+

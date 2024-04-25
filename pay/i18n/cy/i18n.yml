@@ -1,0 +1,32 @@
+bill: Bil
+translate: Cyfieithwch
+topup: Atgyweirio
+manual: Llawlyfr
+creditCard: Cerdyn credyd
+asset: Asedau
+amountInTotal: Cyfanswm
+needTopup: Os gwelwch yn dda TopUp yn Gyntaf
+topupOnWay: Atodol ar Waith
+autoChargeTip: Pan fydd y balans yn annigonol, bydd rhagdaliad yn cael ei wneud yn awtomatig
+autoChargeHelp: Yn seiliedig ar ddefnydd hanesyddol, pan fydd y balans amcangyfrifedig yn llai na'r defnydd yn ystod y deng niwrnod nesaf, bydd gwerth un mis o dreuliau yn cael ei rag-godi'n awtomatig.
+autoChargeMin : Y swm atodol lleiaf yw deg doler bob tro
+needHelp: Yn cael problemau?
+pleaseMail: Ebostiwch os gwelwch yn dda
+topupAmount: Swm Atodol
+USD: doler yr UDA
+EUR: EUR
+topUpFailed: Methwyd Atodol
+rtRetry: Dychwelyd a Ceisiwch Eto
+amount: Swm
+exchangeRate: Cyfradd cyfnewid
+pay: Talu
+topupOk: Llwyddiant Atodol
+addCard: Ychwanegu Cerdyn Atodol
+addNewCard: Ychwanegu cerdyn codi tâl newydd
+setDefault: Osod fel ddiofyn
+expire: Dod i ben
+
+
+
+
+

@@ -1,0 +1,32 @@
+bill: Fature
+translate: Përkthejeni
+topup: Mbushje
+manual: Manual
+creditCard: Kartë Krediti
+asset: Asetet
+amountInTotal: Total
+needTopup: Ju lutemi, mbushni së pari
+topupOnWay: Mbushja Në vazhdim
+autoChargeTip: Kur bilanci është i pamjaftueshëm, parapagimi do të bëhet automatikisht
+autoChargeHelp: Bazuar në përdorimin historik, kur bilanci i vlerësuar është më i vogël se konsumi në dhjetë ditët e ardhshme, shpenzimet e një muaji do të parafaturohen automatikisht.
+autoChargeMin : Mbushja minimale është dhjetë dollarë çdo herë
+needHelp: Keni probleme?
+pleaseMail: Ju lutemi dërgoni email
+topupAmount: Shuma e mbushjes
+USD: USD
+EUR: EUR
+topUpFailed: Rimbushja dështoi
+rtRetry: Kthehu dhe Provo sërish
+amount: Shuma
+exchangeRate: Kursi i këmbimit
+pay: Paguaj
+topupOk: Mbushje Suksesi
+addCard: Shto Kartën Mbushëse
+addNewCard: Shto kartë të re tarifimi
+setDefault: Vendose si paresore
+expire: Skadimi
+
+
+
+
+

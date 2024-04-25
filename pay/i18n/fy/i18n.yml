@@ -1,0 +1,32 @@
+bill: Bill
+translate: Oersette
+topup: Byfolje
+manual: Hantlieding
+creditCard: Kredytkaart
+asset: Aktiva
+amountInTotal: Totaal
+needTopup: Please TopUp earst
+topupOnWay: Topup Yn Progress
+autoChargeTip: As it saldo net genôch is, sil foarôfbetelling automatysk makke wurde
+autoChargeHelp: Op grûn fan histoarysk gebrûk, as it rûsde saldo minder is dan it konsumpsje yn 'e kommende tsien dagen, wurde de kosten fan ien moanne automatysk foarôf laden.
+autoChargeMin : De minimale topup is elke kear tsien dollar
+needHelp: Hawwe jo problemen?
+pleaseMail: Please Email
+topupAmount: Topup Bedrach
+USD: USD
+EUR: EUR
+topUpFailed: Opladen mislearre
+rtRetry: Werom en besykje it nochris
+amount: Tal
+exchangeRate: Exchange Rate
+pay: Betelje
+topupOk: Topup Sukses
+addCard: Add Topup Card
+addNewCard: Add nije charge card
+setDefault: Set as Standert
+expire: Ferfaldatum
+
+
+
+
+

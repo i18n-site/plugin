@@ -1,0 +1,32 @@
+bill: Билл
+translate: Translate
+topup: TopUp
+manual: Manual
+creditCard: Кредиттик карта
+asset: Активдер
+amountInTotal: Бардыгы
+needTopup: Сураныч, биринчи толтуруңуз
+topupOnWay: Толуктоо жүрүп жатат
+autoChargeTip: Баланс жетишсиз болгондо, алдын ала төлөм автоматтык түрдө жүргүзүлөт
+autoChargeHelp: Тарыхый колдонуунун негизинде, болжолдуу калдык кийинки он күндөгү керектөөдөн аз болгондо, бир айлык чыгым автоматтык түрдө алдын ала төлөнөт.
+autoChargeMin : Минималдуу толуктоо ар бир жолу он долларды түзөт
+needHelp: Көйгөйлөр барбы?
+pleaseMail: Сураныч Email
+topupAmount: Толуктоо суммасы
+USD: АКШ доллары
+EUR: EUR
+topUpFailed: Толуктоо ишке ашкан жок
+rtRetry: Кайтуу жана дагы бир жолу аракет кылуу
+amount: Суммасы
+exchangeRate: Алмашуу курсу
+pay: Төлө
+topupOk: Topup ийгилик
+addCard: Толуктоо картасын кошуу
+addNewCard: Жаңы төлөм картасын кошуңуз
+setDefault: Демейки катары коюу
+expire: Жарамдуулук мөөнөтү
+
+
+
+
+

@@ -1,0 +1,32 @@
+bill: Bill
+translate: Hubad
+topup: TopUp
+manual: Manwal
+creditCard: Credit Card
+asset: Mga kabtangan
+amountInTotal: Total
+needTopup: Palihog TopUp Una
+topupOnWay: Nagpadayon ang Topup
+autoChargeTip: Kung kulang ang balanse, awtomatiko nga himuon ang prepayment
+autoChargeHelp: Base sa makasaysayan nga paggamit, kung ang gibanabana nga balanse mas ubos kaysa konsumo sa sunod nga napulo ka adlaw, ang usa ka bulan nga kantidad sa mga galastuhan awtomatiko nga ma-precharge.
+autoChargeMin : Ang minimum nga topup kay napulo ka dolyar matag higayon
+needHelp: Adunay mga problema?
+pleaseMail: Palihug Email
+topupAmount: Gidaghanon sa Topup
+USD: USD
+EUR: EUR
+topUpFailed: Napakyas ang Topup
+rtRetry: Balik ug Sulayi Pag-usab
+amount: kantidad
+exchangeRate: Bili sa Pagbaylo
+pay: Bayad
+topupOk: Kalampusan sa Topup
+addCard: Idugang ang Topup Card
+addNewCard: Pagdugang bag-ong charge card
+setDefault: Ibutang isip Default
+expire: Pag-expire
+
+
+
+
+

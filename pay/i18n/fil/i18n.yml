@@ -1,0 +1,32 @@
+bill: Bill
+translate: Isalin
+topup: TopUp
+manual: Manwal
+creditCard: Credit Card
+asset: Mga asset
+amountInTotal: Kabuuan
+needTopup: Mag TopUp muna
+topupOnWay: Isinasagawa ang Topup
+autoChargeTip: Kapag kulang ang balanse, awtomatikong gagawin ang prepayment
+autoChargeHelp: Batay sa makasaysayang paggamit, kapag ang tinantyang balanse ay mas mababa kaysa sa pagkonsumo sa susunod na sampung araw, ang isang buwang halaga ng mga gastos ay awtomatikong masisingil.
+autoChargeMin : Ang minimum na topup ay sampung dolyar bawat oras
+needHelp: May mga problema?
+pleaseMail: Paki-email
+topupAmount: Halaga ng Topup
+USD: USD
+EUR: EUR
+topUpFailed: Nabigo ang Topup
+rtRetry: Bumalik at Subukang Muli
+amount: Halaga
+exchangeRate: Exchange Rate
+pay: Magbayad
+topupOk: Tagumpay sa Topup
+addCard: Magdagdag ng Topup Card
+addNewCard: Magdagdag ng bagong charge card
+setDefault: Itakda bilang Default
+expire: Expiration
+
+
+
+
+

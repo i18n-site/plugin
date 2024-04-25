@@ -1,0 +1,32 @@
+bill: Bill
+translate: Tarjima
+topup: TopUp
+manual: Qo'llanma
+creditCard: Kredit kartasi
+asset: Aktivlar
+amountInTotal: Jami
+needTopup: Iltimos, avval toʻldiring
+topupOnWay: Toʻldirish davom etmoqda
+autoChargeTip: Balans etarli bo'lmaganda, oldindan to'lov avtomatik ravishda amalga oshiriladi
+autoChargeHelp: Tarixiy foydalanishga asoslanib, hisoblangan qoldiq keyingi o‘n kunlik iste’moldan kam bo‘lsa, bir oylik xarajatlar avtomatik tarzda oldindan undiriladi.
+autoChargeMin : Minimal to'lov har safar o'n dollarni tashkil qiladi
+needHelp: Muammolar bormi?
+pleaseMail: Iltimos, elektron pochta
+topupAmount: To'ldirish miqdori
+USD: USD
+EUR: Yevro
+topUpFailed: To‘ldirish amalga oshmadi
+rtRetry: Qaytish va qayta urinib ko'ring
+amount: Miqdori
+exchangeRate: Valyuta kursi
+pay: To'lash
+topupOk: Topup muvaffaqiyati
+addCard: Topup kartasini qo'shing
+addNewCard: Yangi to'lov kartasini qo'shing
+setDefault: Standart sifatida sozlash
+expire: Yaroqlilik muddati
+
+
+
+
+

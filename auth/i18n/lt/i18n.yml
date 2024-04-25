@@ -1,0 +1,20 @@
+signIn: Prisijungti
+signUp: Registruotis
+mail: El. paštas
+password: Slaptažodis
+setPassword: Nustatyti slaptažodį
+agree: Sutinku
+userAgreement: vartotojo sutikimas
+resetPassword: Atstatyti slaptažodį
+name: vardas
+code: Patvirtinimo kodas
+enterCode: Įveskite gautą patvirtinimo kodą
+checkSpam: Nepamirškite patikrinti šlamšto
+accountExist: Paskyra jau yra, prisijunkite tiesiogiai
+created: Paskyra sukurta
+exit: Išeiti
+userAdmin: Vartotojo administratorius
+addAccount: Pridėti paskyrą
+exitAll: Išeiti iš visų
+nowMail: Dabar paštas
+newMail: Naujas paštas

@@ -1,0 +1,32 @@
+bill: Bill
+translate: Vertaal
+topup: TopUp
+manual: Handleiding
+creditCard: Kredietkaart
+asset: Bates
+amountInTotal: Totaal
+needTopup: Vul asseblief eers aan
+topupOnWay: Aanvulling aan die gang
+autoChargeTip: Wanneer die balans onvoldoende is, sal vooruitbetaling outomaties gemaak word
+autoChargeHelp: Gebaseer op historiese gebruik, wanneer die beraamde saldo minder is as die verbruik in die volgende tien dae, sal een maand se uitgawes outomaties vooraf gehef word.
+autoChargeMin : Die minimum aanvulling is elke keer tien dollar
+needHelp: Het u probleme?
+pleaseMail: E-pos asseblief
+topupAmount: Aanvullingsbedrag
+USD: USD
+EUR: EUR
+topUpFailed: Kon nie aanvul nie
+rtRetry: Keer terug en probeer weer
+amount: Bedrag
+exchangeRate: Wisselkoers
+pay: Betaal
+topupOk: Aanvullingsukses
+addCard: Voeg byvulkaart by
+addNewCard: Voeg nuwe betaalkaart by
+setDefault: Stel as standaard
+expire: Vervaldatum
+
+
+
+
+

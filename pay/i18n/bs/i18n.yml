@@ -1,0 +1,32 @@
+bill: Bill
+translate: Prevedi
+topup: TopUp
+manual: Manual
+creditCard: Kreditna kartica
+asset: Imovina
+amountInTotal: Ukupno
+needTopup: Molimo prvo dopunite
+topupOnWay: Dopuna u toku
+autoChargeTip: Kada saldo nije dovoljan, avansno plaćanje će se automatski izvršiti
+autoChargeHelp: Na osnovu historijske upotrebe, kada je procijenjeni saldo manji od potrošnje u narednih deset dana, jednomjesečni troškovi će se automatski unaprijed naplatiti.
+autoChargeMin : Minimalna dopuna je deset dolara svaki put
+needHelp: Imate problema?
+pleaseMail: Molimo pošaljite email
+topupAmount: Iznos dopune
+USD: Američki dolar
+EUR: EUR
+topUpFailed: Dopuna nije uspjela
+rtRetry: Vratite se i pokušajte ponovo
+amount: Iznos
+exchangeRate: Kurs
+pay: Plati
+topupOk: Dopuna uspjeh
+addCard: Dodajte karticu za dopunu
+addNewCard: Dodajte novu karticu za plaćanje
+setDefault: Postavi kao zadano
+expire: Istek
+
+
+
+
+

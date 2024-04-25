@@ -1,0 +1,20 @@
+signIn: Нэвтрэх
+signUp: Бүртгүүлэх
+mail: Имэйл
+password: Нууц үг
+setPassword: Нууц үг тохируулах
+agree: Зөвшөөрч байна
+userAgreement: Хэрэглэгчийн гэрээ
+resetPassword: Нууц үгээ анхны байдалд нь оруулж
+name: Нэр
+code: Баталгаажуулах код
+enterCode: Хүлээн авсан баталгаажуулах кодыг оруулна уу
+checkSpam: Спамыг шалгахаа бүү мартаарай
+accountExist: Бүртгэл аль хэдийн байгаа тул шууд нэвтэрнэ үү
+created: Бүртгэл үүсгэсэн
+exit: гарах
+userAdmin: Хэрэглэгчийн админ
+addAccount: Данс нэмэх
+exitAll: Бүгдээс гарах
+nowMail: Одоо шуудан
+newMail: Шинэ шуудан

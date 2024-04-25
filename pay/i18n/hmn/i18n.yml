@@ -1,0 +1,32 @@
+bill: Bill
+translate: Txhais
+topup: TopUp
+manual: Phau ntawv
+creditCard: Daim npav rho nyiaj
+asset: Cov cuab tam
+amountInTotal: Tag nrho
+needTopup: Thov TopUp Ua Ntej
+topupOnWay: Topup In Progress
+autoChargeTip: Thaum qhov nyiaj tshuav tsis txaus, kev them nyiaj ua ntej yuav raug txiav
+autoChargeHelp: Raws li kev siv keeb kwm yav dhau los, thaum kwv yees qhov nyiaj tshuav tsawg dua qhov kev noj nyob rau hauv kaum hnub tom ntej, ib hlis tus nqi ntawm cov nuj nqis yuav raug them ua ntej.
+autoChargeMin : Qhov tsawg kawg nkaus topup yog kaum duas las txhua zaus
+needHelp: Puas muaj teeb meem?
+pleaseMail: Thov Email
+topupAmount: Tus nqi them
+USD: USD
+EUR: EUR
+topUpFailed: Kev them nyiaj poob haujlwm
+rtRetry: Rov qab thiab sim dua
+amount: Tus nqi
+exchangeRate: Txauv tus nqi
+pay: Them
+topupOk: Topup Success
+addCard: Ntxiv Daim Npav Topup
+addNewCard: Ntxiv daim npav tshiab
+setDefault: Teem raws li Default
+expire: Kev tas sij hawm
+
+
+
+
+

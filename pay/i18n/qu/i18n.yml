@@ -1,0 +1,32 @@
+bill: Factura
+translate: Tikray
+topup: TopUp nisqa
+manual: Makiwan
+creditCard: Tarjeta de Crédito nisqa
+asset: Imakuna
+amountInTotal: Llapan
+needTopup: Ama hina kaspa, Ñawpaqtaqa TopUp ruway
+topupOnWay: Topup En Progreso nisqa
+autoChargeTip: Saldo mana suficiente kaqtinqa, kikillanmantan ñawpaqmanta pagakunqa
+autoChargeHelp: Uso histórico nisqaman hina, maypachachus saldo estimado nisqa pisi kanqa chay consumo nisqamanta chunka p’unchaypi, huk killamanta gastokuna kikillanmanta ñawpaqmanta cobrasqa kanqa.
+autoChargeMin : Aswan pisi recargaqa sapa kuti chunka qullqim
+needHelp: Sasachakuykuna kanchu ?
+pleaseMail: Ama hina kaspa, Correo electrónico nisqapi
+topupAmount: Cantidad de Recarga
+USD: USD
+EUR: EUR
+topUpFailed: Topup nisqa mana allinchu
+rtRetry: Kutiy hinaspa hukmanta kallpanchakuy
+amount: Chanin
+exchangeRate: Tasa de Cambio nisqa
+pay: Payllay
+topupOk: Topup Éxito nisqa
+addCard: Tarjeta de Recarga nisqa yapay
+addNewCard: Musuq tarjeta de cargo yapay
+setDefault: Default hina churay
+expire: Vencimiento nisqa
+
+
+
+
+

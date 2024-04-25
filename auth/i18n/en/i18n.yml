@@ -1,0 +1,20 @@
+signIn: SignIn
+signUp: SignUp
+mail: Email
+password: Password
+setPassword: Set Password
+agree: Agree
+userAgreement: User Agreement
+resetPassword: Reset Password
+name: Name
+code: Verification Code
+enterCode: Enter Verification Code You Received
+checkSpam: Don't Forget To Check Spam
+accountExist: Account Already Exist, SignIn Directly
+created: Account Created
+exit: Exit
+userAdmin: User Admin
+addAccount: Add Account
+exitAll: Exit All
+nowMail: Now Mail
+newMail: New Mail

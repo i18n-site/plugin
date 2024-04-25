@@ -1,0 +1,32 @@
+bill: Bill
+translate: Traduir
+topup: Omplir
+manual: Manual
+creditCard: Targeta de crèdit
+asset: Actius
+amountInTotal: Total
+needTopup: Si us plau, recarregueu primer
+topupOnWay: Recàrrega en curs
+autoChargeTip: Quan el saldo sigui insuficient, el prepagament es farà automàticament
+autoChargeHelp: En funció de l'ús històric, quan el saldo estimat sigui inferior al consum dels deu dies següents, es carregarà automàticament un mes de despeses.
+autoChargeMin : La recàrrega mínima és de deu dòlars cada vegada
+needHelp: Teniu problemes?
+pleaseMail: Si us plau, envieu un correu electrònic
+topupAmount: Import de recàrrega
+USD: USD
+EUR: EUR
+topUpFailed: La recàrrega ha fallat
+rtRetry: Torna i torna-ho a provar
+amount: Import
+exchangeRate: Tipus de canvi
+pay: Pagar
+topupOk: Èxit de recàrrega
+addCard: Afegeix una targeta de recàrrega
+addNewCard: Afegeix una nova targeta de crèdit
+setDefault: Establir com a defecte
+expire: Caducitat
+
+
+
+
+

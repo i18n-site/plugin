@@ -1,0 +1,20 @@
+signIn: להתחבר
+signUp: הירשם
+mail: אימייל
+password: סיסמה
+setPassword: הגדר סיסמא
+agree: לְהַסכִּים
+userAgreement: הסכמת המשתמש
+resetPassword: לאפס את הסיסמה
+name: שֵׁם
+code: קוד אימות
+enterCode: הזן את קוד האימות שקיבלת
+checkSpam: אל תשכח לבדוק דואר זבל
+accountExist: החשבון כבר קיים, היכנס ישירות
+created: חשבון נוצר
+exit: יְצִיאָה
+userAdmin: מנהל משתמש
+addAccount: הוסף חשבון
+exitAll: צא מכל
+nowMail: עכשיו דואר
+newMail: דואר חדש

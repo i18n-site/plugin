@@ -1,0 +1,32 @@
+bill: Regning
+translate: Oversætte
+topup: TopUp
+manual: brugervejledning
+creditCard: Kreditkort
+asset: Aktiver
+amountInTotal: Total
+needTopup: Fyld venligst først
+topupOnWay: Topup i gang
+autoChargeTip: Når saldoen er utilstrækkelig, vil der automatisk blive foretaget forudbetaling
+autoChargeHelp: Baseret på historisk brug, når den estimerede saldo er mindre end forbruget i de næste ti dage, vil en måneds udgifter automatisk blive forudopkrævet.
+autoChargeMin : Minimum opfyldning er ti dollars hver gang
+needHelp: Har du problemer?
+pleaseMail: Venligst e-mail
+topupAmount: Topup beløb
+USD: USD
+EUR: EUR
+topUpFailed: Topup mislykkedes
+rtRetry: Vend tilbage og prøv igen
+amount: Beløb
+exchangeRate: Valutakurs
+pay: Betale
+topupOk: Topup succes
+addCard: Tilføj påfyldningskort
+addNewCard: Tilføj nyt betalingskort
+setDefault: Indstillet som standard
+expire: Udløb
+
+
+
+
+

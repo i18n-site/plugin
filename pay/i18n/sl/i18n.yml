@@ -1,0 +1,32 @@
+bill: račun
+translate: Prevesti
+topup: Dopolnitev
+manual: Priročnik
+creditCard: Kreditna kartica
+asset: Sredstva
+amountInTotal: Skupaj
+needTopup: Najprej dopolnite
+topupOnWay: Polnjenje v teku
+autoChargeTip: Ko stanje ni zadostno, bo predplačilo samodejno izvedeno
+autoChargeHelp: Na podlagi pretekle porabe, ko je ocenjeno stanje manjše od porabe v naslednjih desetih dneh, bodo stroški za en mesec samodejno vnaprej zaračunani.
+autoChargeMin : Najmanjše plačilo je vsakič deset dolarjev
+needHelp: Imate težave?
+pleaseMail: Prosim e-pošto
+topupAmount: Znesek dopolnitve
+USD: ameriški dolar
+EUR: EUR
+topUpFailed: Polnjenje ni uspelo
+rtRetry: Vrnite se in poskusite znova
+amount: Znesek
+exchangeRate: Menjalni tečaj
+pay: plačaj
+topupOk: Uspešno polnjenje
+addCard: Dodajte dopolnilno kartico
+addNewCard: Dodajte novo plačilno kartico
+setDefault: Nastavi na privzeto
+expire: Iztek
+
+
+
+
+

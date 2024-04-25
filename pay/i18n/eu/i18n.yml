@@ -1,0 +1,32 @@
+bill: Bill
+translate: Itzuli
+topup: TopUp
+manual: Eskuliburua
+creditCard: Kreditu txartela
+asset: Aktiboak
+amountInTotal: Guztira
+needTopup: Mesedez, kargatu lehenik
+topupOnWay: Kargaketa Eraikitzen
+autoChargeTip: Saldoa nahikoa ez denean, aurreordainketa automatikoki egingo da
+autoChargeHelp: Erabilera historikoaren arabera, zenbatetsitako saldoa hurrengo hamar egunetan kontsumoa baino txikiagoa denean, hilabeteko gastuen balioa automatikoki kobratuko da.
+autoChargeMin : Gutxieneko karga hamar dolar da aldi bakoitzean
+needHelp: Arazoak dituzu?
+pleaseMail: Mesedez, e-posta
+topupAmount: Topup zenbatekoa
+USD: USD
+EUR: Euro
+topUpFailed: Kargatzeak huts egin du
+rtRetry: Itzuli eta saiatu berriro
+amount: Zenbatekoa
+exchangeRate: Truke-tasa
+pay: Ordaindu
+topupOk: Topup arrakasta
+addCard: Gehitu kargatzeko txartela
+addNewCard: Gehitu karga-txartel berria
+setDefault: Ezarri lehenetsi gisa
+expire: Iraungitzea
+
+
+
+
+

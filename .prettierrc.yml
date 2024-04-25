@@ -1,0 +1,7 @@
+pugFramework: svelte
+pugAttributeSeparator: none
+pugSortAttributes: as-is
+pugEmptyAttributes: none
+# plugins:
+#   - prettier-plugin-toml
+#   - "@prettier/plugin-pug"

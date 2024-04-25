@@ -1,0 +1,32 @@
+bill: Facture
+translate: Traduire
+topup: Recharge
+manual: Manuel
+creditCard: Carte de crédit
+asset: Actifs
+amountInTotal: Total
+needTopup: Veuillez d'abord recharger
+topupOnWay: Recharge en cours
+autoChargeTip: Lorsque le solde est insuffisant, un prépaiement sera automatiquement effectué
+autoChargeHelp: Sur la base de l'historique d'utilisation, lorsque le solde estimé est inférieur à la consommation des dix prochains jours, l'équivalent d'un mois de dépenses sera automatiquement préfacturé.
+autoChargeMin : La recharge minimale est de dix dollars à chaque fois
+needHelp: Avoir des problèmes ?
+pleaseMail: S'il vous plaît envoyer un courriel
+topupAmount: Montant du rechargement
+USD: USD
+EUR: EUR
+topUpFailed: Échec de la recharge
+rtRetry: Revenez et réessayez
+amount: Montant
+exchangeRate: Taux de change
+pay: Payer
+topupOk: Succès de la recharge
+addCard: Ajouter une carte de recharge
+addNewCard: Ajouter une nouvelle carte de paiement
+setDefault: Définir par défaut
+expire: Expiration
+
+
+
+
+

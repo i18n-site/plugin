@@ -1,0 +1,20 @@
+signIn: Кирүү
+signUp: Кирүү
+mail: Email
+password: Купуя сөз
+setPassword: Сырсөз коюу
+agree: макул
+userAgreement: Колдонуучу келишими
+resetPassword: Сырсөздү кайра коюу
+name: аты
+code: Текшерүү коду
+enterCode: Сиз алган текшерүү кодун киргизиңиз
+checkSpam: Спамды текшерүүнү унутпаңыз
+accountExist: Каттоо эсеби мурунтан эле бар, Түздөн-түз кирүү
+created: Каттоо эсеби түзүлгөн
+exit: Чыгыңыз
+userAdmin: Колдонуучунун администратору
+addAccount: Каттоо эсебин кошуу
+exitAll: Баарынан чыгуу
+nowMail: Азыр Почта
+newMail: Жаңы почта

@@ -1,0 +1,20 @@
+signIn: Најави се
+signUp: Пријавете се
+mail: Е-пошта
+password: Лозинка
+setPassword: Ставете лозинка
+agree: Се согласувам
+userAgreement: Кориснички договор
+resetPassword: Ресетирање на Лозинка
+name: Име
+code: Код за верификација
+enterCode: Внесете го кодот за потврда што го добивте
+checkSpam: Не заборавајте да проверите спам
+accountExist: Сметката веќе постои, најавете се директно
+created: Создадена е сметка
+exit: Излезете
+userAdmin: Кориснички админ
+addAccount: Додадете сметка
+exitAll: Излезете од сите
+nowMail: Сега пошта
+newMail: Нова пошта

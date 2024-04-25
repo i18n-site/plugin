@@ -1,0 +1,32 @@
+bill: Účtovat
+translate: přeložit
+topup: TopUp
+manual: Manuál
+creditCard: Kreditní karta
+asset: Aktiva
+amountInTotal: Celkový
+needTopup: Nejprve prosím doplňte
+topupOnWay: Probíhá doplňování
+autoChargeTip: Pokud není zůstatek nedostatečný, bude automaticky provedena platba předem
+autoChargeHelp: Na základě historického využití, kdy je odhadovaný zůstatek nižší než spotřeba v následujících deseti dnech, budou automaticky předúčtovány měsíční výdaje.
+autoChargeMin : Minimální dobití je pokaždé deset dolarů
+needHelp: Máte problémy?
+pleaseMail: Prosím e-mail
+topupAmount: Dobitá částka
+USD: americký dolar
+EUR: eur
+topUpFailed: Dobití se nezdařilo
+rtRetry: Vraťte se a zkuste to znovu
+amount: Množství
+exchangeRate: Směnný kurz
+pay: Platit
+topupOk: Úspěch dobíjení
+addCard: Přidat dobíjecí kartu
+addNewCard: Přidejte novou platební kartu
+setDefault: Nastavit jako výchozí
+expire: Vypršení
+
+
+
+
+

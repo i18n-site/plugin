@@ -1,0 +1,20 @@
+signIn: SignIn
+signUp: SignUp
+mail: ئېلخەت
+password: پارول
+setPassword: پارول بەلگىلەڭ
+agree: ماقۇل
+userAgreement: ئىشلەتكۈچى كېلىشىمى
+resetPassword: پارولنى ئەسلىگە كەلتۈرۈش
+name: ئىسمى
+code: دەلىللەش كودى
+enterCode: تاپشۇرۇۋالغان دەلىللەش كودىنى كىرگۈزۈڭ
+checkSpam: ئەخلەت خەتنى تەكشۈرۈشنى ئۇنتۇپ قالماڭ
+accountExist: ھېسابات ئاللىبۇرۇن مەۋجۇت ، بىۋاسىتە تىزىملىتىڭ
+created: ھېسابات قۇرۇلدى
+exit: چىقىش
+userAdmin: ئىشلەتكۈچى باشقۇرغۇچى
+addAccount: ھېسابات قوشۇڭ
+exitAll: ھەممىنى چېكىڭ
+nowMail: ھازىر خەت
+newMail: يېڭى خەت

@@ -1,0 +1,32 @@
+bill: Bils
+translate: Tulkot
+topup: Piepildīt
+manual: Rokasgrāmata
+creditCard: Kredītkarte
+asset: Aktīvi
+amountInTotal: Kopā
+needTopup: Lūdzu, vispirms papildiniet
+topupOnWay: Notiek papildināšana
+autoChargeTip: Ja atlikums nav pietiekams, priekšapmaksa tiks veikta automātiski
+autoChargeHelp: Pamatojoties uz vēsturisko lietojumu, ja aptuvenais atlikums ir mazāks par patēriņu nākamajās desmit dienās, viena mēneša izdevumi tiks automātiski iekasēti.
+autoChargeMin : Minimālais papildinājums ir desmit dolāri katru reizi
+needHelp: Vai ir problēmas?
+pleaseMail: Lūdzu, e-pastu
+topupAmount: Papildinājuma summa
+USD: USD
+EUR: eiro
+topUpFailed: Papildināšana neizdevās
+rtRetry: Atgriezieties un mēģiniet vēlreiz
+amount: Summa
+exchangeRate: Maiņas kurss
+pay: Maksājiet
+topupOk: Papildināšanas veiksme
+addCard: Pievienojiet papildināšanas karti
+addNewCard: Pievienojiet jaunu maksājumu karti
+setDefault: Iestatīta pēc noklusējuma
+expire: Derīguma termiņš
+
+
+
+
+

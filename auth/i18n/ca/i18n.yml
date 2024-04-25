@@ -1,0 +1,20 @@
+signIn: Inicieu la sessió
+signUp: Registra't
+mail: Correu electrònic
+password: Contrasenya
+setPassword: Estableix la contrasenya
+agree: Acordar
+userAgreement: Acord d'usuari
+resetPassword: Restablir la contrasenya
+name: Nom
+code: Codi de verificació
+enterCode: Introduïu el codi de verificació que heu rebut
+checkSpam: No us oblideu de comprovar el correu brossa
+accountExist: El compte ja existeix, inicieu la sessió directament
+created: Compte creat
+exit: Sortida
+userAdmin: Administrador d'usuari
+addAccount: Afegir compte
+exitAll: Surt de tot
+nowMail: Ara Correu
+newMail: Correu nou
