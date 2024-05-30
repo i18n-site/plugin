@@ -1,0 +1,20 @@
+signUp: Rekisteröidy
+signIn: Kirjaudu Sisään
+mail: Mail
+password: Salasana
+agree: Olla Samaa Mieltä
+resetPassword: Nollaa Salasana
+userAgreement: Käyttäjäsopimus
+setPassword: Aseta Salasana
+name: Nimi
+code: Vahvistuskoodi
+enterCode: Anna saamasi vahvistuskoodi
+checkSpam: Älä Unohda Tarkistaa Roskapostia
+accountExist: Tili on jo olemassa, kirjaudu sisään suoraan
+created: Tili Luotu Onnistuneesti
+exit: Kirjaudu Ulos
+userAdmin: Käyttäjien Hallinta
+addAccount: Lisää Uusi Tili
+exitAll: Kirjaudu Ulos Kaikista
+nowMail: Nykyinen Sähköpostiosoite
+newMail: Uusi Postilaatikko

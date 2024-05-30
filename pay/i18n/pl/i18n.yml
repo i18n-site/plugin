@@ -1,0 +1,26 @@
+bill: Rachunek
+translate: Tłumaczyć
+topup: Uzupełniać
+manual: Podręcznik
+creditCard: Karta Kredytowa
+asset: Aktywa
+amountInTotal: Całkowity
+needTopup: Najpierw Naładuj Akumulator
+topupOnWay: Ładowanie W Toku
+autoChargeTip: Jeżeli saldo będzie niewystarczające, automatycznie zostanie dokonana przedpłata
+autoChargeHelp: W przypadku gdy saldo będzie niewystarczające, automatycznie potrącona zostanie zaliczka w wysokości zaległości powiększonej o zaległości
+needHelp: Ma problem?
+pleaseMail: Proszę O E-mail
+topupAmount: Kwota Doładowania
+USD: Dolar
+EUR: EUR
+topUpFailed: Doładowanie Nie Powiodło Się
+rtRetry: Wróć I Spróbuj Ponownie
+amount: Ilość
+exchangeRate: Kurs Wymiany
+pay: Płacić
+topupOk: Doładowanie Powiodło Się
+addCard: Dodaj Kartę Doładowania
+addNewCard: Dodaj Nową Kartę Doładowującą
+setDefault: Ustaw Jako Domyślne
+expire: Data Wygaśnięcia

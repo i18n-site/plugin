@@ -1,0 +1,61 @@
+box-top = -24px
+box-color = #F2F2F2
+
+dialog.uBox
+  border 0.5em solid box-color
+  cursor auto
+  max-width 500px
+  min-width 310px
+  outline none
+  overflow visible
+  padding 0
+  position relative
+  top 16px
+
+  a, button
+    cursor pointer
+
+  &::backdrop
+    background rgba(0, 0, 0, 0.6)
+
+  &>div
+    box-sizing border-box
+    overflow auto
+
+    &>h1
+      text-align center
+
+  &:before
+    border 1px solid #ccc
+    box-shadow 0 0 0.25em #eee
+    content ''
+    height 100%
+    left 0
+    pointer-events none
+    position absolute
+    top 0
+    width 100%
+    z-index 1
+
+  &>b.w
+    margin 96px auto
+
+  &>a.x
+    background var(--svgX) 0 0 / cover no-repeat
+    border 2px solid transparent
+    border-radius 50%
+    bottom: box-top * 2
+    cursor pointer
+    display flex
+    filter invert(100%)
+    height 1.5em
+    left 50%
+    margin-left -1em
+    position absolute
+    width 1.5em
+    z-index 2
+
+    &:hover
+      background-image var(--svgXs)
+      border-color #000
+      font-weight bold

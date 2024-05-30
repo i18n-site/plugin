@@ -1,0 +1,20 @@
+signUp: Inregistreaza-te
+signIn: Log In
+mail: Poștă
+password: Parola
+agree: De Acord
+resetPassword: Reseteaza Parola
+userAgreement: Acordul Utilizatorului
+setPassword: Seteaza Parola
+name: Nume
+code: Cod De Verificare
+enterCode: Vă rugăm să introduceți codul de verificare primit
+checkSpam: Nu Uitați Să Verificați Spam-ul
+accountExist: Contul există deja, conectați-vă direct
+created: Cont Creat Cu Succes
+exit: Sign Out
+userAdmin: Managementul Utilizatorilor
+addAccount: Adăugați Un Cont Nou
+exitAll: Deconectați-vă Pe Toate
+nowMail: Email-ul Curent
+newMail: Cutie Poștală Nouă

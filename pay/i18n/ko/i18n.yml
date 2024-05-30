@@ -1,0 +1,26 @@
+bill: 청구서
+translate: 번역하다
+topup: 충전하다
+manual: 수동
+creditCard: 신용 카드
+asset: 자산
+amountInTotal: 총
+needTopup: 먼저 충전해주세요
+topupOnWay: 충전 진행 중
+autoChargeTip: 잔액이 부족할 경우 자동으로 선불결제가 이루어집니다.
+autoChargeHelp: 잔액이 부족한 경우 연체금에 연체금을 더한 금액이 선불로 자동 차감됩니다.
+needHelp: 문제가 있나요?
+pleaseMail: 이메일을 보내주세요
+topupAmount: 충전금액
+USD: 달러
+EUR: EUR
+topUpFailed: 재충전 실패
+rtRetry: 돌아가서 다시 시도해 보세요.
+amount: 수량
+exchangeRate: 환율
+pay: 지불하다
+topupOk: 재충전 성공
+addCard: 충전카드 추가
+addNewCard: 새 충전카드 추가
+setDefault: 기본값으로 설정
+expire: 만료일

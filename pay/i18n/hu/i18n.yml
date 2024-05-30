@@ -1,0 +1,26 @@
+bill: Számla
+translate: Fordít
+topup: Feltölt
+manual: Kézikönyv
+creditCard: Hitelkártya
+asset: Eszközök
+amountInTotal: Teljes
+needTopup: Kérjük, Először Töltse Fel
+topupOnWay: Feltöltés Folyamatban
+autoChargeTip: Ha az egyenleg nem elegendő, az előleg automatikusan megtörténik
+autoChargeHelp: Ha az egyenleg nem elegendő, a hátralékkal és a hátralékkal megegyező előleget automatikusan levonják
+needHelp: Problémája van?
+pleaseMail: Kérem E-mailben
+topupAmount: Feltöltés Összege
+USD: Dollár
+EUR: EUR
+topUpFailed: Az Újratöltés Nem Sikerült
+rtRetry: Menj Vissza És Próbáld Újra
+amount: Mennyiség
+exchangeRate: Árfolyam
+pay: Fizetés
+topupOk: Az Újratöltés Sikeres
+addCard: Töltőkártya Hozzáadása
+addNewCard: Új Feltöltőkártya Hozzáadása
+setDefault: Beállítás Alapértelmezettként
+expire: Lejárati Dátum

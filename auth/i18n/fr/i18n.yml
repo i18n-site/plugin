@@ -1,0 +1,20 @@
+signUp: Registre
+signIn: Se Connecter
+mail: Mail
+password: Mot De Passe
+agree: Accepter
+resetPassword: Réinitialiser Le Mot De Passe
+userAgreement: Accord De L'utilisateur
+setPassword: Définir Le Mot De Passe
+name: Nom
+code: Le Code De Vérification
+enterCode: Veuillez saisir le code de vérification que vous avez reçu
+checkSpam: N'oubliez Pas De Vérifier Les Spams
+accountExist: Le compte existe déjà, connectez-vous directement
+created: Compte Créé Avec Succès
+exit: Se Déconnecter
+userAdmin: Gestion Des Utilisateurs
+addAccount: Ajouter Un Nouveau Compte
+exitAll: Tout Déconnecter
+nowMail: Email Actuel
+newMail: Nouvelle Boîte Aux Lettres

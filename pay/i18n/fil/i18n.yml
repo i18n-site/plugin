@@ -1,0 +1,26 @@
+bill: Bill
+translate: Isalin
+topup: Top Up
+manual: Manwal
+creditCard: Credit Card
+asset: Mga Asset
+amountInTotal: Kabuuan
+needTopup: Paki-recharge Muna
+topupOnWay: Isinasagawa Ang Recharge
+autoChargeTip: Kapag kulang ang balanse, awtomatikong gagawin ang prepayment
+autoChargeHelp: Kapag ang balanse ay hindi sapat, ang isang paunang bayad na katumbas ng mga atraso kasama ang mga atraso ay awtomatikong ibabawas
+needHelp: May Problema?
+pleaseMail: Paki-email
+topupAmount: Halaga Ng Recharge
+USD: Dolyar
+EUR: EUR
+topUpFailed: Nabigo Ang Pag-recharge
+rtRetry: Bumalik At Subukang Muli
+amount: Dami
+exchangeRate: Exchange Rate
+pay: Magbayad
+topupOk: Matagumpay Na Mag-recharge
+addCard: Magdagdag Ng Recharge Card
+addNewCard: Magdagdag Ng Bagong Recharge Card
+setDefault: Itakda Bilang Default
+expire: Petsa Ng Pag-expire

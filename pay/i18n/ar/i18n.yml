@@ -1,0 +1,26 @@
+bill: فاتورة
+translate: يترجم
+topup: فوق حتى
+manual: يدوي
+creditCard: بطاقة إئتمان
+asset: أصول
+amountInTotal: المجموع
+needTopup: يرجى إعادة الشحن أولا
+topupOnWay: إعادة الشحن قيد التقدم
+autoChargeTip: عندما يكون الرصيد غير كاف، سيتم إجراء الدفع المسبق تلقائيًا
+autoChargeHelp: عندما يكون الرصيد غير كاف، سيتم خصم دفعة مقدمة تساوي المتأخرات بالإضافة إلى المتأخرات تلقائيا
+needHelp: لديه مشكلة ؟
+pleaseMail: يرجى البريد الالكتروني
+topupAmount: مبلغ إعادة الشحن
+USD: دولار
+EUR: يورو
+topUpFailed: فشل إعادة الشحن
+rtRetry: العودة وحاول مرة أخرى
+amount: كمية
+exchangeRate: سعر الصرف
+pay: يدفع
+topupOk: تمت عملية إعادة الشحن بنجاح
+addCard: إضافة بطاقة إعادة الشحن
+addNewCard: إضافة بطاقة شحن جديدة
+setDefault: تعيين كافتراضي
+expire: تاريخ الانتهاء

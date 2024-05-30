@@ -1,0 +1,26 @@
+bill: Facture
+translate: Traduire
+topup: Recharger
+manual: Manuel
+creditCard: Carte De Crédit
+asset: Actifs
+amountInTotal: Total
+needTopup: Veuillez D'abord Recharger
+topupOnWay: Recharge En Cours
+autoChargeTip: Lorsque le solde est insuffisant, un prépaiement sera automatiquement effectué
+autoChargeHelp: Lorsque le solde est insuffisant, une avance égale aux arriérés majorés des arriérés sera automatiquement déduite
+needHelp: Vous avez un problème ?
+pleaseMail: S'il Vous Plaît Envoyer Un Courriel
+topupAmount: Montant De Recharge
+USD: Dollar
+EUR: EUR
+topUpFailed: Échec De La Recharge
+rtRetry: Revenez En Arrière Et Réessayez
+amount: Quantité
+exchangeRate: Taux De Change
+pay: Payer
+topupOk: Recharge Réussie
+addCard: Ajouter Une Carte De Recharge
+addNewCard: Ajouter Une Nouvelle Carte De Recharge
+setDefault: Définir Par Défaut
+expire: Date D'expiration

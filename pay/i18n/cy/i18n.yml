@@ -1,0 +1,26 @@
+bill: Bil
+translate: Cyfieithwch
+topup: Top Up
+manual: Llawlyfr
+creditCard: Cerdyn Credyd
+asset: Asedau
+amountInTotal: Cyfanswm
+needTopup: Os Gwelwch Yn Dda Ad-daliad Yn Gyntaf
+topupOnWay: Ad-daliad Ar Waith
+autoChargeTip: Pan fydd y balans yn annigonol, bydd rhagdaliad yn cael ei wneud yn awtomatig
+autoChargeHelp: Pan fo’r balans yn annigonol, bydd taliad ymlaen llaw sy’n cyfateb i’r ôl-ddyledion ynghyd â’r ôl-ddyledion yn cael ei ddidynnu’n awtomatig
+needHelp: Mae ganddo Broblem?
+pleaseMail: Ebostiwch Os Gwelwch Yn Dda
+topupAmount: Swm Ad-daliad
+USD: Doler
+EUR: EUR
+topUpFailed: Methwyd Ad-daliad
+rtRetry: Ewch Yn Ôl A Ceisiwch Eto
+amount: Nifer
+exchangeRate: Cyfradd Cyfnewid
+pay: Talu
+topupOk: Llwyddiannus I Ad-dalu
+addCard: Ychwanegu Cerdyn Ad-dalu
+addNewCard: Ychwanegu Cerdyn Ail-lenwi Newydd
+setDefault: Osod Fel Ddiofyn
+expire: Dyddiad Dod I Ben

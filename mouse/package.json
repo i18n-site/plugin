@@ -1,0 +1,26 @@
+{
+  "name": "@8p/mouse",
+  "version": "0.3.2",
+  "repository": "https://atomgit.com/i18n/plugin.git",
+  "homepage": "https://atomgit.com/i18n/plugin/tree/dev/mouse",
+  "keywords": [
+    "i18n.site/plugin"
+  ],
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    ".": "./lib/index.js",
+    "./*": "./lib/*"
+  },
+  "files": [
+    "*"
+  ],
+  "type": "module",
+  "dependencies": {
+    "@2-/new": "^0.1.1",
+    "gsap": "^3.12.5",
+    "lodash-es": "^4.17.21",
+    "paper": "^0.12.17",
+    "simplex-noise": "^4.0.1"
+  }
+}

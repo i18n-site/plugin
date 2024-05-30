@@ -1,0 +1,20 @@
+signUp: ثبت نام
+signIn: وارد شدن
+mail: ایمیل
+password: کلمه عبور
+agree: موافق
+resetPassword: بازنشانی رمز عبور
+userAgreement: توافق کاربر
+setPassword: قراردادن رمز عبور
+name: نام
+code: کد تایید
+enterCode: لطفاً کد تأیید دریافتی را وارد کنید
+checkSpam: فراموش نکنید که هرزنامه را بررسی کنید
+accountExist: حساب از قبل وجود دارد، مستقیما وارد شوید
+created: حساب با موفقیت ایجاد شد
+exit: خروج از سیستم
+userAdmin: مدیریت کاربر
+addAccount: افزودن حساب جدید
+exitAll: از همه خارج شوید
+nowMail: ایمیل فعلی
+newMail: صندوق پست جدید

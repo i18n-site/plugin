@@ -1,0 +1,15 @@
+[‼️]: ✏️README.mdt
+
+# @3-/md
+
+[test/main.coffee](./test/main.coffee) :
+
+```coffee
+./test/main.coffee
+```
+
+output :
+
+```
+./out.txt
+```

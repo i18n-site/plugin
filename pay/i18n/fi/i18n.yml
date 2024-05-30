@@ -1,0 +1,26 @@
+bill: Laskuttaa
+translate: Kääntää
+topup: Top Up
+manual: Manuaalinen
+creditCard: Luottokortti
+asset: Omaisuus
+amountInTotal: Kaikki Yhteensä
+needTopup: Lataa Ensin
+topupOnWay: Lataus Käynnissä
+autoChargeTip: Kun saldo ei riitä, ennakkomaksu suoritetaan automaattisesti
+autoChargeHelp: Jos saldo on riittämätön, ennakkomaksu, joka vastaa rästiä plus rästit, vähennetään automaattisesti
+needHelp: Onko ongelma?
+pleaseMail: Lähetä Sähköpostia
+topupAmount: Latauksen Määrä
+USD: Dollari
+EUR: EUROA
+topUpFailed: Lataus Epäonnistui
+rtRetry: Palaa Takaisin Ja Yritä Uudelleen
+amount: Määrä
+exchangeRate: Vaihtokurssi
+pay: Maksaa
+topupOk: Lataus Onnistui
+addCard: Lisää Latauskortti
+addNewCard: Lisää Uusi Latauskortti
+setDefault: Oletusasetuksena
+expire: Päättymispäivä

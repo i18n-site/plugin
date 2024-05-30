@@ -1,0 +1,26 @@
+bill: Bill
+translate: Tarjima
+topup: To'ldirish
+manual: Qo'llanma
+creditCard: Kredit Kartasi
+asset: Aktivlar
+amountInTotal: Jami
+needTopup: Iltimos, Avval Zaryadlang
+topupOnWay: Zaryadlash Davom Etmoqda
+autoChargeTip: Balans etarli bo'lmaganda, oldindan to'lov avtomatik ravishda amalga oshiriladi
+autoChargeHelp: Balans etarli bo'lmaganda, avans to'lovi avtomatik ravishda kechiktirilgan va kechiktirilgan qarzga teng bo'ladi.
+needHelp: Muammo bormi?
+pleaseMail: Iltimos, Elektron Pochta
+topupAmount: To'ldirish Miqdori
+USD: Dollar
+EUR: YEVRO
+topUpFailed: Zaryadlash Amalga Oshmadi
+rtRetry: Orqaga Qayting Va Qayta Urinib Ko'ring
+amount: Miqdori
+exchangeRate: Valyuta Kursi
+pay: To'lash
+topupOk: Muvaffaqiyatli Zaryadlash
+addCard: To'ldirish Kartasini Qo'shing
+addNewCard: Yangi To'ldirish Kartasini Qo'shing
+setDefault: Standart Sifatida Sozlash
+expire: Quyidagi Sanagacha Foydalanilsin

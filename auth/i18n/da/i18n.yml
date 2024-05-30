@@ -1,0 +1,20 @@
+signUp: Tilmeld
+signIn: Log På
+mail: Post
+password: Adgangskode
+agree: Enig
+resetPassword: Nulstille Kodeord
+userAgreement: Brugeraftale
+setPassword: Indstil Adgangskode
+name: Navn
+code: Verifikationskode
+enterCode: Indtast venligst den bekræftelseskode, du har modtaget
+checkSpam: Glem Ikke At Tjekke Spam
+accountExist: Kontoen eksisterer allerede, log ind direkte
+created: Konto Oprettet
+exit: Log Ud
+userAdmin: Brugerstyring
+addAccount: Tilføj Ny Konto
+exitAll: Log Alle Ud
+nowMail: Nuværende Email
+newMail: Ny Postkasse

@@ -1,0 +1,12 @@
+tmp.sh
+
+*.wasm
+bun.lockb
+node_modules
+pnpm-lock.yaml
+
+.DS_Store
+
+target/
+lib/
+__pycache__/

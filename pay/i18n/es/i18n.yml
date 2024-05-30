@@ -1,0 +1,26 @@
+bill: Factura
+translate: Traducir
+topup: Completar
+manual: Manual
+creditCard: Tarjeta De Crédito
+asset: Activos
+amountInTotal: Total
+needTopup: Por Favor Recarga Primero
+topupOnWay: Recarga En Curso
+autoChargeTip: Cuando el saldo sea insuficiente, el prepago se realizará automáticamente
+autoChargeHelp: Cuando el saldo sea insuficiente, se descontará automáticamente un anticipo igual a los atrasos más los atrasos.
+needHelp: Tiene un problema ?
+pleaseMail: Por Favor Envíe Un Correo Electrónico
+topupAmount: Cantidad De Recarga
+USD: Dólar
+EUR: EUR
+topUpFailed: Recarga Fallida
+rtRetry: Vuelve E Inténtalo De Nuevo
+amount: Cantidad
+exchangeRate: Tipo De Cambio
+pay: Pagar
+topupOk: Recarga Exitosa
+addCard: Agregar Tarjeta De Recarga
+addNewCard: Agregar Nueva Tarjeta De Recarga
+setDefault: Establecer Por Defecto
+expire: Fecha De Caducidad

@@ -1,0 +1,20 @@
+signUp: Registrera
+signIn: Logga In
+mail: Post
+password: Lösenord
+agree: Hålla Med
+resetPassword: Återställ Lösenord
+userAgreement: Användaravtal
+setPassword: Välj Lösenord
+name: Namn
+code: Verifierings Kod
+enterCode: Vänligen ange verifieringskoden du fick
+checkSpam: Glöm Inte Att Kolla Spam
+accountExist: Kontot finns redan, logga in direkt
+created: Konto Skapat Framgångsrikt
+exit: Logga Ut
+userAdmin: Användarhantering
+addAccount: Lägg Till Nytt Konto
+exitAll: Logga Ut Alla
+nowMail: Nuvarande Email
+newMail: Ny Brevlåda

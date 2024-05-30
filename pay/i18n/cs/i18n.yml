@@ -1,0 +1,26 @@
+bill: Účtovat
+translate: Přeložit
+topup: Doplňte
+manual: Manuál
+creditCard: Kreditní Karta
+asset: Aktiva
+amountInTotal: Celkový
+needTopup: Nejprve Prosím Dobijte
+topupOnWay: Probíhá Dobíjení
+autoChargeTip: Pokud není zůstatek nedostatečný, bude automaticky provedena platba předem
+autoChargeHelp: V případě nedostatečného zůstatku se automaticky odečte záloha ve výši nedoplatku plus nedoplatek
+needHelp: má problém?
+pleaseMail: Prosím E-mail
+topupAmount: Částka Dobití
+USD: Dolar
+EUR: EUR
+topUpFailed: Dobití Se Nezdařilo
+rtRetry: Vraťte Se A Zkuste To Znovu
+amount: Množství
+exchangeRate: Směnný Kurz
+pay: Platit
+topupOk: Úspěšné Dobití
+addCard: Přidat Dobíjecí Kartu
+addNewCard: Přidat Novou Dobíjecí Kartu
+setDefault: Nastavit Jako Výchozí
+expire: Datum Vypršení Platnosti

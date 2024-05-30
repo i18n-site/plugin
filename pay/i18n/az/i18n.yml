@@ -1,0 +1,26 @@
+bill: Bill
+translate: Tərcümə Etmək
+topup: Yuxarı
+manual: Manual
+creditCard: Kredit Kartı
+asset: Aktivlər
+amountInTotal: Ümumi
+needTopup: Zəhmət Olmasa, Əvvəlcə Doldurun
+topupOnWay: Doldurulur
+autoChargeTip: Balans kifayət etmədikdə, əvvəlcədən ödəniş avtomatik olaraq həyata keçiriləcək
+autoChargeHelp: Balans qeyri-kafi olduqda, gecikmiş borclara bərabər avans ödənişi avtomatik olaraq çıxılacaq.
+needHelp: Problem var?
+pleaseMail: E-poçt Göndərin
+topupAmount: Doldurma Məbləği
+USD: Dollar
+EUR: AVRO
+topUpFailed: Doldurulmadı
+rtRetry: Geri Qayıdın Və Yenidən Cəhd Edin
+amount: Kəmiyyət
+exchangeRate: Valyuta Məzənnəsi
+pay: Ödəmək
+topupOk: Doldurma Uğurlu
+addCard: Doldurma Kartı Əlavə Edin
+addNewCard: Yeni Doldurma Kartı Əlavə Edin
+setDefault: Defolt Olaraq Təyin Edin
+expire: Son Istifadə Tarixi

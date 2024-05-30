@@ -1,0 +1,26 @@
+bill: Bill
+translate: Translate
+topup: Top Up
+manual: Manual
+creditCard: Credit Card
+asset: Assets
+amountInTotal: Total
+needTopup: Please Recharge First
+topupOnWay: Recharge In Progress
+autoChargeTip: When the balance is insufficient, prepayment will be automatically made
+autoChargeHelp: When the balance is insufficient, an advance payment equal to the arrears plus the arrears will be automatically deducted
+needHelp: Has A Problem ?
+pleaseMail: Please Email
+topupAmount: Recharge Amount
+USD: Dollar
+EUR: EUR
+topUpFailed: Recharge Failed
+rtRetry: Go Back And Try Again
+amount: Quantity
+exchangeRate: Exchange Rate
+pay: Pay
+topupOk: Recharge Successful
+addCard: Add Recharge Card
+addNewCard: Add New Recharge Card
+setDefault: Set As Default
+expire: Expiry Date

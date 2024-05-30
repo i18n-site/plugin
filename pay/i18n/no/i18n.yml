@@ -1,0 +1,26 @@
+bill: Regning
+translate: Oversette
+topup: Fylle Opp
+manual: Håndbok
+creditCard: Kredittkort
+asset: Eiendeler
+amountInTotal: Total
+needTopup: Lad Opp Først
+topupOnWay: Lading Pågår
+autoChargeTip: Når saldoen er utilstrekkelig, foretas forskuddsbetaling automatisk
+autoChargeHelp: Når saldoen er utilstrekkelig, trekkes automatisk et forskudd tilsvarende restbeløpet pluss restbeløpet fra
+needHelp: har et problem?
+pleaseMail: Send En E-post
+topupAmount: Oppladingsbeløp
+USD: Dollar
+EUR: EUR
+topUpFailed: Opplading Mislyktes
+rtRetry: Gå Tilbake Og Prøv Igjen
+amount: Mengde
+exchangeRate: Vekslingskurs
+pay: Betale
+topupOk: Opplading Vellykket
+addCard: Legg Til Ladekort
+addNewCard: Legg Til Nytt Ladekort
+setDefault: Satt Som Standard
+expire: Utløpsdato

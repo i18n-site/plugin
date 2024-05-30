@@ -1,0 +1,26 @@
+bill: Bill
+translate: Išversti
+topup: Prisipilti
+manual: Vadovas
+creditCard: Kreditinė Kortelė
+asset: Turtas
+amountInTotal: Iš Viso
+needTopup: Pirmiausia Įkraukite
+topupOnWay: Vykdomas Įkrovimas
+autoChargeTip: Kai likučio nepakanka, išankstinis apmokėjimas bus atliktas automatiškai
+autoChargeHelp: Kai likučio nepakanka, automatiškai išskaičiuojamas išankstinis mokėjimas, lygus įsiskolinimams ir įsiskolinimams
+needHelp: Turi problemų?
+pleaseMail: Prašome El. Paštu
+topupAmount: Įkrovimo Suma
+USD: Doleris
+EUR: EURAS
+topUpFailed: Nepavyko Įkrauti
+rtRetry: Grįžkite Ir Bandykite Dar Kartą
+amount: Kiekis
+exchangeRate: Valiutos Kursas
+pay: Mokėti
+topupOk: Įkrovimas Sėkmingas
+addCard: Pridėkite Papildymo Kortelę
+addNewCard: Pridėti Naują Papildymo Kortelę
+setDefault: Nustatyti Kaip Numatytąjį
+expire: Galiojimo Pabaigos Data

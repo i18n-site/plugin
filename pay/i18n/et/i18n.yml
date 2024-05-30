@@ -1,0 +1,26 @@
+bill: Bill
+translate: Tõlgi
+topup: Täiendamine
+manual: Käsiraamat
+creditCard: Krediitkaart
+asset: Varad
+amountInTotal: Kokku
+needTopup: Palun Laadige Esmalt
+topupOnWay: Laadimine On Pooleli
+autoChargeTip: Kui saldo on ebapiisav, tehakse ettemaks automaatselt
+autoChargeHelp: Kui jääk on ebapiisav, arvatakse automaatselt maha ettemakse summas võlgnevus pluss võlgnevus
+needHelp: Kas on probleem?
+pleaseMail: Palun Saatke E-kiri
+topupAmount: Laadimissumma
+USD: Dollar
+EUR: EUR
+topUpFailed: Laadimine Ebaõnnestus
+rtRetry: Minge Tagasi Ja Proovige Uuesti
+amount: Kogus
+exchangeRate: Vahetuskurss
+pay: Maksma
+topupOk: Laadimine Õnnestus
+addCard: Lisa Laadimiskaart
+addNewCard: Lisage Uus Laadimiskaart
+setDefault: Määra Vaikeväärtuseks
+expire: Aegumiskuupäev

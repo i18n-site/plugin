@@ -1,0 +1,26 @@
+bill: Rekening
+translate: Vertalen
+topup: Opwaarderen
+manual: Handmatig
+creditCard: Kredietkaart
+asset: Activa
+amountInTotal: Totaal
+needTopup: Laad Eerst Op
+topupOnWay: Opladen Bezig
+autoChargeTip: Wanneer het saldo onvoldoende is, wordt er automatisch een vooruitbetaling gedaan
+autoChargeHelp: Wanneer het saldo onvoldoende is, wordt automatisch een voorschot in mindering gebracht dat gelijk is aan de betalingsachterstand plus de betalingsachterstand.
+needHelp: Heeft u een probleem?
+pleaseMail: Mail Austublieft
+topupAmount: Bedrag Opwaarderen
+USD: Dollar
+EUR: EUR
+topUpFailed: Opladen Mislukt
+rtRetry: Ga Terug En Probeer Het Opnieuw
+amount: Hoeveelheid
+exchangeRate: Wisselkoers
+pay: Betalen
+topupOk: Opladen Succesvol
+addCard: Oplaadkaart Toevoegen
+addNewCard: Nieuwe Oplaadkaart Toevoegen
+setDefault: Instellen Als Standaard
+expire: Vervaldatum

@@ -1,0 +1,20 @@
+signUp: Register
+signIn: Log In
+mail: Mail
+password: Wachtwoord
+agree: Mee Eens Zijn
+resetPassword: Wachtwoord Opnieuw Instellen
+userAgreement: Gebruikersovereenkomst
+setPassword: Stel Een Wachtwoord In
+name: Naam
+code: Verificatie Code
+enterCode: Voer de verificatiecode in die u heeft ontvangen
+checkSpam: Vergeet Niet Om Spam Te Controleren
+accountExist: Het account bestaat al, log direct in
+created: Account Succesvol Aangemaakt
+exit: Afmelden
+userAdmin: Gebruikersbeheer
+addAccount: Nieuw Account Toevoegen
+exitAll: Alles Uitloggen
+nowMail: Huidige Email
+newMail: Nieuwe Brievenbus

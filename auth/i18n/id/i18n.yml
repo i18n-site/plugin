@@ -1,0 +1,20 @@
+signUp: Daftar
+signIn: Gabung
+mail: Surat
+password: Kata Sandi
+agree: Setuju
+resetPassword: Atur Ulang Kata Sandi
+userAgreement: Perjanjian Pengguna
+setPassword: Tetapkan Kata Sandi
+name: Nama
+code: Kode Verifikasi
+enterCode: Silakan masukkan kode verifikasi yang Anda terima
+checkSpam: Jangan Lupa Cek Spam
+accountExist: Akun sudah ada, langsung login
+created: Akun Berhasil Dibuat
+exit: Keluar
+userAdmin: Manajemen Pengguna
+addAccount: Tambahkan Akun Baru
+exitAll: Keluar Semua
+nowMail: Email Saat Ini
+newMail: Kotak Surat Baru

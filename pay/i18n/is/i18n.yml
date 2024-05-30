@@ -1,0 +1,26 @@
+bill: Bill
+translate: Þýða
+topup: Efst Upp
+manual: Handbók
+creditCard: Kreditkort
+asset: Eignir
+amountInTotal: Samtals
+needTopup: Vinsamlegast Endurhlaða Fyrst
+topupOnWay: Endurhlaða Í Gangi
+autoChargeTip: Þegar staðan er ófullnægjandi mun fyrirframgreiðsla fara fram sjálfkrafa
+autoChargeHelp: Þegar staðan er ófullnægjandi verður sjálfkrafa dregin fyrirframgreiðsla sem nemur vanskilum auk vanskila.
+needHelp: Er vandamál?
+pleaseMail: Vinsamlegast Sendu Tölvupóst
+topupAmount: Hleðslumagn
+USD: Dollar
+EUR: EUR
+topUpFailed: Endurhleðsla Mistókst
+rtRetry: Farðu Aftur Og Reyndu Aftur
+amount: Magn
+exchangeRate: Gengi
+pay: Borga
+topupOk: Endurhlaðan Tókst
+addCard: Bæta Við Endurhleðslukorti
+addNewCard: Bæta Við Nýju Hleðslukorti
+setDefault: Stilla Sem Sjálfgefið
+expire: Fyrningardagsetning
