@@ -1,0 +1,28 @@
+bill: Rekening
+translate: Vertaal
+topup: Vul Aan
+manual: Handleiding
+creditCard: Kredietkaart
+asset: Bates
+amountInTotal: Totaal
+needTopup: Herlaai Asseblief Eers
+topupOnWay: Herlaai Aan Die Gang
+autoChargeTip: Wanneer die balans onvoldoende is, sal vooruitbetaling outomaties gemaak word
+autoChargeHelp: Wanneer die saldo onvoldoende is, sal die agterstallige bedrag outomaties afgetrek word
+needHelp: Het 'n Probleem?
+pleaseMail: E-pos Asseblief
+topupAmount: Herlaai Bedrag
+USD: Dollar
+# EUR: Euro
+topUpFailed: Herlaai Het Misluk
+rtRetry: Gaan Terug En Probeer Weer
+amount: Hoeveelheid
+# Wisselkoers: Wisselkoers
+pay: Betaal
+topupOk: Herlaai Suksesvol
+addCard: Voeg Herlaaikaart By
+addNewCard: Voeg Nuwe Herlaaikaart By
+setDefault: Stel As Standaard
+expire: Verval Datum
+cardFee: Hanteringsfooi
+

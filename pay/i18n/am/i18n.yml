@@ -1,0 +1,28 @@
+bill: ሂሳብ
+translate: መተርጎም
+topup: መሙላት
+manual: መመሪያ
+creditCard: የዱቤ ካርድ
+asset: ንብረቶች
+amountInTotal: ጠቅላላ
+needTopup: እባክዎ መጀመሪያ ይሙሉ
+topupOnWay: መሙላት በሂደት ላይ ነው።
+autoChargeTip: ቀሪ ሂሳቡ በቂ ካልሆነ የቅድሚያ ክፍያ በራስ-ሰር ይከናወናል
+autoChargeHelp: ቀሪ ሒሳቡ በቂ ካልሆነ፣ ውዝፍ ዕዳው መጠን በራስ-ሰር ይቀንሳል
+needHelp: ችግር አለበት?
+pleaseMail: እባክዎን በኢሜል ይላኩ
+topupAmount: የመሙያ መጠን
+USD: ዶላር
+# ዩሮ: ዩሮ
+topUpFailed: መሙላት አልተሳካም።
+rtRetry: ተመለስ እና እንደገና ሞክር
+amount: ብዛት
+# የምንዛሬ ተመን: የምንዛሬ ተመን
+pay: መክፈል
+topupOk: መሙላት ተሳክቷል።
+addCard: የመሙያ ካርድ አክል
+addNewCard: አዲስ የኃይል መሙያ ካርድ ያክሉ
+setDefault: እንደ ነባሪ አዘጋጅ
+expire: የአገልግሎት ማብቂያ ጊዜ
+cardFee: አያያዝ ክፍያ
+

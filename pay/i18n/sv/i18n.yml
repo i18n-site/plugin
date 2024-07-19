@@ -1,0 +1,28 @@
+bill: Räkningen
+translate: Översätt
+topup: Fylla På
+manual: Manuell
+creditCard: Kreditkort
+asset: Tillgångar
+amountInTotal: Total
+needTopup: Ladda Först
+topupOnWay: Uppladdning Pågår
+autoChargeTip: När saldot är otillräckligt kommer förskottsbetalning att göras automatiskt
+autoChargeHelp: När saldot är otillräckligt dras beloppet i efterskott automatiskt
+needHelp: Har Ett Problem?
+pleaseMail: Vänligen Maila
+topupAmount: Ladda Belopp
+USD: Dollar
+# EUR: Euro
+topUpFailed: Uppladdningen Misslyckades
+rtRetry: Gå Tillbaka Och Försök Igen
+amount: Kvantitet
+# Växelkurs: Växelkurs
+pay: Betala
+topupOk: Uppladdningen Lyckades
+addCard: Lägg Till Laddningskort
+addNewCard: Lägg Till Nytt Laddningskort
+setDefault: Ange Som Standard
+expire: Utgångsdatum
+cardFee: Expeditionsavgift
+

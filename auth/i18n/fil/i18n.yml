@@ -1,0 +1,20 @@
+signUp: Mag-signUp
+signIn: Mag-signIn
+mail: Mail
+password: Password
+agree: Sumang-ayon
+resetPassword: I-reset Ang Password
+userAgreement: Kasunduan Ng User
+setPassword: Itakda Ang Password
+name: Pangalan
+code: Verification Code
+enterCode: Pakilagay ang verification code na iyong natanggap
+checkSpam: Huwag Kalimutang Suriin Ang Spam
+accountExist: Umiiral na ang account, direktang mag-log in
+created: Matagumpay Na Nagawa Ang Account
+exit: Mag-sign Out
+userAdmin: Pamamahala Ng Gumagamit
+addAccount: Magdagdag Ng Bagong Account
+exitAll: Lumabas Lahat
+nowMail: Ngayon Email
+newMail: Bagong Email

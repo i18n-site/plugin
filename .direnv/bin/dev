@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+exec watchexec --shell=none \
+  --project-origin . -w ./src \
+  --exts pug,coffee,js,mjs,json,wasm,txt,yaml,svelte \
+  -r \
+  -- ./run.sh $@

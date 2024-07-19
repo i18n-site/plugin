@@ -1,0 +1,28 @@
+bill: Bill
+translate: Shandura
+topup: Kumusoro Kumusoro
+manual: Manual
+creditCard: Kadhi Rechikwereti
+asset: Assets
+amountInTotal: Zvachose
+needTopup: Please Recharge First
+topupOnWay: Kuchajisa Kuri Kuitika
+autoChargeTip: Kana chiyero chikasakwana, prepayment inoitwa otomatiki
+autoChargeHelp: Kana mari yasara ikasakwana, mari yakasarirwa nechikwereti inobva yabviswa
+needHelp: Ane Dambudziko?
+pleaseMail: Ndapota Email
+topupAmount: Recharge Amount
+USD: Dollar
+# EUR: Euro
+topUpFailed: Kuchajazve Kwatadza
+rtRetry: Dzokera Uye Edza Zvakare
+amount: Quantity
+# ExchangeRate: exchange Rate
+pay: Pay
+topupOk: Kuchajazve Kwabudirira
+addCard: Wedzera Recharge Kadhi
+addNewCard: Wedzera Kadhi Recharge Nyowani
+setDefault: Set As Default
+expire: Expiry Date
+cardFee: Muripo Wekubata
+

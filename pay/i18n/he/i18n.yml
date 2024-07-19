@@ -1,0 +1,28 @@
+bill: שטר כסף
+translate: לתרגם
+topup: להעלות
+manual: מדריך ל
+creditCard: כרטיס אשראי
+asset: נכסים
+amountInTotal: סה"כ
+needTopup: נא להטעין תחילה
+topupOnWay: טעינה בעיצומה
+autoChargeTip: כאשר היתרה אינה מספקת, התשלום מראש יתבצע אוטומטית
+autoChargeHelp: כאשר היתרה אינה מספקת, יקוזז אוטומטית הסכום בפיגור
+needHelp: יש בעיה?
+pleaseMail: נא לשלוח מייל
+topupAmount: כמות הטעינה מחדש
+USD: דוֹלָר
+# יורו: יורו
+topUpFailed: הטעינה נכשלה
+rtRetry: חזור ונסה שוב
+amount: כַּמוּת
+# שער חליפין: שער חליפין
+pay: לְשַׁלֵם
+topupOk: טעינה מוצלחת
+addCard: הוסף כרטיס טעינה
+addNewCard: הוסף כרטיס טעינה חדש
+setDefault: נקבע כברירת מחדל
+expire: תאריך תפוגה
+cardFee: דמי טיפול
+

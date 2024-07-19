@@ -1,0 +1,7 @@
+[‼️]: ✏️README.mdt
+
+# @3-/mfs
+
+./src/Mfs.svelte : (main + foot) + scrolbar
+
+./src/Mfsh.svelte : Mfs + scroll to location.hash

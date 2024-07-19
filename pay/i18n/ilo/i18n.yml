@@ -1,0 +1,28 @@
+bill: Babayadan
+translate: Itarus
+topup: Top Up Ti Ag-top Up
+manual: Giya
+creditCard: Credit Card
+asset: Dagiti Sanikua
+amountInTotal: Dagup
+needTopup: Pangngaasiyo Ta I-recharge Nga Umuna
+topupOnWay: Agtultuloy Ti Panag-recharge
+autoChargeTip: No saan nga umdas ti balanse, automatiko a mabayadan ti nasakbay
+autoChargeHelp: No saan nga umdas ti balanse, automatiko a maikissay ti gatad nga atrasado
+needHelp: Adda Problemana ?
+pleaseMail: Pangngaasiyo Ta Ag-emailkayo
+topupAmount: Recharge Ti Kantidad
+USD: Doliar
+# EUR: Euro: Euro Nga
+topUpFailed: Napaay Ti Recharge
+rtRetry: Agsublika Ket Padasem Manen
+amount: Kaadu
+# exchangeRate: Ti Rate Ti Panagsinnukat
+pay: Agbayad
+topupOk: Naballigi Ti Panag-recharge
+addCard: Inayon Ti Recharge Card
+addNewCard: Inayon ti baro a recharge card
+setDefault: Naikeddeng A Kas Default
+expire: Petsa Ti Panagleppas
+cardFee: Bayad Ti Panangtaming
+

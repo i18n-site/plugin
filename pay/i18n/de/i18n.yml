@@ -1,0 +1,28 @@
+bill: Rechnung
+translate: Übersetzen
+topup: Nachfüllen
+manual: Handbuch
+creditCard: Kreditkarte
+asset: Vermögenswerte
+amountInTotal: Gesamt
+needTopup: Bitte Zuerst Aufladen
+topupOnWay: Aufladen Läuft
+autoChargeTip: Wenn der Restbetrag nicht ausreicht, erfolgt automatisch eine Vorauszahlung
+autoChargeHelp: Reicht der Restbetrag nicht aus, wird der Rückstand automatisch abgezogen
+needHelp: Hat Ein Problem ?
+pleaseMail: Bitte Mailen
+topupAmount: Aufladebetrag
+USD: Dollar
+# EUR: Euro
+topUpFailed: Das Aufladen Ist Fehlgeschlagen
+rtRetry: Gehen Sie zurück und versuchen Sie es erneut
+amount: Menge
+# ExchangeRate: Wechselkurs
+pay: Zahlen
+topupOk: Aufladen Erfolgreich
+addCard: Aufladekarte Hinzufügen
+addNewCard: Neue Aufladekarte Hinzufügen
+setDefault: Als Standard Einstellen
+expire: Verfallsdatum
+cardFee: Bearbeitungsgebühr
+

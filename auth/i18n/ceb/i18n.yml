@@ -1,0 +1,20 @@
+signUp: SignUp
+signIn: SignIn
+mail: Mail
+password: Password
+agree: Uyon
+resetPassword: I-reset Ang Password
+userAgreement: Kasabutan Sa Gumagamit
+setPassword: Ibutang Ang Password
+name: Ngalan
+code: Verification Code
+enterCode: Palihug isulod ang verification code nga imong nadawat
+checkSpam: Ayaw Kalimti Ang Pagsusi Sa Spam
+accountExist: Anaa na ang account, diretso nga mag log in
+created: Malamposong Nahimo Ang Account
+exit: Sign Out
+userAdmin: Pagdumala Sa Gumagamit
+addAccount: Pagdugang Bag-ong Account
+exitAll: Exit Tanan
+nowMail: Karon Email
+newMail: Bag-ong Email
