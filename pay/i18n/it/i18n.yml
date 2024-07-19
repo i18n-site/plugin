@@ -2,6 +2,7 @@ bill: Conto
 translate: Tradurre
 topup: Riempire
 manual: Manuale
+bonus: Bonus
 creditCard: Carta Di Credito
 asset: Risorse
 amountInTotal: Totale
@@ -21,7 +22,7 @@ amount: Quantità
 pay: Paga
 topupOk: Ricarica Riuscita
 addCard: Aggiungi Carta Di Ricarica
-addNewCard: Aggiungi Nuova Carta Di Ricarica
+addNewCard: Aggiungi una nuova carta di ricarica
 setDefault: Imposta Come Predefinito
 expire: Data Di Scadenza
 cardFee: Commissione Di Gestione

@@ -2,6 +2,7 @@ bill: بل
 translate: ترجمہ
 topup: اوپر
 manual: دستی
+bonus: اضافی انعام
 creditCard: کریڈٹ کارڈ
 asset: اثاثے
 amountInTotal: کل
@@ -17,7 +18,7 @@ USD: ڈالر
 topUpFailed: ریچارج ناکام ہوگیا۔
 rtRetry: واپس جائیں اور دوبارہ کوشش کریں۔
 amount: مقدار
-# exchange Rate : شرح تبادلہ
+# exchangeRate : شرح تبادلہ
 pay: ادائیگی
 topupOk: ریچارج کامیاب
 addCard: ریچارج کارڈ شامل کریں۔

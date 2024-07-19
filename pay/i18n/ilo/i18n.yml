@@ -2,6 +2,7 @@ bill: Babayadan
 translate: Itarus
 topup: Top Up Ti Ag-top Up
 manual: Giya
+bonus: Bonus Nga
 creditCard: Credit Card
 asset: Dagiti Sanikua
 amountInTotal: Dagup
@@ -17,7 +18,7 @@ USD: Doliar
 topUpFailed: Napaay Ti Recharge
 rtRetry: Agsublika Ket Padasem Manen
 amount: Kaadu
-# exchangeRate: Ti Rate Ti Panagsinnukat
+# exchangeRate: Ti Gatad Ti Panagsinnukat
 pay: Agbayad
 topupOk: Naballigi Ti Panag-recharge
 addCard: Inayon Ti Recharge Card

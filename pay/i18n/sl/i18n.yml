@@ -2,12 +2,13 @@ bill: Račun
 translate: Prevesti
 topup: Dopolnite
 manual: Priročnik
+bonus: Bonus
 creditCard: Kreditna Kartica
 asset: Sredstev
 amountInTotal: Skupaj
 needTopup: Najprej Napolnite
 topupOnWay: Polnjenje V Teku
-autoChargeTip: Ko stanje ni zadostno, se predplačilo izvede samodejno
+autoChargeTip: Ko stanje ni zadostno, bo predplačilo samodejno izvedeno
 autoChargeHelp: Ko stanje ni zadostno, se zaostali znesek samodejno odšteje
 needHelp: Ima Problem?
 pleaseMail: Prosim Po E-pošti

@@ -2,12 +2,13 @@ bill: Factura
 translate: Traducir
 topup: Completar
 manual: Manual
+bonus: Bonificación
 creditCard: Tarxeta De Crédito
 asset: Activos
 amountInTotal: Total
 needTopup: Recarga Primeiro
 topupOnWay: Recarga En Curso
-autoChargeTip: Cando o saldo sexa insuficiente, o prepago realizarase automaticamente
+autoChargeTip: Cando o saldo sexa insuficiente, o prepago farase automaticamente
 autoChargeHelp: Cando o saldo resulte insuficiente, o importe atrasado descontarase automaticamente
 needHelp: Ten Un Problema?
 pleaseMail: Por Favor Correo Electrónico

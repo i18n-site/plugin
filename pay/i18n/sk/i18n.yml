@@ -2,12 +2,13 @@ bill: Účet
 translate: Preložiť
 topup: Doplniť
 manual: Manuálny
+bonus: Bonus
 creditCard: Kreditná Karta
 asset: Aktíva
 amountInTotal: Celkom
 needTopup: Najskôr Nabite
 topupOnWay: Prebieha Nabíjanie
-autoChargeTip: Ak je zostatok nedostatočný, platba vopred sa automaticky vykoná
+autoChargeTip: Ak je zostatok nedostatočný, automaticky sa vykoná platba vopred
 autoChargeHelp: Ak je zostatok nedostatočný, suma v omeškaní sa automaticky odpočíta
 needHelp: Má Problém?
 pleaseMail: Prosím Email

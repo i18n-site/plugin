@@ -68,7 +68,7 @@ b
 > @5-/pay > pay payBill
   @3-/time/nMonth.js
   @3-/time/dayMD.js
-  ~/lib/I18N.js > _$translate _$manual _$topup _$cardFee
+  ~/lib/I18N.js > _$translate _$bonus _$manual _$topup _$cardFee
   ./HelpMail.svelte
   ./Main.svelte
   ./Menu.svelte
@@ -83,7 +83,7 @@ onI18n ->
         @[_$topup]
         # if kid == 1 then '' else @[[_$manual][kid]]
         # TODO
-        @[[_$manual][kid]] or ''
+        @[[_$manual,_$bonus][kid]] or ''
       ]
     (kid, rid)=> # API
       [

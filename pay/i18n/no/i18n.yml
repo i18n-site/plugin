@@ -2,6 +2,7 @@ bill: Regning
 translate: Oversette
 topup: Fylle Opp
 manual: Håndbok
+bonus: Bonus
 creditCard: Kredittkort
 asset: Eiendeler
 amountInTotal: Total
@@ -10,7 +11,7 @@ topupOnWay: Opplading Pågår
 autoChargeTip: Når saldoen er utilstrekkelig, foretas forskuddsbetaling automatisk
 autoChargeHelp: Når saldoen er utilstrekkelig, trekkes det etterskuddsbeløp automatisk
 needHelp: Har Et Problem?
-pleaseMail: Vennligst Send En E-post
+pleaseMail: Send En E-post
 topupAmount: Oppladingsbeløp
 USD: Dollar
 # EUR: Euro

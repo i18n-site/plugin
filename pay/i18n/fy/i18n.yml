@@ -2,12 +2,13 @@ bill: Bill
 translate: Oersette
 topup: Byfolje
 manual: Hantlieding
+bonus: Bonus
 creditCard: Kredytkaart
 asset: Aktiva
 amountInTotal: Totaal
 needTopup: Opladen Asjebleaft Earst
 topupOnWay: Opladen Oan 'e Gong
-autoChargeTip: As it lykwicht net genôch is, wurdt automatysk foarbetelling makke
+autoChargeTip: As it saldo net genôch is, sil foarôfbetelling automatysk makke wurde
 autoChargeHelp: As it saldo net genôch is, wurdt it efterstallige bedrach automatysk ôfrekkene
 needHelp: Hat In Probleem?
 pleaseMail: Asjebleaft Email

@@ -2,6 +2,7 @@ bill: Kuatiarepykue
 translate: Ñe'ẽmbohasa
 topup: Recarga Yvate Gotyo
 manual: Popeguáva
+bonus: Bono Rehegua
 creditCard: Tarjeta De Crédito Rehegua
 asset: Naiñate'ỹíva
 amountInTotal: Opaite
@@ -11,7 +12,7 @@ autoChargeTip: Insuficiente jave saldo, ojejapóta automáticamente prepago
 autoChargeHelp: Insuficiente jave saldo, ojededuci automáticamente upe monto oîva atraso-pe
 needHelp: Oreko Peteĩ Provléma ?
 pleaseMail: por favor, emondo peteĩ correo electrónico
-topupAmount: Recarga Monto Rehegua
+topupAmount: Monto Recarga Rehegua
 USD: Dólar Rehegua
 # EUR: Euro Rehegua
 topUpFailed: Recarga Ndoikói

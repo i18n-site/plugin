@@ -2,6 +2,7 @@ bill: Biilka
 translate: Turjun
 topup: Kor U Qaad
 manual: Buugga
+bonus: Gunno
 creditCard: Credit Card
 asset: Hantida
 amountInTotal: Wadar Ahaan
@@ -21,7 +22,7 @@ amount: Tiro
 pay: Bixin
 topupOk: Dib u dalacsiinta waa lagu guuleystay
 addCard: Ku dar kaarka dib u dallaca
-addNewCard: Ku Dar Kaadhka Dib-u-bixinta Cusub
+addNewCard: Kudar Kaadhka Dib-u-bixinta Cusub
 setDefault: Loo Dhigay Sidii Default
 expire: Taariikhda Dhicitaanka
 cardFee: Kharashka Maaraynta

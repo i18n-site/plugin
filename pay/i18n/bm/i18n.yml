@@ -2,6 +2,7 @@ bill: Sariya Bolo
 translate: Ka Bayɛlɛma
 topup: Ka Fara A Kan
 manual: Min Bɛ Fɛn Bolo La
+bonus: Bonus (bonus) Ye
 creditCard: karti min bɛ kɛ ni wari ye
 asset: Kìsɛ
 amountInTotal: Kasabi
@@ -20,7 +21,7 @@ amount: Hakɛ
 # exchangeRate: Fɛnw Falenfalen Hakɛ
 pay: Sara
 topupOk: Recharge (Recharge) Ye Ɲɛtaa Sɔrɔ
-addCard: Aw bɛ karti recharge fara a kan
+addCard: Aw bɛ recharge karti fara a kan
 addNewCard: Aw bɛ recharge karti kura fara a kan
 setDefault: Set I N’a Fɔ Default
 expire: A Dafalen Don

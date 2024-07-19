@@ -2,12 +2,13 @@ bill: Muswada
 translate: Kutafsiri
 topup: Ongeza Juu
 manual: Mwongozo
+bonus: Ziada
 creditCard: Kadi Ya Mkopo
 asset: Mali
 amountInTotal: Jumla
 needTopup: Tafadhali Chaji Upya Kwanza
 topupOnWay: Uchaji Upya Unaendelea
-autoChargeTip: Wakati salio halitoshi, malipo ya mapema yatafanywa kiotomatiki
+autoChargeTip: Wakati salio haitoshi, malipo ya mapema yatafanywa kiotomatiki
 autoChargeHelp: Wakati salio haitoshi, kiasi cha malimbikizo kitakatwa kiotomatiki
 needHelp: Ana Tatizo?
 pleaseMail: Tafadhali Barua Pepe
@@ -20,7 +21,7 @@ amount: Wingi
 # Kiwango cha ubadilishaji: kiwango cha ubadilishaji
 pay: Kulipa
 topupOk: Imechaji Upya
-addCard: Ongeza Kadi Ya Kuchaji Tena
+addCard: Ongeza Kadi Ya Recharge
 addNewCard: Ongeza Kadi Mpya Ya Kuchaji
 setDefault: Weka Kama Chaguomsingi
 expire: Tarehe Ya Mwisho Wa Matumizi

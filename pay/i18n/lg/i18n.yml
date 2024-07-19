@@ -2,6 +2,7 @@ bill: Esente Ezibanjibwa
 translate: Okuvvunula
 topup: Top Up
 manual: Maniyo
+bonus: Bbonuusi
 creditCard: Kaadi Y’okuwola Ssente
 asset: Oby'obugagga
 amountInTotal: Okugatta
@@ -17,7 +18,7 @@ USD: Doola
 topUpFailed: Recharge Eremereddwa
 rtRetry: Ddayo Oddemu Ogezeeko
 amount: Omuwendo
-# exchangeRate: Omuwendo Gw’ensimbi
+# exchangeRate: Omuwendo Gw’okuwanyisiganya
 pay: -sasula
 topupOk: Recharge Efunye Obuwanguzi
 addCard: Okwongerako Kaadi Y’okuzzaamu Amaanyi

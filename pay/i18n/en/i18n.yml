@@ -2,6 +2,7 @@ bill: Bill
 translate: Translate
 topup: Top Up
 manual: Manual
+bonus: Bonus
 creditCard: Credit Card
 asset: Assets
 amountInTotal: Total
@@ -12,7 +13,7 @@ autoChargeHelp: When the balance is insufficient, the amount in arrears will be 
 needHelp: Has A Problem ?
 pleaseMail: Please Email
 topupAmount: Recharge Amount
-USD: USD
+USD: Dollar
 # EUR: Euro
 topUpFailed: Recharge Failed
 rtRetry: Go Back And Try Again
@@ -24,5 +25,5 @@ addCard: Add Recharge Card
 addNewCard: Add New Recharge Card
 setDefault: Set As Default
 expire: Expiry Date
-cardFee: Card Fee
+cardFee: Handling Fee
 

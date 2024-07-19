@@ -2,13 +2,14 @@ bill: Daim Nqi
 translate: Txhais
 topup: Sab Saum Toj
 manual: Phau Ntawv
+bonus: Lawm
 creditCard: Credit Card
 asset: Cov Khoom Muaj Nqis
 amountInTotal: Tag Nrho
 needTopup: Thov Recharge Ua Ntej
 topupOnWay: Recharge nyob rau hauv kev kawm
 autoChargeTip: Thaum qhov nyiaj tshuav tsis txaus, kev them nyiaj ua ntej yuav raug txiav
-autoChargeHelp: Thaum qhov nyiaj tshuav tsis txaus, tus nqi ntawm cov nuj nqis yuav raug txiav tawm
+autoChargeHelp: Thaum qhov nyiaj tshuav tsis txaus, tus nqi hauv cov nuj nqis yuav raug txiav tawm
 needHelp: Muaj Teeb Meem?
 pleaseMail: Thov Email
 topupAmount: Recharge Tus Nqi

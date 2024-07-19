@@ -2,13 +2,14 @@ bill: बिल
 translate: भाषांतर करा
 topup: टॉप अप
 manual: मॅन्युअल
+bonus: बोनस
 creditCard: क्रेडीट कार्ड
 asset: मालमत्ता
 amountInTotal: एकूण
 needTopup: कृपया प्रथम रिचार्ज करा
 topupOnWay: रिचार्ज चालू आहे
 autoChargeTip: जेव्हा शिल्लक अपुरी असेल, तेव्हा प्रीपेमेंट स्वयंचलितपणे केले जाईल
-autoChargeHelp: जेव्हा शिल्लक अपुरी असेल, तेव्हा थकबाकीची रक्कम आपोआप कापली जाईल
+autoChargeHelp: जेव्हा शिल्लक अपुरी असेल, तेव्हा थकबाकीतील रक्कम आपोआप वजा केली जाईल
 needHelp: एक समस्या आहे?
 pleaseMail: कृपया ईमेल करा
 topupAmount: रिचार्ज रक्कम

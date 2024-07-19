@@ -2,6 +2,7 @@ bill: Factura
 translate: Traduir
 topup: Omplir
 manual: Manual
+bonus: Bonificació
 creditCard: Targeta De Crèdit
 asset: Actius
 amountInTotal: Total
@@ -19,7 +20,7 @@ rtRetry: Torna enrere i torna-ho a provar
 amount: Quantitat
 # exchangeRate: Tipus De Canvi
 pay: Pagar
-topupOk: Recàrrega Correctament
+topupOk: Recàrrega Correcta
 addCard: Afegeix Una Targeta De Recàrrega
 addNewCard: Afegeix una nova targeta de recàrrega
 setDefault: Establir Com A Defecte

@@ -1,19 +1,20 @@
 bill: Phaktura
 translate: Jaqukipaña
-topup: Ukatsti Juk’ampi
+topup: Ukatsti
 manual: Amparampi
+bonus: Bono Ukampi
 creditCard: Tarjeta De Crédito Ukampi
 asset: Akiwunaka
 amountInTotal: Taqpacha
 needTopup: Nayraqatax Recargañamawa
-topupOnWay: Recarga Ukax Lurasiski
+topupOnWay: Recarga Ukax Nayrar Sartaskiwa
 autoChargeTip: Kunapachatixa saldo ukaxa jani phuqhatäki ukjaxa, nayraqata payllawixa automáticamente luratarakiniwa
 autoChargeHelp: Kunapachatixa saldo ukaxa jani phuqhatäki ukjaxa, qullqi atraso ukaxa automáticamente apsutäxaniwa
 needHelp: Kuna Jan Walt'awis Utji ?
 pleaseMail: ukax mä correo electrónico ukar qillqt’atawa
 topupAmount: Recarga Ukaxa Qullqiwa
-USD: Dólar Ukax Mä Qullqiwa
-# EUR: Euro Ukat Juk’ampinaka
+USD: Dólar Ukax Mä Juk’a Pachanakanwa
+# EUR: Ukax Mä Euro Ukhamawa
 topUpFailed: Recarga Ukax Janiw Phuqhaskänti
 rtRetry: Kuttʼam Ukat Mayamp Yantʼam
 amount: Walja

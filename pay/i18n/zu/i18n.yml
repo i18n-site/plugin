@@ -2,9 +2,10 @@ bill: Ibhili
 translate: Humusha
 topup: Faka Ngaphezulu
 manual: Imanuwali
+bonus: Ibhonasi
 creditCard: Ikhadi Lesikweletu
 asset: Amafa
-amountInTotal: Inani
+amountInTotal: Ingqikithi
 needTopup: Sicela Ushaje Kabusha Kuqala
 topupOnWay: Ukushajwa Kabusha Kuyaqhubeka
 autoChargeTip: Uma ibhalansi inganele, ukukhokha kusengaphambili kuzokwenziwa ngokuzenzakalelayo
@@ -17,7 +18,7 @@ USD: Idola
 topUpFailed: Ukushajwa Kabusha Kwehlulekile
 rtRetry: Buyela Emuva Bese Uzama Futhi
 amount: Ubuningi
-# I-exchangeRate: Izinga Lokushintshisana
+# ExchangeRate: Izinga Lokushintshanisa
 pay: Khokha
 topupOk: Ukushajwa Kabusha Kuphumelele
 addCard: Engeza Ikhadi Lokushajwa

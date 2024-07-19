@@ -2,6 +2,7 @@ bill: Conta
 translate: Traduzir
 topup: Completar
 manual: Manual
+bonus: Bônus
 creditCard: Cartão De Crédito
 asset: Ativos
 amountInTotal: Total
@@ -19,7 +20,7 @@ rtRetry: Volte E Tente Novamente
 amount: Quantidade
 # exchangeRate: Taxa De Câmbio
 pay: Pagar
-topupOk: Recarga Bem-sucedida
+topupOk: Recarga Bem Sucedida
 addCard: Adicionar Cartão De Recarga
 addNewCard: Adicionar Novo Cartão De Recarga
 setDefault: Definir Como Padrão

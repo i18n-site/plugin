@@ -2,11 +2,12 @@ bill: Arve
 translate: Tõlkida
 topup: Täiendada
 manual: Käsiraamat
+bonus: Boonus
 creditCard: Krediitkaart
 asset: Varasid
 amountInTotal: Kokku
 needTopup: Palun Laadige Esmalt
-topupOnWay: Laadimine On Pooleli
+topupOnWay: Laadimine Käib
 autoChargeTip: Kui saldo on ebapiisav, tehakse ettemaks automaatselt
 autoChargeHelp: Kui jääk on ebapiisav, arvatakse võlgnevus automaatselt maha
 needHelp: On Probleem?

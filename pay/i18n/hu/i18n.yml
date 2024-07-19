@@ -2,8 +2,9 @@ bill: Számla
 translate: Fordít
 topup: Feltölt
 manual: Kézikönyv
+bonus: Bónusz
 creditCard: Hitelkártya
-asset: Eszközök
+asset: Eszközöket
 amountInTotal: Teljes
 needTopup: Kérjük, Először Töltse Fel
 topupOnWay: Feltöltés Folyamatban

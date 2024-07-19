@@ -2,6 +2,7 @@ bill: Reikning
 translate: Þýða
 topup: Efst Upp
 manual: Handbók
+bonus: Bónus
 creditCard: Kreditkort
 asset: Eignir
 amountInTotal: Alls
@@ -23,6 +24,6 @@ topupOk: Endurhleðsla Tókst
 addCard: Bættu Við Hleðslukorti
 addNewCard: Bættu Við Nýju Hleðslukorti
 setDefault: Stillt Sem Sjálfgefið
-expire: Fyrningardagsetningu
+expire: Fyrningardagsetning
 cardFee: Umsýslugjald
 

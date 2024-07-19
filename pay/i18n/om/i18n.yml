@@ -2,6 +2,7 @@ bill: Kaffaltii
 translate: Hiikuu
 topup: Top Up
 manual: Kan Harkaanii
+bonus: Bonasii
 creditCard: Kaardii Liqii
 asset: Qabeenyaa
 amountInTotal: Ida'ama
@@ -14,7 +15,7 @@ pleaseMail: Mee Email Nuuf Ergaa
 topupAmount: Hanga Recharge
 USD: Doolaara
 # EUR: Yuuroo
-topUpFailed: Recharge Hin Milkoofne
+topUpFailed: Recharge Gochuun Hin Milkoofne
 rtRetry: Duubatti Deebi'ii Irra Deebi'ii Yaali
 amount: Baay'ina
 # exchangeRate: Sadarkaa Jijjiirraa

@@ -2,6 +2,7 @@ bill: ਬਿੱਲ
 translate: ਅਨੁਵਾਦ
 topup: ਨੂੰ ਸਿਖਰ
 manual: ਮੈਨੁਅਲ
+bonus: ਬੋਨਸ
 creditCard: ਕਰੇਡਿਟ ਕਾਰਡ
 asset: ਸੰਪਤੀਆਂ
 amountInTotal: ਕੁੱਲ
@@ -17,7 +18,7 @@ USD: ਡਾਲਰ
 topUpFailed: ਰੀਚਾਰਜ ਅਸਫਲ ਰਿਹਾ
 rtRetry: ਵਾਪਸ ਜਾਓ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ
 amount: ਮਾਤਰਾ
-# ਐਕਸਚੇਂਜ ਦਰ: ਵਟਾਂਦਰਾ ਦਰ
+# ਐਕਸਚੇਂਜ ਰੇਟ: ਐਕਸਚੇਂਜ ਰੇਟ
 pay: ਭੁਗਤਾਨ ਕਰੋ
 topupOk: ਰੀਚਾਰਜ ਸਫਲ
 addCard: ਰੀਚਾਰਜ ਕਾਰਡ ਸ਼ਾਮਲ ਕਰੋ

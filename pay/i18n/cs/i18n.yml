@@ -2,6 +2,7 @@ bill: Účtovat
 translate: Přeložit
 topup: Dolít
 manual: Manuál
+bonus: Bonus
 creditCard: Kreditní Karta
 asset: Aktiva
 amountInTotal: Celkový
@@ -14,7 +15,7 @@ pleaseMail: Prosím Email
 topupAmount: Částka Dobití
 USD: Dolar
 # EUR: Euro
-topUpFailed: Dobíjení Se Nezdařilo
+topUpFailed: Nabíjení Se Nezdařilo
 rtRetry: Vraťte se a zkuste to znovu
 amount: Množství
 # exchangeRate: Směnný Kurz
