@@ -111,18 +111,6 @@ b>:global(a.N:has(+b)>i)
     transform scale(0.5) rotate(180deg)
     transform-origin 68% 50%
 
-b>:global(a.W>i)
-  &:after
-    background var(--svgWait) no-repeat -1px -1px / 18px
-    border-color transparent
-    filter none
-    height 18px
-    margin-right -3px
-    margin-top -8px
-    opacity 1
-    transform scale(1)
-    width @height
-
 b>:global(a.W:hover>i)
   &:after
     filter none
@@ -137,6 +125,18 @@ b>:global(a.S:has(+b)>i), b>:global(a.S:has(+b):hover>i)
     margin-top -14px
     transform scale(0.5)
     transform-origin 100% 50%
+    width @height
+
+b>:global(a.W>i)
+  &:after
+    background var(--svgWait) no-repeat -1px -1px / 18px
+    border-color transparent
+    filter none
+    height 18px
+    margin-right -3px
+    margin-top -8px
+    opacity 1
+    transform scale(1) !important
     width @height
 </style>
 
