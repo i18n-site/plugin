@@ -1,0 +1,28 @@
+bill: صورت‌حساب
+translate: ترجمه
+topup: شارژ کردن
+manual: دستی
+bonus: پاداش
+creditCard: کارت اعتباری
+asset: دارایی‌ها
+amountInTotal: مجموع
+needTopup: لطفاً ابتدا شارژ کنید
+topupOnWay: شارژ در حال انجام است
+autoChargeTip: هنگامی که موجودی کافی نیست، پرداخت پیش‌خرید به صورت خودکار انجام می‌شود
+autoChargeHelp: هنگامی که موجودی کافی نیست، مبلغ بدهی به صورت خودکار کسر می‌شود
+needHelp: سوالی دارید؟
+pleaseMail: لطفاً ایمیل ارسال کنید
+topupAmount: مقدار شارژ
+USD: دلار
+# یورو: یورو
+topUpFailed: شارژ ناموفق
+rtRetry: بازگردید و دوباره تلاش کنید
+amount: تعداد
+# نرخ: نرخ ارز
+pay: پرداخت کنید
+topupOk: شارژ با موفقیت انجام شد
+addCard: کارت شارژ را اضافه کنید
+addNewCard: کارت شارژ جدید اضافه کنید
+setDefault: به عنوان پیش‌فرض تنظیم کنید
+expire: تاریخ انقضا
+cardFee: هزینه خدمات

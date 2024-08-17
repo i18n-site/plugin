@@ -1,0 +1,28 @@
+bill: Рахунок
+translate: Переклад
+topup: Поповнити
+manual: Ручний
+bonus: Бонус
+creditCard: Кредитна картка
+asset: Активи
+amountInTotal: Разом
+needTopup: Будь ласка, спочатку поповніть
+topupOnWay: Поповнення триває
+autoChargeTip: При нестачі коштів автоматично буде здійснено попереднє充值
+autoChargeHelp: При нестачі коштів автоматично буде списано заборгованість
+needHelp: Чи є питання?
+pleaseMail: Будь ласка, надішліть електронну пошту
+topupAmount: Сума поповнення
+USD: Долар
+# EUR: Євро
+topUpFailed: Помилка поповнення
+rtRetry: Поверніться та спробуйте ще раз
+amount: Кількість
+# exchangeRate: Курс обміну
+pay: Оплата
+topupOk: Поповнення успішно завершено
+addCard: Додайте充值卡
+addNewCard: Додати нову充值卡
+setDefault: Зробити за замовчуванням
+expire: Датка закінчення терміну дії
+cardFee: Комісія

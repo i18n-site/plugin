@@ -1,0 +1,20 @@
+signUp: Kayıt Ol
+signIn: Giriş Yap
+mail: E-posta
+password: Şifre
+agree: Kabul Et
+resetPassword: Şifreyi Yenile
+userAgreement: Kullanıcı Sözleşmesi
+setPassword: Şifre Ayarla
+name: İsim
+code: Doğrulama Kodu
+enterCode: Lütfen Aldığınız Doğrulama Kodunu Giriniz
+checkSpam: Spam Klasörünü Kontrol Etmeyi Unutmayın
+accountExist: Hesap Zaten Mevcut, Doğrudan Giriş Yapın
+created: Hesap Başarıyla Oluşturuldu
+exit: Oturumu Kapat
+userAdmin: Kullanıcı Yönetimi
+addAccount: Yeni Hesap Ekleyin
+exitAll: Tüm Oturumları Kapatın
+nowMail: Şu Anki E-posta
+newMail: Yeni E-posta

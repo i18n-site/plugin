@@ -1,0 +1,20 @@
+signUp: Register
+signIn: Prijavite Se
+mail: Pošta
+password: Geslo
+agree: Strinjam Se
+resetPassword: Ponastaviti Geslo
+userAgreement: Uporabniška Pogodba
+setPassword: Nastavite Geslo
+name: Ime
+code: Koda Za Preverjanje
+enterCode: Prosimo vnesite kodo za preverjanje, ki ste jo prejeli
+checkSpam: Ne Pozabite Preveriti Vsiljene Pošte
+accountExist: Račun že obstaja, prijavite se neposredno
+created: Račun Je Bil Uspešno Ustvarjen
+exit: Odjavite Se
+userAdmin: Upravljanje Uporabnikov
+addAccount: Dodaj Nov Račun
+exitAll: Odjava Vseh
+nowMail: Trenutni Email
+newMail: Nova E-Pošta

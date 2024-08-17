@@ -1,0 +1,21 @@
+{
+  "name": "@8p/full",
+  "version": "0.3.8",
+  "repository": "https://atomgit.com/i18n/plugin.git",
+  "homepage": "https://atomgit.com/i18n/plugin/tree/dev/full",
+  "keywords": [
+    "i18n.site/plugin"
+  ],
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    ".": "./lib/Full.svelte",
+    "./*": "./lib/*"
+  },
+  "files": [
+    "*"
+  ],
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {}
+}

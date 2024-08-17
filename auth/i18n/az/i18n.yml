@@ -1,0 +1,20 @@
+signUp: Qeydiyyatdan Keçin
+signIn: Daxil Ol
+mail: Poçt
+password: Parol
+agree: Razılaşın
+resetPassword: Parolu Sıfırlayın
+userAgreement: İstifadəçi Müqaviləsi
+setPassword: Parol Təyin Edin
+name: Ad
+code: Doğrulama Kodu
+enterCode: Zəhmət olmasa, aldığınız doğrulama kodunu daxil edin
+checkSpam: Spamı Yoxlamağı Unutmayın
+accountExist: Hesab artıq mövcuddur, birbaşa daxil olun
+created: Hesab Uğurla Yaradıldı
+exit: Çıxın
+userAdmin: İstifadəçi Idarəetməsi
+addAccount: Yeni Hesab Əlavə Edin
+exitAll: Hamısından Çıxın
+nowMail: Cari E-Poçt
+newMail: Yeni E-Poçt

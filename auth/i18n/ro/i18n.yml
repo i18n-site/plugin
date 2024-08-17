@@ -1,0 +1,20 @@
+signUp: Registru
+signIn: Conectare
+mail: Email
+password: Parolă
+agree: Accept
+resetPassword: Resetează parola
+userAgreement: Acordul utilizatorului
+setPassword: Setează parola
+name: Nume
+code: Cod de verificare
+enterCode: Introduceți codul de verificare pe care l-ați primit
+checkSpam: NU uitați să verificați folderul de spam
+accountExist: Contul există deja, conectați-vă direct
+created: Cont creat cu succes
+exit: Deconectare
+userAdmin: Managementul utilizatorilor
+addAccount: Adaugă un cont nou
+exitAll: Deconectare totală
+nowMail: Email actual
+newMail: Email nou

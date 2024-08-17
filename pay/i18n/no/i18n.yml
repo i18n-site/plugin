@@ -1,0 +1,28 @@
+bill: Regning
+translate: Oversettelse
+topup: Oppfyll
+manual: Manuell
+bonus: Bonus
+creditCard: Kredittkort
+asset: Eiendeler
+amountInTotal: Totalt
+needTopup: Vennligst fyll opp først
+topupOnWay: Oppfylling pågår
+autoChargeTip: Når saldoen er for lav, vil forhåndsbetaling skje automatisk
+autoChargeHelp: Når saldoen er for lav, vil beløpet for utestående gjeld bli trukket automatisk
+needHelp: Er det et problem?
+pleaseMail: Send en e-post
+topupAmount: Oppfyllingsbeløp
+USD: Dollar
+# EUR: Euro
+topUpFailed: Oppfylling mislyktes
+rtRetry: Gå tilbake og prøv igjen
+amount: Antall
+# Valutakurs: Valutakurs
+pay: Betaling
+topupOk: Oppfylling fullført
+addCard: Legg til oppfyllingskort
+addNewCard: Legg til nytt oppfyllingskort
+setDefault: Sett som standard
+expire: Utløpsdato
+cardFee: Transaksjonsgebyr

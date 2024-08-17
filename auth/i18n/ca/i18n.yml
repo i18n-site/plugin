@@ -1,0 +1,20 @@
+signUp: Registrar-Se
+signIn: Inicieu Sessió
+mail: Correu
+password: Contrasenya
+agree: D'acord
+resetPassword: Restablir La Contrasenya
+userAgreement: Acord D'usuari
+setPassword: Estableix La Contrasenya
+name: Nom
+code: Codi De Verificació
+enterCode: Introduïu el codi de verificació que heu rebut
+checkSpam: No us oblideu de comprovar el correu brossa
+accountExist: El compte ja existeix, inicieu sessió directament
+created: Compte Creat Correctament
+exit: Tanca La Sessió
+userAdmin: Gestió D'usuaris
+addAccount: Afegeix Un Compte Nou
+exitAll: Tanca La Sessió De Tots
+nowMail: Correu Electrònic Actual
+newMail: Nou Correu Electrònic

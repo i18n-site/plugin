@@ -1,0 +1,30 @@
+{
+  "name": "@8p/github",
+  "version": "0.1.6",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n/plugin.git"
+  },
+  "homepage": "https://atomgit.com/i18n/plugin/tree/dev/github",
+  "keywords": [
+    "i18n.site/plugin"
+  ],
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    ".": "./lib/index.js",
+    "./*": "./lib/*"
+  },
+  "files": [
+    "lib/*"
+  ],
+  "devDependencies": {},
+  "scripts": {},
+  "type": "module",
+  "peerDependencies": {
+    "@5-/github": "^0.1.3",
+    "@8p/auth": "workspace:^",
+    "@8p/wait": "workspace:^"
+  },
+  "dependencies": {}
+}

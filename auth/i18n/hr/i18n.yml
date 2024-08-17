@@ -1,0 +1,20 @@
+signUp: Registar
+signIn: Prijavite Se
+mail: Pošta
+password: Lozinka
+agree: Složiti Se
+resetPassword: Ponovno Postaviti Lozinku
+userAgreement: Korisnički Ugovor
+setPassword: Postavi Lozinku
+name: Ime
+code: Kontrolni Kod
+enterCode: Unesite kontrolni kod koji ste primili
+checkSpam: Ne Zaboravite Provjeriti Spam
+accountExist: Račun već postoji, prijavite se izravno
+created: Račun Je Uspješno Kreiran
+exit: Odjavi Se
+userAdmin: Upravljanje Korisnicima
+addAccount: Dodaj Novi Račun
+exitAll: Odjavi Se Sve
+nowMail: Trenutni Email
+newMail: Novi Email

@@ -1,0 +1,20 @@
+signUp: 등록
+signIn: 로그인
+mail: 이메일
+password: 비밀번호
+agree: 동의
+resetPassword: 비밀번호 재설정
+userAgreement: 이용약관
+setPassword: 비밀번호 설정
+name: 이름
+code: 인증코드
+enterCode: 받은 인증코드를 입력해 주세요
+checkSpam: 스팸 메일 확인을 잊지 마세요
+accountExist: 계정이 이미 존재합니다. 바로 로그인하세요.
+created: 계정이 성공적으로 생성되었습니다
+exit: 로그아웃
+userAdmin: 사용자 관리
+addAccount: 새 계정 추가
+exitAll: 모두 로그아웃
+nowMail: 현재 이메일
+newMail: 새 이메일

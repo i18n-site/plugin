@@ -1,0 +1,28 @@
+bill: Rekening
+translate: Vertaling
+topup: Oplaad
+manual: Handmatig
+bonus: Bonus
+creditCard: Creditcard
+asset: Activa
+amountInTotal: Totaal
+needTopup: Gelieve eerst op te laden
+topupOnWay: Opladen wordt uitgevoerd
+autoChargeTip: Wanneer het saldo ontoereikend is, zal automatisch een vooruitbetaling worden gedaan
+autoChargeHelp: Wanneer het saldo ontoereikend is, zal automatisch het openstaande bedrag worden afgetrokken
+needHelp: Problemen?
+pleaseMail: Stuur een e-mail
+topupAmount: Oplaadbedrag
+USD: Dollar
+# EUR: Euro
+topUpFailed: Opladen mislukt
+rtRetry: Ga terug en probeer het opnieuw
+amount: HXAantal
+# exchangeRate: Wisselkoers
+pay: Betalen
+topupOk: Opladen succesvol
+addCard: Voeg een oplaadkaart toe
+addNewCard: Voeg een nieuwe oplaadkaart toe
+setDefault: Stel in als standaard
+expire: Vervaldatum
+cardFee: Transactiekosten

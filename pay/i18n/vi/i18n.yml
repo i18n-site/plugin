@@ -1,0 +1,28 @@
+bill: Hóa đơn
+translate: Phiên dịch
+topup: Nạp tiền
+manual: Thủ công
+bonus: Tiền thưởng
+creditCard: Thẻ tín dụng
+asset: Tài sản
+amountInTotal: Tổng hợp
+needTopup: Vui lòng nạp tiền trước
+topupOnWay: Đang nạp tiền
+autoChargeTip: Khi số dư không đủ, sẽ tự động thực hiện thanh toán trước
+autoChargeHelp: Khi số dư không đủ, sẽ tự động trừ số tiền thiếu nợ
+needHelp: Có vấn đề ?
+pleaseMail: Vui lòng gửi email
+topupAmount: Số tiền nạp
+USD: USD
+# EUR: Euro
+topUpFailed: Thất bại trong việc nạp tiền
+rtRetry: Quay lại và thử lại
+amount: Số lượng
+# exchangeRate: Tỷ giá hối đoái
+pay: Thanh toán
+topupOk: Thành công trong việc nạp tiền
+addCard: Thêm thẻ nạp tiền
+addNewCard: Thêm thẻ nạp mới
+setDefault: Đặt làm mặc định
+expire: Ngày到期
+cardFee: Phí dịch vụ

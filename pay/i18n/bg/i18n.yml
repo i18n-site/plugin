@@ -1,0 +1,28 @@
+bill: Сметка
+translate: Превод
+topup: Зареждане
+manual: Ръчно
+bonus: Бонус
+creditCard: Кредитна карта
+asset: Активи
+amountInTotal: Общо
+needTopup: Моля, заредете първо
+topupOnWay: Зареждането е в ход
+autoChargeTip: Когато saldoто е недостатъчно, автоматично ще се направи предварително плащане
+autoChargeHelp: Когато saldoто е недостатъчно, автоматично ще се удържи дължимата сума
+needHelp: Имате въпрос?
+pleaseMail: Моля, изпратете имейл
+topupAmount: Сума за зареждане
+USD: Долар
+# EUR: Евро
+topUpFailed: Неуспешно зареждане
+rtRetry: Върнете се и опитайте отново
+amount: Количество
+# exchangeRate: Обменен курс
+pay: Плащане
+topupOk: Зареждането е успешно
+addCard: Добавете карта за зареждане
+addNewCard: Добавете нова карта за зареждане
+setDefault: Задайте като defaultManager
+expire: Срок на годност
+cardFee: Такса за обслужване

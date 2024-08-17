@@ -1,0 +1,28 @@
+bill: Fatura
+translate: Çeviri
+topup: Yükleme
+manual: El ile
+bonus: Ücretsiz Bonus
+creditCard: Kredi Kartı
+asset: varlıklar
+amountInTotal: Toplam
+needTopup: Lütfen önce yükleme yapın
+topupOnWay: Yükleme işlemi devam ediyor
+autoChargeTip: Bakiye yetersiz olduğunda otomatik olarak ön ödeme yapılacaktır.
+autoChargeHelp: Bakiye yetersiz olduğunda otomatik olarak borç miktarı düşülecektir.
+needHelp: Sorun mu var?
+pleaseMail: Lütfen e-posta gönderin
+topupAmount: Yükleme tutarı
+USD: Dolar
+# EUR: Avro
+topUpFailed: Yükleme başarısız oldu
+rtRetry: Geri dönüp yeniden deneyin
+amount: Miktar
+# Döviz kuru: Döviz kuru
+pay: Ödeme
+topupOk: Yükleme başarılı
+addCard: Yükleme kartı ekle
+addNewCard: Yeni yükleme kartı ekle
+setDefault: Varsayılan olarak ayarla
+expire: Son kullanma tarihi
+cardFee: İşlem ücreti

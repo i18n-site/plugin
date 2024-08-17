@@ -1,0 +1,20 @@
+signUp: Registrer
+signIn: Login
+mail: E-post
+password: Passord
+agree: Enig
+resetPassword: Tilbakestill passord
+userAgreement: Brukeravtale
+setPassword: Sett passord
+name: Navn
+code: Verifiseringskode
+enterCode: Vennligst skriv inn verifiseringskoden du mottok
+checkSpam: Ikke glem å sjekke spam
+accountExist: Kontoen eksisterer allerede, logg inn direkte
+created: Konto opprettet
+exit: Logg ut
+userAdmin: Brukeradministrasjon
+addAccount: Legg til ny konto
+exitAll: Logg ut fra alle
+nowMail: Nåværende e-post
+newMail: Ny e-post

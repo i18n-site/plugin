@@ -1,0 +1,28 @@
+bill: Regning
+translate: Oversættelse
+topup: Opkald
+manual: Manuel
+bonus: Bonus
+creditCard: Kreditkort
+asset: Aktiver
+amountInTotal: I alt
+needTopup: Vælg venligst at opdatere først
+topupOnWay: Opdatering i gang
+autoChargeTip: Når saldoen er for lav, vil der automatisk blive foretaget en forudbetaling
+autoChargeHelp: Når saldoen er for lav, vil den udestående sum automatisk blive trukket
+needHelp: Er der et problem?
+pleaseMail: Send en e-mail
+topupAmount: Opdateringsbeløb
+USD: Dollar
+# EUR: Euro
+topUpFailed: Opdatering mislykkedes
+rtRetry: Gå tilbage og prøv igen
+amount: Antal
+# exchangeRate: Valutakurs
+pay: Betaling
+topupOk: Opdatering succesfuld
+addCard: Tilføj opdateringskort
+addNewCard: Tilføj et nyt opdateringskort
+setDefault: Sæt som standard
+expire: Udløbsdato
+cardFee: Gebyr

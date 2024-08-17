@@ -1,0 +1,20 @@
+signUp: Registrar
+signIn: Entrar
+mail: Email
+password: Senha
+agree: Concordar
+resetPassword: RedefinirSenha
+userAgreement: Acordo de Usuário
+setPassword: DefinirSenha
+name: Nome
+code: Código de Verificação
+enterCode: Insira o código de verificação que você recebeu
+checkSpam: Não se esqueça de verificar o lixo eletrônico
+accountExist: A conta já existe, efetue login diretamente
+created: Conta criada com sucesso
+exit: Sair
+userAdmin: Gerenciamento de Usuários
+addAccount: Adicionar nova conta
+exitAll: Sair de todas as contas
+nowMail: Email atual
+newMail: Novo email

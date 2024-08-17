@@ -1,0 +1,20 @@
+signUp: Registrazione
+signIn: Accedi
+mail: Email
+password: Password
+agree: Accetto
+resetPassword: Ripristina la password
+userAgreement: Accordo dell'utente
+setPassword: Imposta la password
+name: Nome
+code: Codice di verifica
+enterCode: Inserisci il codice di verifica che hai ricevuto
+checkSpam: Non dimenticare di controllare la posta indesiderata
+accountExist: Account già esistente, accedi direttamente
+created: Account creato con successo
+exit: Disconnessione
+userAdmin: Gestione degli utenti
+addAccount: Aggiungi un nuovo account
+exitAll: Disconnettiti da tutti
+nowMail: Email attuale
+newMail: Nuova email

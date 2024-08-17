@@ -1,0 +1,28 @@
+bill: Bill
+translate: Oersette
+topup: Oanfolje
+manual: Hantlieding
+bonus: Bonus
+creditCard: Kredytkaart
+asset: Aktiva
+amountInTotal: Totaal
+needTopup: Opladen Asjebleaft Earst
+topupOnWay: Opladen Oan 'e Gong
+autoChargeTip: As it saldo net genôch is, sil foarôfbetelling automatysk makke wurde
+autoChargeHelp: As it saldo net genôch is, wurdt it efterstallige bedrach automatysk ôfrekkene
+needHelp: Hawwe Jo in Fraach?
+pleaseMail: Asjebleaft Email
+topupAmount: Recharge Bedrach
+USD: Dollar
+# EUR: Euro
+topUpFailed: Opladen Mislearre
+rtRetry: Gean werom en besykje it nochris
+amount: Kwantiteit
+# exchangeRate: Wikselkoers
+pay: Betelje
+topupOk: Recharge Suksesfol
+addCard: Add Recharge Card
+addNewCard: Add Nije Recharge Card
+setDefault: Set as Standert
+expire: Ferfaldatum
+cardFee: Handling Fee
