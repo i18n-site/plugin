@@ -73,7 +73,7 @@ pager = (toc,dom)=>
       b.style='font-weight:400;border-bottom:1px solid;padding-bottom:8px'
       a.appendChild b
       wrap a, New.b
-      a.style.margin='0 0 16px '+(if li.length then '16px' else 0)
+      a.style.margin='0 '+if li.length then '0 0 auto' else '16px 16px 0'
       li.push a
     return
   {pathname} = location

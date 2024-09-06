@@ -1,6 +1,6 @@
 {
   "name": "@8p/page-doc",
-  "version": "0.3.49",
+  "version": "0.3.53",
   "repository": {
     "type": "git",
     "url": "git+https://atomgit.com/i18n/plugin.git"
@@ -29,6 +29,6 @@
   "scripts": {},
   "type": "module",
   "dependencies": {
-    "@3-/title_tip": "^0.1.8"
+    "@3-/title_tip": "^0.1.9"
   }
 }

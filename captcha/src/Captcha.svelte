@@ -20,15 +20,13 @@ clear = =>
 < set = (bin)=>
   [id,img,svg_li] = Captcha(bin)
   h5 = clickCaptcha$.render (
-    svg_li.map (d, p)=>
-      if p == 2
-        margin = '0 8px 0 8px'
-      else
-        margin = '0 0 0 8px'
-      """<svg style="width:16px;margin:#{margin}" viewBox="0 0 1024 1024"><path d="#{d}"></path></svg>"""
-  ).join ''
+    '<b>'+svg_li.map(
+      (d, p)=>
+        """<svg style="width:16px;margin:0 #{if p==1 then 0 else '8px'} 0" viewBox="0 0 1024 1024"><path d="#{d}"></path></svg>"""
+    ).join('')+'</b>'
+  )
   b.innerHTML = ''
-  b.style.background = 'url("'+URL.createObjectURL(new Blob([new Uint8Array(img)])).toString()+'") 0 0 / 420px no-repeat'
+  b.style.background = 'url("'+URL.createObjectURL(new Blob([new Uint8Array(img)])).toString()+'") 0 0 / 350px no-repeat'
   id_set = new Set([1,2])
   xy = []
   b.onclick = (e)=>
@@ -98,33 +96,39 @@ b(@&b)
 i
   align-items center
   display flex
+  font-style normal
   justify-content space-between
+  max-width 318px
   padding 16px
 
   &>a
     background var(--svgRefresh) 0 0 / cover
     display flex
-    height 20px
+    flex-shrink 0
+    height 24px
     opacity 0.4
-    width 20px
+    width 24px
 
     &:hover
       filter invert(42%) sepia(1) saturate(47)
       opacity 1
 
 h5
+  flex-wrap wrap
   font-size 16px
-  font-style normal
   margin 0 12px 0 0
   user-select none
+
+  &, &>b
+    display flex
 
 b
   background var(--svgWait) 50% 50% / 180px no-repeat
   cursor cell
   display flex
-  height 420px
+  height 350px
   position relative
-  width 420px
+  width 350px
 
 b>:global(i)
   align-items center

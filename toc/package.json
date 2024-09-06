@@ -1,6 +1,6 @@
 {
   "name": "@8p/toc",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "repository": {
     "type": "git",
     "url": "git+https://atomgit.com/i18n/plugin.git"
@@ -20,9 +20,7 @@
   ],
   "devDependencies": {},
   "peerDependencies": {
-    "@2-/doc": "^0.1.8",
-    "@3-/bsearch": "^0.1.3",
-    "@3-/fall": "^0.1.1",
+    "@2-/doc": "^0.1.9",
     "@8p/topbar": "workspace:^",
     "@8p/toclib": "workspace:^"
   },

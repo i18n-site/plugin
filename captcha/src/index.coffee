@@ -12,6 +12,7 @@ export captcha = (url, body, bin)=>
 
   + svelte
   p = new Promise (resolve, reject)=>
+    # 必须这样, 不然bitwarden会让验证码弹出层在底部
     + err
     [box, svelte] = Box(
       Captcha
