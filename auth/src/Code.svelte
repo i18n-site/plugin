@@ -1,7 +1,7 @@
 <script lang="coffee">
 > @2-/errer
   @8p/input_mail_a
-  x/pbox.js
+  @2-/pbox
   @8p/resend:Resend
   @8p/resend/sendFocus.js
   @2-/fp

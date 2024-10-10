@@ -1,7 +1,7 @@
 <script lang="coffee">
 > @2-/errer
   ./passwd.js
-  x/pbox.js
+  @2-/pbox
 
 < account
 

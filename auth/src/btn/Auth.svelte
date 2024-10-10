@@ -31,10 +31,13 @@ click = menu(
 @import '~/styl/var.styl'
 @import '@8p/menu/wrap.styl'
 
+@layer
+  i
+    display flex
+
 i
   align-items center
   border-radius 0 !important
-  display flex
   font-style normal
   width auto !important
 
@@ -55,6 +58,8 @@ b, i
   align-self stretch
   border-left 1px solid #eee
   color #ccc
+
+i, b>a
   padding-left 24px
 
 b

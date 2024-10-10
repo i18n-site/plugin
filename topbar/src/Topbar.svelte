@@ -2,9 +2,7 @@
 nav(@&nav)
   b
     //- 目录按钮的容器
-  i(@click=bS)
-    //- 手机视图下切换显示侧栏的按钮
-  b
+  b.T(@&T)
     b
       +if L
         +each L as i
@@ -16,6 +14,8 @@ nav(@&nav)
           i.w
     b
       slot
+  i(@click=bS)
+    //- 手机视图下切换显示侧栏的按钮
 </template>
 
 
@@ -28,21 +28,22 @@ nav(@&nav)
   x/langSite.js
   x/_.js > NAV
 
-+ L, nav, U, A_LI
++ L, nav, U, T
 
 bS = ->
   S = 'S'
-  if @classList.toggle S
+  classList = @parentNode.classList
+  if classList.toggle S
     p = location.pathname
     U = On(
-      @nextSibling
+      T
       click: (e)=>
         e = epa e
         if e
           ep = e.pathname
           if ep and ep != p
             U()
-            @classList.remove S
+            classList.remove S
         return
     )
   else
@@ -51,7 +52,7 @@ bS = ->
 
 classNow = =>
   now = 'n'
-  li = [...A_LI]
+  li = [...T.firstChild.getElementsByTagName('a')]
 
   {pathname} = location
   for i, p in li
@@ -112,16 +113,7 @@ onMount =>
           ]
       )
       setTimeout(
-        =>
-          li = nav.children
-          # 预取,防止下拉菜单动态添加了A
-          A_LI = [
-            ...li[
-              li.length-1 # children 不是数组, 不能用 pop()
-            ].firstChild.getElementsByTagName('a')
-          ]
-          classNow()
-          return
+        classNow
       )
       return
     On(
@@ -146,11 +138,7 @@ nav
   :global(input)
     line-height 1.625
 
-  :global(b)
-    align-items center
-    display flex
-
-  &>i+b
+  &>b.T
     &>b:first-child
       &>a, &>:global(b)
         margin-right 24px
@@ -169,7 +157,7 @@ nav
       :global(a.n)
         color #555
 
-nav>b:last-child>b>:global(i), nav :global(m-c), nav>i
+nav :global(m-c), nav>i
   border-radius 12px
   height 24px
   width 24px
@@ -177,62 +165,62 @@ nav>b:last-child>b>:global(i), nav :global(m-c), nav>i
   &.w
     background var(--svgWait) 50% 50% / 30px
 
-nav>b:last-child>b:last-child
-  &>:global(aside)
-    align-items center
-    display flex
-
-  &>:global(aside>i), &>:global(aside>m-c)
-    margin-right 24px
-
 @layer
-  nav>i
-    background var(--svgSide) 50% 50% / 20px no-repeat
-    border 2px solid #000
-    cursor pointer
-    display none
+  :global(m-c)
+    background 50% 50% / 20px no-repeat
+    border-radius 12px
+    display inline-block
+    height 24px
     opacity 0.5
+    transition all 0.5s
+    width 24px
 
     &:hover
-      filter btn-hover-filter
+      filter invert(42%) sepia() saturate(47)
       opacity 1
 
-@media (max-width 560px)
+  nav>b.T>b:last-child
+    &>:global(aside)
+      align-items center
+      display flex
+      height 100%
+
+    &>:global(aside>i), &>:global(aside>m-c)
+      display flex
+      margin-right 24px
+
   nav
+    :global(b)
+      align-items center
+      display flex
+      height 100%
+
+    &>i
+      background var(--svgSide) 50% 50% / 20px no-repeat
+      border 2px solid #000
+      cursor pointer
+      display none
+      opacity 0.5
+
+      &:hover
+        filter btn-hover-filter
+        opacity 1
+
+@media (max-width 700px)
+  nav
+    &>b :global(b)
+      height auto
+
     &>i
       display block
 
-    &>i+b
-      &>b
-        &:last-child
-          border-bottom 1px solid #eee
-          box-sizing border-box
-          justify-content space-between
-          padding 12px 24px
-          width 100%
-
-        &:first-child
-          flex 1
-          flex-direction column
-          justify-content center
-
-      background #fff
-      box-shadow #999 0 0 5px
+    :global(&>b.T>b>a), :global(&>b.T>b>b), :global(&>b.T>b>aside>i), :global(&>b.T>b>aside>m-c), :global(&>b.T>b>i)
       display none
-      flex-direction column-reverse
-      height 100vh
-      justify-content center
-      position fixed
-      right 0
-      top 0
-      width 330px
-      z-index 9
 
-      &>b
-        &>a, &>:global(b)
-          margin 12px 0 !important
+    :global(&.S>b.T>b>a), :global(&.S>b.T>b>b), :global(&.S>b.T>b>aside>i), :global(&.S>b.T>b>aside>m-c), :global(&.S>b.T>b>i)
+      display flex
 
-    &>:global(i.S)
+    :global(&.S>i)
       background #000
       border 0
       border-radius 0 !important
@@ -246,20 +234,33 @@ nav>b:last-child>b:last-child
       width 100% !important
       z-index 2
 
-    &>:global(i.S+b)
-      display flex !important
+    :global(&.S>b.T>b)
+      &:last-child
+        border-bottom 1px solid #eee
+        box-sizing border-box
+        justify-content space-between
+        padding 12px 24px
+        width 100%
 
-:global(m-c)
-  background 50% 50% / 20px no-repeat
-  border-radius 12px
-  display inline-block
-  height 24px
-  opacity 0.5
-  transition all 0.5s
-  width 24px
+      &:first-child
+        flex 1
+        flex-direction column
+        justify-content center
 
-  &:hover
-    filter invert(42%) sepia() saturate(47)
-    opacity 1
+    :global(&.S>b.T>b:first-child>a), :global(&.S>b.T>b:first-child>b)
+      margin 12px 0
+
+    :global(&.S>b.T)
+      background #fff
+      box-shadow #999 0 0 5px
+      display flex
+      flex-direction column-reverse
+      height 100vh
+      justify-content center
+      position fixed
+      right 0
+      top 0
+      width 330px
+      z-index 9
 </style>
 

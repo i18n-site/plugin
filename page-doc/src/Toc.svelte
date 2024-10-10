@@ -91,15 +91,15 @@ pager = (toc,dom)=>
         return
 
   if li.length
-    {p, hr, b} = New
+    {div, hr, b} = New
     b.style= "display:flex;justify-content:space-between;flex-wrap:wrap"
-    p.appendChild hr
+    div.appendChild hr
     hr.style = 'opacity:.5'
-    p.style = 'margin:48px 0 -16px'
+    div.style = 'margin:48px 0 -16px'
     for i from li
       b.appendChild i
-    p.appendChild(b)
-    dom.appendChild(p)
+    div.appendChild(b)
+    dom.appendChild(div)
   return
 
 setNow = (url, e)=>

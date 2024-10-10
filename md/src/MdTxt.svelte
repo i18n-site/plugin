@@ -11,7 +11,14 @@
 + M,h
 
 onMount =>
+
   if md != 0
+    md = md.replaceAll('\r\n','\n').trimStart()
+    if md.startsWith('---\n')
+      end = md.indexOf('---\n',4)
+      if ~end
+        md = md.slice(end+4)
+
     try
       h = mark md
       await tick()
@@ -32,6 +39,27 @@ onMount =>
 <style lang="stylus">
 b.m
   display block
+
+  :global(p a)
+    display inline-block
+    position relative
+
+    &:after
+      background-color #fff
+      bottom -3px
+      content ''
+      height 1px
+      left 0
+      opacity 0
+      position absolute
+      transition all 1s ease
+      width 0
+
+    &:hover
+      &:after
+        background-color #00f
+        opacity 1
+        width 100%
 
   :global(&>table)
     border 1px solid #ccc

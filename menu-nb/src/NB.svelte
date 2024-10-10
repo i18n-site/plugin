@@ -19,7 +19,7 @@ b
   &>:global(b)
     right auto
 
-@media (max-width 560px)
+@media (max-width 700px)
   b
     &>:global(b)
       left 20px

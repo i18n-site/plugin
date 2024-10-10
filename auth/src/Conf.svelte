@@ -6,7 +6,7 @@
   x/user.js > User setUser
   ./reset.js
   ./passwd.js:passwdBox
-  x/pbox.js
+  @2-/pbox
   ./SetMail.svelte
 
 # id name

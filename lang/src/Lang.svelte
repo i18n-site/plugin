@@ -99,7 +99,6 @@ m-c
     background-size 30px
 
 i
-  display flex
   font-style normal
   max-width 600px
   position relative
@@ -110,6 +109,7 @@ b
   box-sizing border-box
   flex-direction column
   font-size 14px
+  height auto
   justify-content space-between
   left -48px
   padding 7px 4px 5px 10px
@@ -118,7 +118,7 @@ b
 
   &>a
     border-bottom 1px dashed #ccc
-    color #666
+    color #666 !important
     cursor pointer
     font-family s
     font-variation-settings 'wght' 320
@@ -128,12 +128,11 @@ b
 
     &.n
       border-bottom 2px solid #000
-      color #000
+      color #000 !important
       font-variation-settings 'wght' 600
 
     &:hover
       border-color #f40
-      color #f40
 
 @media (max-width 560px)
   b
