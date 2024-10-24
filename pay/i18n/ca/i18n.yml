@@ -26,3 +26,7 @@ addNewCard: Afegeix una nova targeta de recàrrega
 setDefault: Estableix Com a Predeterminat
 expire: Data De Caducitat
 cardFee: Quota De Gestió
+topupApplyed: S'ha presentat la sol·licitud de deducció
+waitTopupRecv: Esperant L'arribada
+whenTopupRecv: Quan Arriba La Recàrrega
+willMailNotify: Aviseu-Vos Per Correu Electrònic

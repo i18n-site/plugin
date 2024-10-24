@@ -9,7 +9,7 @@ amountInTotal: Alls
 needTopup: Vinsamlegast Hlaðið Fyrst
 topupOnWay: Endurhleðsla Í Gangi
 autoChargeTip: Þegar staðan er ófullnægjandi mun fyrirframgreiðsla fara fram sjálfkrafa
-autoChargeHelp: Þegar staðan er ófullnægjandi kemur sjálfkrafa upphæðin sem er í vanskilum til frádráttar
+autoChargeHelp: Þegar staðan er ófullnægjandi verður sjálfkrafa dregin frá vanskilum
 needHelp: Ertu Með Spurningu?
 pleaseMail: Vinsamlegast Sendu Tölvupóst
 topupAmount: Endurhlaða Upphæð
@@ -26,3 +26,7 @@ addNewCard: Bættu Við Nýju Hleðslukorti
 setDefault: Stillt Sem Sjálfgefið
 expire: Gildistíma
 cardFee: Umsýslugjald
+topupApplyed: Umsókn um frádrátt hefur verið lögð fram
+waitTopupRecv: Beðið Eftir Komu
+whenTopupRecv: Þegar Hleðslan Kemur
+willMailNotify: Láta Þig Vita Með Tölvupósti

@@ -1,6 +1,6 @@
 {
   "name": "@8p/topfix",
-  "version": "0.3.4",
+  "version": "0.3.9",
   "repository": "https://atomgit.com/i18n/plugin.git",
   "homepage": "https://atomgit.com/i18n/plugin/tree/dev/topfix",
   "keywords": [
@@ -16,5 +16,6 @@
     "*"
   ],
   "type": "module",
-  "peerDependencies": {}
+  "peerDependencies": {},
+  "dependencies": {}
 }

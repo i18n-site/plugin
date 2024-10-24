@@ -26,3 +26,7 @@ addNewCard: Engade unha nova tarxeta de recarga
 setDefault: Establecer Como Predeterminado
 expire: Data De Caducidade
 cardFee: Taxa De Manexo
+topupApplyed: Presentouse a Solicitude De Dedución
+waitTopupRecv: Agardando a Chegada
+whenTopupRecv: Cando Chegue a Recarga
+willMailNotify: Avisalo Por Correo Electrónico

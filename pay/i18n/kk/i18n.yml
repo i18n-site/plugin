@@ -26,3 +26,7 @@ addNewCard: Жаңа Зарядтау Картасын Қосыңыз
 setDefault: Әдепкі Ретінде Орнату
 expire: Мерзімнің Өту Күні
 cardFee: Өңдеу Ақысы
+topupApplyed: Шегерім Туралы Өтініш Берілді
+waitTopupRecv: Келуін Күту
+whenTopupRecv: Зарядтау Келгенде
+willMailNotify: Сізге Электрондық Пошта Арқылы Хабарлаңыз

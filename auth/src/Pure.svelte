@@ -7,7 +7,7 @@
   @2-/fp
   @5-/auth > auth
   @8p/box/Focus.js:Box
-  x/pbox.js
+  @2-/pbox
   @8p/boxmd
 
 < n = 1

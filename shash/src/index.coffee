@@ -3,11 +3,8 @@
   svelte > tick
   x/On.js
 
-< (m)=>
-  {$$}=m.$$.ctx[0]
-  {props, ctx}=$$
-  root = ctx[props.root]
-  main = ctx[props.main]
+< (root)=>
+  main = root.childNodes[0].childNodes[0]
 
   scrollTo = (hash)=>
     e = Id hash

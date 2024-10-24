@@ -5,7 +5,7 @@
   @8p/input_mail_a
   @8p/resend:Resend
   @8p/resend/sendFocus.js
-  x/pbox.js
+  @2-/pbox
 
 # NowMail uid NewMail
 < li

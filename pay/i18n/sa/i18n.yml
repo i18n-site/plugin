@@ -26,3 +26,7 @@ addNewCard: नूतनं रिचार्जकार्डं योजय
 setDefault: पूर्वनिर्धारितरूपेण सेट् कुर्वन्तु
 expire: समाप्ति तिथि
 cardFee: संचालनशुल्कम्
+topupApplyed: कटौती आवेदनपत्रं प्रदत्तम् अस्ति
+waitTopupRecv: आगमनं प्रतीक्षमाणः
+whenTopupRecv: यदा पुनः चार्जः आगच्छति
+willMailNotify: ईमेलद्वारा भवन्तं सूचयन्तु

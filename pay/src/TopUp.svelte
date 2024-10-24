@@ -6,7 +6,7 @@
   @3-/time/nYm.js
   @8p/drop:Drop
   @8p/box:Box
-  x/goto.js
+  x/route.js > goto
   x/forceGoto.js
   @2-/new:New
   @2-/ing:Ing
@@ -52,6 +52,7 @@ onMount =>
       if i[2]
         i[2] = nYm i[2]
       return
+    card_li = card_li
 
   if search # 这样用户请求不成功 , 还可以刷新重试
     goto pathname
@@ -192,10 +193,10 @@ submit = =>
               +if ed[2] == 6
                 | >topupOk
                 +else
-                  b 扣费申请已提交
-                  b 等待到账中
-                  b 当充值到账时
-                  b 将邮件通知您
+                  b >topupApplyed
+                  b >waitTopupRecv
+                  b >whenTopupRecv
+                  b >willMailNotify
 
             button >ok
             +else
@@ -357,4 +358,3 @@ form>i>a
 b>:global(b.w)
   margin 64px auto
 </style>
-

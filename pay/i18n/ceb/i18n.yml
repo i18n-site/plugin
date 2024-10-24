@@ -26,3 +26,7 @@ addNewCard: Pagdugang Bag-Ong Recharge Card
 setDefault: Ibutang Isip Default
 expire: Expiration Date
 cardFee: Bayad Sa Pagdumala
+topupApplyed: Ang aplikasyon sa deduction gisumite na
+waitTopupRecv: Naghulat Sa Pag-Abot
+whenTopupRecv: Pag-Abot Sa Recharge
+willMailNotify: Pahibalo Kanimo Pinaagi Sa Email

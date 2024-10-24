@@ -3,10 +3,10 @@ translate: Whakamaori
 topup: Runga Ake
 manual: Ā-Ringa
 bonus: Bonus
-creditCard: Kaari Nama
+creditCard: Kāri Nama
 asset: Rawa
 amountInTotal: Katoa
-needTopup: Tena koa ki te utu tuatahi
+needTopup: Tena koa whakakiia i te tuatahi
 topupOnWay: Kei te haere tonu te whakakii
 autoChargeTip: Ki te kore e ranea te toenga, ka utua aunoatia
 autoChargeHelp: Ki te kore e ranea te toenga, ka tangohia aunoatia te moni nama
@@ -26,3 +26,7 @@ addNewCard: Tāpirihia He Kaari Utu Hou
 setDefault: Tautuhi Hei Taunoa
 expire: Rā Paunga
 cardFee: Utu Whakahaere
+topupApplyed: Kua Tukuna Te Tono Tangohanga
+waitTopupRecv: E tatari ana mo te taenga mai
+whenTopupRecv: Ka Tae Mai Te Recharge
+willMailNotify: Whakamōhio Atu Mā Te Īmēra

@@ -26,3 +26,7 @@ addNewCard: Tambahkan Kartu Isi Ulang Baru
 setDefault: Tetapkan Sebagai Default
 expire: Kedaluwarsa
 cardFee: Biaya Penanganan
+topupApplyed: Permohonan Pengurangan Telah Diajukan
+waitTopupRecv: Menunggu Kedatangan
+whenTopupRecv: Saat Isi Ulang Tiba
+willMailNotify: Memberi Tahu Anda Melalui Email

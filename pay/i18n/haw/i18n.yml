@@ -15,7 +15,7 @@ pleaseMail: E Leka Uila
 topupAmount: Ka Nui Hoʻouka Hou
 USD: Dala
 # EUR: Euro
-topUpFailed: ʻAʻole Hiki Ke Hoʻouka Hou
+topUpFailed: ʻAʻole Hiki Ke Kau Hou
 rtRetry: E Hoʻi a Hoʻāʻo Hou
 amount: Ka Nui
 # Pākuʻi: Pākēkē
@@ -26,3 +26,7 @@ addNewCard: Hoʻohui i ke kāleka hoʻopiha hou
 setDefault: E hoʻonoho ma ke ʻano he paʻamau
 expire: Ka Lā Pau
 cardFee: Uku Lawelawe
+topupApplyed: Ua waiho ʻia ka palapala hoʻoemi
+waitTopupRecv: Ke kali nei no ka hōʻea ʻana mai
+whenTopupRecv: Ke Hiki Mai Ka Recharge
+willMailNotify: Hoʻomaopopo iā ʻoe ma ka leka uila

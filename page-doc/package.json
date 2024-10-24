@@ -1,6 +1,6 @@
 {
   "name": "@8p/page-doc",
-  "version": "0.3.53",
+  "version": "0.3.71",
   "repository": {
     "type": "git",
     "url": "git+https://atomgit.com/i18n/plugin.git"
@@ -19,16 +19,10 @@
     "lib/*"
   ],
   "peerDependencies": {
-    "@8p/h404": "workspace:^",
-    "@8p/mc": "workspace:^",
-    "@8p/side": "workspace:^",
-    "@8p/toclib": "workspace:^",
-    "@8p/topbar": "workspace:^",
-    "@8p/wait": "workspace:^"
+    "@8p/base-toc": "workspace:^",
+    "@8p/md": "workspace:^",
+    "@8p/wait": "workspace:^",
+    "svelte": "^5.0.3"
   },
-  "scripts": {},
-  "type": "module",
-  "dependencies": {
-    "@3-/title_tip": "^0.1.9"
-  }
+  "type": "module"
 }

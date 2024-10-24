@@ -26,3 +26,7 @@ addNewCard: Add a New Card
 setDefault: Set as Default
 expire: Expiry Date
 cardFee: Transaction Fee
+topupApplyed: Deduction request submitted
+waitTopupRecv: Awaiting account credit
+whenTopupRecv: Upon arrival of the recharge
+willMailNotify: Email notification will be sent to you

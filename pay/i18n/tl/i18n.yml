@@ -26,3 +26,7 @@ addNewCard: Magdagdag Ng Bagong Recharge Card
 setDefault: Itakda Bilang Default
 expire: Petsa Ng Pag-Expire
 cardFee: Bayad Sa Paghawak
+topupApplyed: Naisumite na ang aplikasyon ng pagbabawas
+waitTopupRecv: Naghihintay Sa Pagdating
+whenTopupRecv: Pagdating Ng Recharge
+willMailNotify: Ipaalam sa iyo sa pamamagitan ng email

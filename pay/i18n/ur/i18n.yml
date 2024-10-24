@@ -26,3 +26,7 @@ addNewCard: نیا ریچارج کارڈ شامل کریں۔
 setDefault: بطور ڈیفالٹ سیٹ کریں۔
 expire: میعاد ختم ہونے کی تاریخ
 cardFee: ہینڈلنگ فیس
+topupApplyed: کٹوتی کی درخواست جمع کرائی گئی ہے۔
+waitTopupRecv: آمد کا انتظار ہے۔
+whenTopupRecv: جب ریچارج آتا ہے۔
+willMailNotify: آپ کو ای میل کے ذریعے مطلع کریں۔

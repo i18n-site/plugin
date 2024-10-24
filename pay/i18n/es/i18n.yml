@@ -7,15 +7,15 @@ creditCard: Tarjeta de crédito
 asset: Activos
 amountInTotal: Total
 needTopup: Por favor, realice una recarga primero
-topupOnWay: Recarga en curso
-autoChargeTip: Cuando el saldo sea insuficiente, se realizará automáticamente una recarga
+topupOnWay: Recarga en proceso
+autoChargeTip: Cuando el saldo sea insuficiente, se realizará automáticamente un cargo prepago
 autoChargeHelp: Cuando el saldo sea insuficiente, se deducirá automáticamente el importe adeudado
 needHelp: ¿Hay algún problema?
 pleaseMail: Por favor, envíe un correo electrónico
 topupAmount: Monto de recarga
 USD: Dólares
 # EUR: Euros
-topUpFailed: Recarga fallida
+topUpFailed: Error en la recarga
 rtRetry: Volver y reintentar
 amount: Cantidad
 # exchangeRate: Tasa de cambio
@@ -26,3 +26,7 @@ addNewCard: Agregar nueva tarjeta de recarga
 setDefault: Establecer como predeterminado
 expire: Fecha de caducidad
 cardFee: Tarifa de servicio
+topupApplyed: La solicitud de cargo ha sido presentada
+waitTopupRecv: En espera de que se acredite el depósito
+whenTopupRecv: Al momento en que se reciba la recarga
+willMailNotify: Se le enviará un correo electrónico de notificación

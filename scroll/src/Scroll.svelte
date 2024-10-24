@@ -1,24 +1,25 @@
 <template lang="pug">
-b.scroll(@&b)
+b.scroll(@&R)
   div
     .m(@&m)
       slot
   +if BAR
-    <svelte:component this="{BAR}" b={b} m={m}/>
+    <svelte:component this="{BAR}" b={R} m={m}/>
 </template>
 
 
 <script lang="coffee">
 > @2-/has_mouse:HAS_MOUSE
 
-+ b, m, BAR
+< R
++ m, BAR
 
 onMount =>
   if HAS_MOUSE
     BAR=(await import('./Bar.svelte')).default
   return
 
-`export { b as root , m as main}`
+`export { m as main}`
 
 </script>
 

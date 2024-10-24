@@ -26,3 +26,7 @@ addNewCard: เพิ่มบัตรเติมเงินใหม่
 setDefault: ตั้งเป็นค่าเริ่มต้น
 expire: วันหมดอายุ
 cardFee: ค่าธรรมเนียมการจัดการ
+topupApplyed: ได้ส่งใบสมัครการหักเงินแล้ว
+waitTopupRecv: รอการมาถึง
+whenTopupRecv: เมื่อการชาร์จมาถึง
+willMailNotify: แจ้งให้คุณทราบทางอีเมล์

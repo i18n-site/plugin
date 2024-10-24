@@ -1,0 +1,31 @@
+{
+  "name": "@8p/qy",
+  "version": "0.1.31",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n/plugin.git"
+  },
+  "homepage": "https://atomgit.com/i18n/plugin/tree/dev/qy",
+  "keywords": [
+    "i18n.site/plugin"
+  ],
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    ".": "./lib/index.js",
+    "./*": "./lib/*"
+  },
+  "files": [
+    "lib/*"
+  ],
+  "devDependencies": {},
+  "scripts": {},
+  "type": "module",
+  "peerDependencies": {
+    "@2-/new": "^0.1.2",
+    "@2-/qy": "^0.1.29",
+    "@2-/watch": "^0.1.7",
+    "@3-/debounce": "^0.1.2",
+    "@8p/box": "workspace:^"
+  }
+}

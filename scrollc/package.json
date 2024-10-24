@@ -1,6 +1,6 @@
 {
   "name": "@8p/scrollc",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "repository": {
     "type": "git",
     "url": "git+https://atomgit.com/i18n/plugin.git"
@@ -21,7 +21,6 @@
   "scripts": {},
   "type": "module",
   "peerDependencies": {
-    "@2-/svelte_slot": "^0.1.1",
     "@8p/topbar": "workspace:^"
   }
 }

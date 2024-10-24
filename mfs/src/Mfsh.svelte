@@ -2,14 +2,14 @@
 > ./Mfs.svelte
   @8p/shash
 
-+ m
++ R
 
 onMount =>
-  shash m
+  shash R
 </script>
 
 <template lang="pug">
-Mfs(@&m)
+Mfs(bind:R=R)
   slot
 </template>
 

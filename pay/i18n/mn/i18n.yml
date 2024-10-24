@@ -26,3 +26,7 @@ addNewCard: Шинэ Цэнэглэх Карт Нэмнэ Үү
 setDefault: Өгөгдмөл Болгож Тохируулах
 expire: Дуусах Хугацаа
 cardFee: Харьцах Төлбөр
+topupApplyed: Суутгалын Өргөдөл Гаргасан
+waitTopupRecv: Ирэхийг Хүлээж Байна
+whenTopupRecv: Цэнэг Ирэх Үед
+willMailNotify: Танд Имэйлээр Мэдэгдэнэ Үү

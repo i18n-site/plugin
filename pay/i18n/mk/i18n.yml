@@ -26,3 +26,7 @@ addNewCard: Додадете Нова Картичка За Полнење
 setDefault: Поставете Како Стандардно
 expire: Рок На Траење
 cardFee: Манипулативна Такса
+topupApplyed: Поднесено Е Барање За Одбиток
+waitTopupRecv: Се Чека Пристигнување
+whenTopupRecv: Кога Ќе Пристигне Полнењето
+willMailNotify: Ве Извести Преку Е-Пошта

@@ -25,11 +25,11 @@ sed -i 's/\.\/lib\//\.\//g' lib/package.json
 fi
 
 
-# wait || \
-#   {
-#     echo "error : $?" >&2
-#     exit 1
-#   }
+wait || \
+  {
+    echo "error : $?" >&2
+    exit 1
+  }
 
 #find lib/ -name "*.svelte" -type f -print0 | xargs -0 touch
 

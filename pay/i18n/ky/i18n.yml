@@ -26,3 +26,7 @@ addNewCard: Жаңы Толуктоо Картасын Кошуңуз
 setDefault: Демейки Катары Коюу
 expire: Жарамдык Датасы
 cardFee: Иштетүү Акысы
+topupApplyed: Чечим Салуу Арызы Берилди
+waitTopupRecv: Келүүнү Күтүүдө
+whenTopupRecv: Заряддоо Келгенде
+willMailNotify: Электрондук Почта Аркылуу Кабарлаңыз

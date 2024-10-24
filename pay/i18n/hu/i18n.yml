@@ -1,28 +1,32 @@
 bill: Számla
-translate: Fordítás
-topup: Újratöltés
-manual: Kézi
+translate: Lefordítani
+topup: Feltölteni
+manual: Kézikönyv
 bonus: Bónusz
 creditCard: Hitelkártya
-asset: Esetek
-amountInTotal: Összesen
-needTopup: Kérjük, először töltsön fel
-topupOnWay: Újratöltés folyamatban
-autoChargeTip: Ha az egyenleg nem elegendő, automatikusan előlegfizetés történik
-autoChargeHelp: Ha az egyenleg nem elegendő, automatikusan levonják a tartozás összeget
-needHelp: Van kérdésed?
-pleaseMail: Kérjük, küldjön e-mailt
-topupAmount: Újratöltési összeg
+asset: Eszközöket
+amountInTotal: Teljes
+needTopup: Kérjük, Először Töltse Fel
+topupOnWay: Feltöltés Folyamatban
+autoChargeTip: Ha az egyenleg nem elegendő, az előleg automatikusan megtörténik
+autoChargeHelp: Ha az egyenleg nem elegendő, a hátralékos összeget automatikusan levonják
+needHelp: Kérdése Van?
+pleaseMail: Kérjük E-Mailben
+topupAmount: Feltöltés Összege
 USD: Dollár
 # EUR: Euró
-topUpFailed: Újratöltés sikertelen
-rtRetry: Menj vissza, és próbáld újra
+topUpFailed: Az Újratöltés Nem Sikerült
+rtRetry: Menjen Vissza, És Próbálja Újra
 amount: Mennyiség
 # Árfolyam: Árfolyam
 pay: Fizetés
-topupOk: Újratöltés sikeres
-addCard: Újratöltőkártya hozzáadása
-addNewCard: Új újratöltőkártya hozzáadása
-setDefault: Beállítás alapértelmezettnek
-expire: Lejárati dátum
-cardFee: Díj
+topupOk: Az Újratöltés Sikeres
+addCard: Töltőkártya Hozzáadása
+addNewCard: Új Feltöltőkártya Hozzáadása
+setDefault: Beállítás Alapértelmezettként
+expire: Lejárati Idő
+cardFee: Kezelési Díj
+topupApplyed: Levonási Kérelem Benyújtásra Került
+waitTopupRecv: Várakozás Az Érkezésre
+whenTopupRecv: Amikor Megérkezik a Feltöltődés
+willMailNotify: Értesítsen E-Mailben

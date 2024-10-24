@@ -26,3 +26,7 @@ addNewCard: הוסף כרטיס טעינה חדש
 setDefault: הגדר כברירת מחדל
 expire: תַאֲרִיך תְפוּגָה
 cardFee: דמי טיפול
+topupApplyed: הוגשה בקשה לניכוי
+waitTopupRecv: מחכה להגעה
+whenTopupRecv: כשהטעינה מגיעה
+willMailNotify: תודיע לך במייל

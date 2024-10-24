@@ -7,7 +7,7 @@
   ./auth.js > signIn
   ./exit.js
   x/user.js > setUser
-  x/pbox.js
+  @2-/pbox
   @8p/box/Focus.js
   @8p/box:Box
   @8p/menu

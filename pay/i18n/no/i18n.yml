@@ -1,28 +1,32 @@
 bill: Regning
 translate: Oversettelse
-topup: Oppfyll
+topup: Opplading
 manual: Manuell
 bonus: Bonus
 creditCard: Kredittkort
-asset: Eiendeler
+asset: Formue
 amountInTotal: Totalt
-needTopup: Vennligst fyll opp først
-topupOnWay: Oppfylling pågår
-autoChargeTip: Når saldoen er for lav, vil forhåndsbetaling skje automatisk
-autoChargeHelp: Når saldoen er for lav, vil beløpet for utestående gjeld bli trukket automatisk
+needTopup: Vennligst foreta en opplading først
+topupOnWay: Opplading pågår
+autoChargeTip: Når saldoen er for lav, vil en automatisk forhåndsbetaling bli utført
+autoChargeHelp: Når saldoen er for lav, vil den utestående summen automatisk bli trukket
 needHelp: Er det et problem?
-pleaseMail: Send en e-post
-topupAmount: Oppfyllingsbeløp
+pleaseMail: Vennligst send en e-post
+topupAmount: Oppladingsbeløp
 USD: Dollar
 # EUR: Euro
-topUpFailed: Oppfylling mislyktes
+topUpFailed: Opplading mislyktes
 rtRetry: Gå tilbake og prøv igjen
 amount: Antall
-# Valutakurs: Valutakurs
-pay: Betaling
-topupOk: Oppfylling fullført
-addCard: Legg til oppfyllingskort
-addNewCard: Legg til nytt oppfyllingskort
+# valutakurs: Valutakurs
+pay: Betal
+topupOk: Opplading fullført
+addCard: Legg til opp ladingskort
+addNewCard: Legg til et nytt opp ladingskort
 setDefault: Sett som standard
 expire: Utløpsdato
-cardFee: Transaksjonsgebyr
+cardFee: Gebyr
+topupApplyed: Fradragssøknaden er sendt inn
+waitTopupRecv: Venter på å bli satt inn
+whenTopupRecv: Når oppladingen er på konto
+willMailNotify: Vi vil sende deg en e-postvarsling

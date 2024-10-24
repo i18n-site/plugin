@@ -1,6 +1,6 @@
 bill: Rekening
 translate: Vertaal
-topup: Aanvul
+topup: Vul Aan
 manual: Handleiding
 bonus: Bonus
 creditCard: Kredietkaart
@@ -26,3 +26,7 @@ addNewCard: Voeg Nuwe Herlaaikaart By
 setDefault: Stel as Verstek
 expire: Vervaldatum
 cardFee: Hanteringsfooi
+topupApplyed: Aftrekkingsaansoek Is Ingedien
+waitTopupRecv: Wag Vir Aankoms
+whenTopupRecv: Wanneer Die Herlaai Kom
+willMailNotify: Stel jou per e-pos in kennis

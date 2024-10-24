@@ -6,13 +6,10 @@ export default(
   scroll
   main
 )=>
-  for i from main.$$.ctx
-    if i instanceof HTMLElement
-      A = tree hash i # toc
-      if A
-        return [
-          A
-          scroll.$$.ctx[0].$$.ctx[0]
-        ]
-      break
+  A = tree hash main # toc
+  if A
+    return [
+      A
+      scroll
+    ]
   return

@@ -9,7 +9,7 @@ amountInTotal: ጠቅላላ
 needTopup: እባክዎ መጀመሪያ ይሙሉ
 topupOnWay: መሙላት በሂደት ላይ ነው።
 autoChargeTip: ቀሪ ሂሳቡ በቂ ካልሆነ የቅድሚያ ክፍያ በራስ-ሰር ይከናወናል
-autoChargeHelp: ቀሪ ሒሳቡ በቂ ካልሆነ፣ ውዝፍ ዕዳው መጠን በራስ-ሰር ይቀንሳል
+autoChargeHelp: ቀሪ ሒሳቡ በቂ ካልሆነ፣ ውዝፍ ዕዳው መጠን በራስ-ሰር ይቀነሳል።
 needHelp: ጥያቄ አለህ?
 pleaseMail: እባክዎን በኢሜል ይላኩ
 topupAmount: የመሙያ መጠን
@@ -26,3 +26,7 @@ addNewCard: አዲስ የኃይል መሙያ ካርድ ያክሉ
 setDefault: እንደ ነባሪ አዘጋጅ
 expire: የማለቂያ ቀን
 cardFee: አያያዝ ክፍያ
+topupApplyed: የመቀነስ ማመልከቻ ገብቷል።
+waitTopupRecv: መምጣትን በመጠበቅ ላይ
+whenTopupRecv: መሙላት ሲመጣ
+willMailNotify: በኢሜል አሳውቅዎ

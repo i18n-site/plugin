@@ -1,13 +1,13 @@
 bill: Phaktura
 translate: Jaqukipaña
-topup: Ukatsti
+topup: Ukatsti Juk’ampi
 manual: Amparampi
 bonus: Bono Ukampi
 creditCard: Tarjeta De Crédito Ukampi
 asset: Akiwunaka
 amountInTotal: Taqpacha
 needTopup: Nayraqatax Recargañamawa
-topupOnWay: Recarga Ukax Nayrar Sartaskiwa
+topupOnWay: Recarga Ukax Lurasiski
 autoChargeTip: Kunapachatixa saldo ukaxa jani phuqhatäki ukjaxa, nayraqata payllawixa automáticamente luratarakiniwa
 autoChargeHelp: Kunapachatixa saldo ukaxa jani phuqhatäki ukjaxa, qullqi atraso ukaxa automáticamente apsutäxaniwa
 needHelp: ¿Mä Jisktʼa Utjtamti?
@@ -26,3 +26,7 @@ addNewCard: Machaq tarjeta de recarga ukamp yapxataña
 setDefault: Ukhama Utt’ayata
 expire: Kuna Urus Tukusiñapa
 cardFee: Apnaqaña Qullqi
+topupApplyed: Deducción Sata Mayiwixa Uñt’ayatarakiwa
+waitTopupRecv: Ukar Puriñ Suyt’aña
+whenTopupRecv: Kunapachatixa Recarga Ukaxa Purini Ukhaxa
+willMailNotify: Correo Electrónico Tuqiw Yatiyapxäta

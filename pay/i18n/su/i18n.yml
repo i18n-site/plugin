@@ -8,7 +8,7 @@ asset: Aset
 amountInTotal: Total
 needTopup: Mangga Ngecas Heula
 topupOnWay: Ngecas Dina Kamajuan
-autoChargeTip: Nalika kasaimbangan henteu cekap, pamayaran sateuacana bakal otomatis dilakukeun
+autoChargeTip: Nalika saldo henteu cekap, prepayment bakal otomatis dilakukeun
 autoChargeHelp: Nalika kasaimbangan teu cukup, jumlah tunggakan bakal otomatis deducted
 needHelp: Aya Patarosan?
 pleaseMail: Mangga Surélék
@@ -26,3 +26,7 @@ addNewCard: Tambahkeun Kartu Ngecas Anyar
 setDefault: Setel Salaku Standar
 expire: Tanggal Kadaluarsa
 cardFee: Fee Penanganan
+topupApplyed: Aplikasi Deduksi Parantos Dikintunkeun
+waitTopupRecv: Ngadagoan Kadatangan
+whenTopupRecv: Nalika Muatanana Datang
+willMailNotify: Ngabéjaan Ku Email

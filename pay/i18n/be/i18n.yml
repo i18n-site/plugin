@@ -26,3 +26,7 @@ addNewCard: Дадаць Новую Карту Папаўнення
 setDefault: Усталяваць Па Змаўчанні
 expire: Тэрмін Прыдатнасці
 cardFee: Плата За Апрацоўку
+topupApplyed: Заяўка На Вылік Пададзена
+waitTopupRecv: Чакаю Прыезду
+whenTopupRecv: Калі Прыйдзе Папаўненне
+willMailNotify: Апавясціць Вас Па Электроннай Пошце

@@ -1,28 +1,32 @@
-bill: Faktura
-translate: Översättning
-topup: Ladda upp
+bill: Fakturera
+translate: Översätta
+topup: Fylla På
 manual: Manuell
 bonus: Bonus
 creditCard: Kreditkort
 asset: Tillgångar
-amountInTotal: Totalt
-needTopup: Vänligen ladda upp först
-topupOnWay: Uppladdning pågår
-autoChargeTip: När saldot är otillräckligt kommer automatiskt en förskottsbetalning att genomföras
-autoChargeHelp: När saldot är otillräckligt kommer beloppet i efterskott att dras automatiskt
-needHelp: Finns det ett problem?
-pleaseMail: Vänligen skicka ett e-postmeddelande
-topupAmount: Uppładde belopp
+amountInTotal: Total
+needTopup: Ladda Först
+topupOnWay: Uppladdning Pågår
+autoChargeTip: När saldot är otillräckligt kommer förskottsbetalning att göras automatiskt
+autoChargeHelp: När saldot är otillräckligt dras beloppet i efterskott automatiskt
+needHelp: Har Du en Fråga?
+pleaseMail: Vänligen Maila
+topupAmount: Ladda Belopp
 USD: Dollar
 # EUR: Euro
-topUpFailed: Uppładningen misslyckades
-rtRetry: Gå tillbaka och försök igen
-amount: Antal
-# exchangeRate: Växelkurs
-pay: Betalning
-topupOk: Uppładningen lyckades
-addCard: Lägg till uppladdningskort
-addNewCard: Lägg till ett nytt uppladdningskort
-setDefault: Ställ in som standard
+topUpFailed: Uppladdningen Misslyckades
+rtRetry: Gå Tillbaka Och Försök Igen
+amount: Kvantitet
+# Växelkurs: Växelkurs
+pay: Betala
+topupOk: Uppladdningen Lyckades
+addCard: Lägg Till Laddningskort
+addNewCard: Lägg Till Nytt Laddningskort
+setDefault: Ställ in Som Standard
 expire: Utgångsdatum
-cardFee: Avgift för hantering
+cardFee: Hanteringsavgift
+topupApplyed: Avdragsansökan Har Lämnats In
+waitTopupRecv: Väntar På Ankomst
+whenTopupRecv: När Uppladdningen Kommer
+willMailNotify: Meddela Dig via E-Post

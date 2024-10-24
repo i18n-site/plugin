@@ -21,13 +21,13 @@ onMount =>
 
 <template lang="pug">
 +if md != undefined
-  Scroll(@&S)
+  Scroll(bind:R=S)
     +if A
       Side
         Toc(A:)
     b
       Mc
-        MdTxt(@&M md:md)
+        MdTxt(bind:R=M md:md)
       i-h.F foot
   +else
     Wait

@@ -1,17 +1,13 @@
 {isArray} = Array
 
-flat = (toc, li)=>
+export default flat = (toc, push)=>
   for i from toc
     if isArray(i)
       if isArray(i[1])
         if isArray(i[0])
-          li.push i[0]
-        flat i[1], li
+          push i[0]
+        flat i[1], push
       else
-        li.push i
+        push i
   return
 
-< (toc)=>
-  li = []
-  flat(toc, li)
-  return li

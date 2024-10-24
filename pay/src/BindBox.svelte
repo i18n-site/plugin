@@ -11,7 +11,7 @@ b
 <style lang="stylus">
 b
   display block
-  max-height calc(100vh - 128px)
+  max-height calc(100dvh - 128px)
   overflow auto
 </style>
 

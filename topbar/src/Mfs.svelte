@@ -1,16 +1,17 @@
 <script lang="coffee">
 > @8p/mfs/Mfs.svelte
-  ./fix.js
+  ./topfix.js
 
-+ m
++ R
+< C
 
 onMount =>
-  fix(m)
+  topfix(R)
 </script>
 
 <template lang="pug">
-Mfs(@&m)
-  slot
+Mfs(bind:R=R)
+  <svelte:component this="{C}"/>
 </template>
 
 <style lang="stylus"></style>

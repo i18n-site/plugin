@@ -26,3 +26,7 @@ addNewCard: ເພີ່ມບັດເຕີມເງິນໃໝ່
 setDefault: ຕັ້ງເປັນຄ່າເລີ່ມຕົ້ນ
 expire: ວັນໝົດອາຍຸ
 cardFee: ຄ່າທໍານຽມການຈັດການ
+topupApplyed: ຄໍາຮ້ອງສະຫມັກຫັກໄດ້ຖືກສົ່ງ
+waitTopupRecv: ລໍຖ້າການມາຮອດ
+whenTopupRecv: ເມື່ອການເຕີມເງິນມາຮອດ
+willMailNotify: ແຈ້ງໃຫ້ທ່ານໂດຍອີເມລ໌

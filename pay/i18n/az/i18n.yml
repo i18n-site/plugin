@@ -26,3 +26,7 @@ addNewCard: Yeni Doldurma Kartı Əlavə Edin
 setDefault: Defolt Olaraq Təyin Edin
 expire: Son Istifadə Tarixi
 cardFee: Idarə Haqqı
+topupApplyed: Tutulma Ərizəsi Təqdim Edilmişdir
+waitTopupRecv: Gəlişi Gözləyir
+whenTopupRecv: Doldurma Gələndə
+willMailNotify: Sizi E-Poçtla Xəbərdar Edin

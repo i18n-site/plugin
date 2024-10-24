@@ -26,3 +26,7 @@ addNewCard: 添加新的充值卡
 setDefault: 设为默认
 expire: 到期日
 cardFee: 手续费
+topupApplyed: 扣费申请已提交
+waitTopupRecv: 等待到账中
+whenTopupRecv: 当充值到账时
+willMailNotify: 将邮件通知您

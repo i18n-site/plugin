@@ -1,12 +1,12 @@
 <script lang="coffee">
 > @8p/scroll:Scroll
 
-< scroll
+< R
 
 </script>
 
 <template lang="pug">
-Scroll(@&scroll)
+Scroll(bind:R=R)
   i
     b
       slot

@@ -26,3 +26,7 @@ addNewCard: नया रिचार्ज कार्ड जोड़ें
 setDefault: डिफाल्ट के रूप में सेट
 expire: समाप्ति तिथि
 cardFee: संचालन शुल्क
+topupApplyed: कटौती आवेदन प्रस्तुत किया गया है
+waitTopupRecv: आगमन की प्रतीक्षा की जा रही है
+whenTopupRecv: जब रिचार्ज आएगा
+willMailNotify: आपको ईमेल द्वारा सूचित करें

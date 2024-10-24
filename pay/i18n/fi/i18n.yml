@@ -1,28 +1,32 @@
 bill: Lasku
-translate: Käännös
-topup: Täytä saldoa
-manual: Manuaalinen
+translate: Käännä
+topup: Lataus
+manual: Käsin
 bonus: Bonukset
 creditCard: Luottokortti
 asset: Varallisuus
 amountInTotal: Yhteensä
-needTopup: Ole hyvä ja täytä saldoa ensin
-topupOnWay: Täyttö käynnissä
+needTopup: Ole hyvä ja lataa ensin
+topupOnWay: Lataus käynnissä
 autoChargeTip: Kun saldo ei riitä, automaattinen ennakkolaskutus suoritetaan
-autoChargeHelp: Kun saldo ei riitä, velan määrä vähennetään automaattisesti
+autoChargeHelp: Kun saldo ei riitä, velka vähennetään automaattisesti
 needHelp: Onko sinulla kysyttävää?
 pleaseMail: Lähetä sähköpostia
-topupAmount: Täyttösumma
+topupAmount: Latausmäärä
 USD: Dollari
 # EUR: Euro
-topUpFailed: Täyttö epäonnistui
+topUpFailed: Lataus epäonnistui
 rtRetry: Palaa ja yritä uudelleen
 amount: Määrä
 # Valuuttakurssi: Valuuttakurssi
 pay: Maksa
-topupOk: Täyttö onnistui
+topupOk: Lataus onnistui
 addCard: Lisää latauskortti
 addNewCard: Lisää uusi latauskortti
 setDefault: Aseta oletukseksi
-expire: Viimeinen voimassaolopäivä
+expire: Viimeinen käyttöpäivä
 cardFee: Käsittelymaksu
+topupApplyed: Laskutuspyyntö on lähetetty
+waitTopupRecv: Odotetaan saapumista
+whenTopupRecv: Kun rahat ovat saapuneet
+willMailNotify: Ilmoitetaan sinulle sähköpostitse

@@ -26,3 +26,7 @@ addNewCard: Cuir Cárta Athluchtaithe Nua Leis
 setDefault: Socraigh Mar Réamhshocrú
 expire: Dáta Éaga
 cardFee: Táille Láimhseála
+topupApplyed: Tá Iarratas Asbhainte Curtha Isteach
+waitTopupRecv: Ag Fanacht Le Teacht
+whenTopupRecv: Nuair a Thagann an Recharge
+willMailNotify: Cuir in iúl duit trí ríomhphost

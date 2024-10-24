@@ -1,6 +1,6 @@
 bill: Febugbalẽ
 translate: Ɖe Gbe Gɔme
-topup: Top Up
+topup: Tsɔ Kpe Ɖe Eŋu
 manual: Asi Nu
 bonus: Bonus Ƒe Fetu
 creditCard: Gaxɔgbalẽvi
@@ -26,3 +26,7 @@ addNewCard: Tsɔ recharge card yeye kpe ɖe eŋu
 setDefault: Ðoe abe nusi woɖo ɖi ene
 expire: Ŋkeke Si Dzi Wòawu Enu
 cardFee: fe si woxena ɖe dɔa wɔwɔ ta
+topupApplyed: Wotsɔ gaɖeɖe ƒe dɔbiagbalẽvi ɖo ɖa
+waitTopupRecv: Wole Lalam Be Woava Ɖo
+whenTopupRecv: Ne Recharge La Va Ɖo
+willMailNotify: Na Nànya to E-Mail Dzi

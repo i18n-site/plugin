@@ -26,3 +26,7 @@ addNewCard: Pievienojiet Jaunu Papildināšanas Karti
 setDefault: Iestatīt Kā Noklusējumu
 expire: Derīguma Termiņš
 cardFee: Apstrādes Maksa
+topupApplyed: Iesniegts Atskaitīšanas Pieteikums
+waitTopupRecv: Gaida Ierašanos
+whenTopupRecv: Kad Pienāk Uzlāde
+willMailNotify: Paziņot Jums Pa E-Pastu

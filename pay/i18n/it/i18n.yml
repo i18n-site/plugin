@@ -1,17 +1,17 @@
 bill: Conto
-translate: Traduzione
+translate: Trafficare
 topup: Ricarica
 manual: Manuale
 bonus: Bonus
 creditCard: Carta di credito
-asset: Assetti
+asset: Attività
 amountInTotal: Totale
-needTopup: Prima di tutto, effettua una ricarica
+needTopup: Ricarica prima, per favore
 topupOnWay: Ricarica in corso
-autoChargeTip: Quando il saldo è insufficiente, la ricarica anticipata verrà eseguita automaticamente
-autoChargeHelp: Quando il saldo è insufficiente, l'importo dovuto verrà detratto automaticamente
-needHelp: Ci sono problemi?
-pleaseMail: Invia una电子邮件
+autoChargeTip: Quando il saldo è insufficiente, la预付款将被自动执行
+autoChargeHelp: Quando il saldo è insufficiente, l'importo dovuto sarà addebitato automaticamente
+needHelp: Hai un problema?
+pleaseMail: Inviare una email, per favore
 topupAmount: Importo della ricarica
 USD: Dollaro
 # EUR: Euro
@@ -26,3 +26,7 @@ addNewCard: Aggiungi una nuova carta di ricarica
 setDefault: Imposta come predefinito
 expire: Data di scadenza
 cardFee: Commissione
+topupApplyed: La richiesta di addebito è stata presentata
+waitTopupRecv: In attesa di accredito
+whenTopupRecv: Al momento del accredito della ricarica
+willMailNotify: Le invierò una notifica via email

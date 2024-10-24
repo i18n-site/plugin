@@ -26,3 +26,7 @@ addNewCard: Tambah Kad Cas Semula Baharu
 setDefault: Tetapkan Sebagai Lalai
 expire: Tarikh Luput
 cardFee: Yuran Pengendalian
+topupApplyed: Permohonan Potongan Telah Dikemukakan
+waitTopupRecv: Menunggu Ketibaan
+whenTopupRecv: Apabila Cas Semula Tiba
+willMailNotify: Beritahu Anda Melalui E-Mel

@@ -9,7 +9,7 @@ amountInTotal: Sokajy
 needTopup: Miangavy Recharge Aloha
 topupOnWay: Mitohy Ny Famerenam-Bola
 autoChargeTip: Rehefa tsy ampy ny fifandanjana dia atao ho azy ny fandoavana mialoha
-autoChargeHelp: Rehefa tsy ampy ny fandatsaham-bola dia ahena ho azy ny vola averina
+autoChargeHelp: Rehefa tsy ampy ny fandatsaham-bola dia ahena ho azy ny vola tsy voaloa
 needHelp: Manana Fanontaniana?
 pleaseMail: Azafady Mailaka
 topupAmount: Recharge Vola
@@ -26,3 +26,7 @@ addNewCard: Manampia Karatra Recharge Vaovao
 setDefault: Ataovy Ho Default
 expire: Daty Farany
 cardFee: Saram-Pikarakarana
+topupApplyed: Natolotra Ny Fangatahana Deduction
+waitTopupRecv: Miandry Ny Fahatongavana
+whenTopupRecv: Rehefa Tonga Ny Recharge
+willMailNotify: Mampandre Anao Amin'ny Mailaka

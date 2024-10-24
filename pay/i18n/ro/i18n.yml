@@ -1,28 +1,32 @@
-bill: FACTURĂ
-translate: Traducere
-topup: Reîncărcare
+bill: Proiect De Lege
+translate: Traduce
+topup: Completa
 manual: Manual
 bonus: Bonus
 creditCard: Card De Credit
 asset: Active
 amountInTotal: Total
 needTopup: Vă rugăm să reîncărcați mai întâi
-topupOnWay: Reîncărcare în desfășurare
-autoChargeTip: Când soldul este insuficient, se va efectua automat o plată în avans
-autoChargeHelp: Când soldul este insuficient, se va deduce automat suma datorată
-needHelp: Există o problemă?
-pleaseMail: Te rog să trimiți un e-mail.
-topupAmount: Sumă de reîncărcare
-USD: Dolari
+topupOnWay: Reîncărcare În Curs
+autoChargeTip: Când soldul este insuficient, plata anticipată va fi efectuată automat
+autoChargeHelp: Când soldul este insuficient, restanțele vor fi deduse automat
+needHelp: Ai O Întrebare?
+pleaseMail: Te Rog Email
+topupAmount: Suma De Reîncărcare
+USD: Dolar
 # EUR: Euro
-topUpFailed: Reîncărcarea a eșuat
-rtRetry: Retorn și încercați din nou
+topUpFailed: Reîncărcarea a Eșuat
+rtRetry: Întoarceți-Vă Și Încercați Din Nou
 amount: Cantitate
-# exchangeRate: Rată de schimb
+# exchangeRate: Curs De Schimb
 pay: Plată
-topupOk: Reîncărcare reușită
-addCard: Adăugați card de reîncărcare
+topupOk: Reîncărcare Reușită
+addCard: Adăugați Card De Reîncărcare
 addNewCard: Adăugați un card nou de reîncărcare
-setDefault: Setați ca implicit
-expire: Data expirării
-cardFee: Taxă de procesare
+setDefault: Setați Ca Implicit
+expire: Data Expirării
+cardFee: Taxa De Manipulare
+topupApplyed: A fost depusă cererea de deducere
+waitTopupRecv: În Așteptarea Sosirii
+whenTopupRecv: Când Sosește Reîncărcarea
+willMailNotify: Vă Anunțăm Prin E-Mail

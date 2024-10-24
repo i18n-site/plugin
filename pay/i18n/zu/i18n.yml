@@ -18,7 +18,7 @@ USD: Idola
 topUpFailed: Ukushajwa Kabusha Kwehlulekile
 rtRetry: Buyela Emuva Bese Uzama Futhi
 amount: Ubuningi
-# exchangeRate: Izinga Lokushintshanisa
+# I-exchangeRate: Izinga Lokushintshisana
 pay: Khokha
 topupOk: Ukushajwa Kabusha Kuphumelele
 addCard: Engeza Ikhadi Lokushajwa
@@ -26,3 +26,7 @@ addNewCard: Engeza Ikhadi Elisha Lokushajwa
 setDefault: Setha Njengokuzenzakalelayo
 expire: Usuku Lokuphelelwa Isikhathi
 cardFee: Imali Yokuphatha
+topupApplyed: Isicelo Sokudonswa Kwemali Sithunyelwe
+waitTopupRecv: Ilinde Ukufika
+whenTopupRecv: Lapho I-Recharge Ifika
+willMailNotify: Ikwazise Nge-Imeyili

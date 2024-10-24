@@ -1,28 +1,32 @@
-bill: Hóa đơn
-translate: Phiên dịch
-topup: Nạp tiền
-manual: Thủ công
-bonus: Tiền thưởng
-creditCard: Thẻ tín dụng
-asset: Tài sản
-amountInTotal: Tổng hợp
-needTopup: Vui lòng nạp tiền trước
-topupOnWay: Đang nạp tiền
-autoChargeTip: Khi số dư không đủ, sẽ tự động thực hiện thanh toán trước
-autoChargeHelp: Khi số dư không đủ, sẽ tự động trừ số tiền thiếu nợ
-needHelp: Có vấn đề ?
-pleaseMail: Vui lòng gửi email
-topupAmount: Số tiền nạp
-USD: USD
+bill: Hóa Đơn
+translate: Dịch
+topup: Nạp Tiền
+manual: Thủ Công
+bonus: Thưởng
+creditCard: Thẻ Tín Dụng
+asset: Tài Sản
+amountInTotal: Tổng Cộng
+needTopup: Vui Lòng Nạp Tiền Trước
+topupOnWay: Đang Nạp Tiền
+autoChargeTip: Khi số dư không đủ, việc thanh toán trước sẽ tự động được thực hiện
+autoChargeHelp: Khi số dư không đủ sẽ tự động bị trừ số tiền còn thiếu
+needHelp: Bạn Có Câu Hỏi?
+pleaseMail: Vui Lòng Gửi Email
+topupAmount: Số Tiền Nạp
+USD: Đô La
 # EUR: Euro
-topUpFailed: Thất bại trong việc nạp tiền
-rtRetry: Quay lại và thử lại
-amount: Số lượng
-# exchangeRate: Tỷ giá hối đoái
-pay: Thanh toán
-topupOk: Thành công trong việc nạp tiền
-addCard: Thêm thẻ nạp tiền
-addNewCard: Thêm thẻ nạp mới
-setDefault: Đặt làm mặc định
-expire: Ngày到期
-cardFee: Phí dịch vụ
+topUpFailed: Nạp Tiền Không Thành Công
+rtRetry: Quay Lại Và Thử Lại
+amount: Số Lượng
+# exchangeRate: Tỷ Giá Hối Đoái
+pay: Chi Trả
+topupOk: Nạp Tiền Thành Công
+addCard: Thêm Thẻ Nạp Tiền
+addNewCard: Thêm Thẻ Nạp Mới
+setDefault: Đặt Làm Mặc Định
+expire: Ngày Hết Hạn
+cardFee: Phí Xử Lý
+topupApplyed: Đơn xin khấu trừ đã được nộp
+waitTopupRecv: Chờ Đợi Sự Xuất Hiện
+whenTopupRecv: Khi Nạp Tiền Đến
+willMailNotify: Thông báo cho bạn qua email

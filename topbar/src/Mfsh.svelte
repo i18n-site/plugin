@@ -1,15 +1,15 @@
 <script lang="coffee">
 > @8p/mfs/Mfsh.svelte
-  ./fix.js
+  ./topfix.js
 
-+ m
++ R
 
 onMount =>
-  fix m
+  topfix R
 </script>
 
 <template lang="pug">
-Mfsh(@&m)
+Mfsh(bind:R=R)
   slot
 </template>
 

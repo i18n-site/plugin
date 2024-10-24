@@ -26,3 +26,7 @@ addNewCard: Dodajte Novo Kartico Za Polnjenje
 setDefault: Nastavi Kot Privzeto
 expire: Datum Poteka
 cardFee: Manipulativna Pristojbina
+topupApplyed: Vloga za odbitek je bila vložena
+waitTopupRecv: Čakanje Na Prihod
+whenTopupRecv: Ko Pride Polnjenje
+willMailNotify: Obvesti Vas Po E-Pošti

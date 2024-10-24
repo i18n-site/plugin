@@ -1,28 +1,32 @@
-bill: Сметка
-translate: Превод
-topup: Зареждане
-manual: Ръчно
+bill: Законопроект
+translate: Превеждам
+topup: Допълнете
+manual: Наръчник
 bonus: Бонус
-creditCard: Кредитна карта
+creditCard: Кредитна Карта
 asset: Активи
 amountInTotal: Общо
-needTopup: Моля, заредете първо
-topupOnWay: Зареждането е в ход
-autoChargeTip: Когато saldoто е недостатъчно, автоматично ще се направи предварително плащане
-autoChargeHelp: Когато saldoто е недостатъчно, автоматично ще се удържи дължимата сума
-needHelp: Имате въпрос?
-pleaseMail: Моля, изпратете имейл
-topupAmount: Сума за зареждане
+needTopup: Моля, Първо Презаредете
+topupOnWay: Презареждането Е В Ход
+autoChargeTip: Когато балансът е недостатъчен, автоматично ще се извърши предплащане
+autoChargeHelp: Когато балансът е недостатъчен, просрочената сума ще бъде автоматично приспадната
+needHelp: Имате Въпрос?
+pleaseMail: Моля, Изпратете Имейл
+topupAmount: Сума За Презареждане
 USD: Долар
 # EUR: Евро
-topUpFailed: Неуспешно зареждане
-rtRetry: Върнете се и опитайте отново
+topUpFailed: Неуспешно Презареждане
+rtRetry: Върнете Се И Опитайте Отново
 amount: Количество
-# exchangeRate: Обменен курс
-pay: Плащане
-topupOk: Зареждането е успешно
-addCard: Добавете карта за зареждане
-addNewCard: Добавете нова карта за зареждане
-setDefault: Задайте като defaultManager
-expire: Срок на годност
-cardFee: Такса за обслужване
+# exchangeRate: Обменен Курс
+pay: Заплащане
+topupOk: Презареждането Е Успешно
+addCard: Добавете Карта За Презареждане
+addNewCard: Добавете Нова Карта За Презареждане
+setDefault: Задайте По Подразбиране
+expire: Срок На Годност
+cardFee: Такса За Обработка
+topupApplyed: Подадено Е Заявление За Приспадане
+waitTopupRecv: В Очакване На Пристигането
+whenTopupRecv: Когато Пристигне Презареждането
+willMailNotify: Уведомявам Ви По Имейл

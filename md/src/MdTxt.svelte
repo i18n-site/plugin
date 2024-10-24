@@ -7,15 +7,23 @@
   svelte > tick
 
 < md
+< R
 
-+ M,h
++ h
 
 onMount =>
+
   if md != 0
+    md = md.replaceAll('\r\n','\n').trimStart()
+    if md.startsWith('---\n')
+      end = md.indexOf('---\n',4)
+      if ~end
+        md = md.slice(end+4)
+
     try
       h = mark md
       await tick()
-      return seth1(M) # unmount
+      return seth1(R) # unmount
     catch err
       h = ''+err
   return
@@ -25,13 +33,72 @@ onMount =>
 +if md === 0
   H404
   +elseif h !== undefined
-    b.m(@&M)
+    b.m(@&R)
       | { @html h }
 </template>
 
 <style lang="stylus">
 b.m
   display block
+
+  blockquote
+    :global(&.M:before)
+      opacity 1
+
+    :global(&.M:after)
+      display none
+
+    :global(&.M)
+      border 2px solid var(--c)
+      border-radius 8px
+      box-shadow 0 0 3px inset var(--c)
+      margin 0
+      padding 2px 20px 0
+      --c #fd0
+
+    :global(&.M:before)
+      background var(--svgTIP) 0 0 / cover repeat-y
+      content ''
+      height 32px
+      left -14px
+      position absolute
+      top -14px
+      width 32px
+
+    :global(&.WARN:before)
+      background-image var(--svgWARN)
+
+    :global(&.WARN)
+      color #600
+      --c #f40
+
+    :global(&.NOTE:before)
+      background-image var(--svgNOTE)
+      color #060
+
+    :global(&.NOTE)
+      --c #97CF4E
+
+  :global(p a)
+    display inline-block
+    position relative
+
+    &:after
+      background-color #fff
+      bottom -3px
+      content ''
+      height 1px
+      left 0
+      opacity 0
+      position absolute
+      transition all 1s ease
+      width 0
+
+    &:hover
+      &:after
+        background-color #00f
+        opacity 1
+        width 100%
 
   :global(&>table)
     border 1px solid #ccc

@@ -26,3 +26,7 @@ addNewCard: Ntxiv Daim Npav Tshiab Ntxiv
 setDefault: Teem Raws Li Default
 expire: Hnub Tas Sij Hawm
 cardFee: Tuav Tus Nqi
+topupApplyed: Daim ntawv thov txiav tawm tau xa tuaj
+waitTopupRecv: Tos Tuaj Txog
+whenTopupRecv: Thaum Lub Recharge Tuaj Txog
+willMailNotify: Qhia Rau Koj Ntawm Email

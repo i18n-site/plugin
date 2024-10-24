@@ -1,4 +1,4 @@
-bill: Lissafin
+bill: Lissafin Kudi
 translate: Fassara
 topup: Sama Sama
 manual: Manual
@@ -26,3 +26,7 @@ addNewCard: Ƙara Sabon Katin Caji
 setDefault: Saita Azaman Tsoho
 expire: Ranar Karewa
 cardFee: Kudin Kulawa
+topupApplyed: An Ƙaddamar Da Aikace-Aikacen Cirewa
+waitTopupRecv: Ana Jiran Isowa
+whenTopupRecv: Lokacin Da Caji Ya Zo
+willMailNotify: Sanar Da Ku Ta Imel

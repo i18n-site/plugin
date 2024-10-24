@@ -1,0 +1,32 @@
+{
+  "name": "@8p/base-toc",
+  "version": "0.1.32",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n/plugin.git"
+  },
+  "homepage": "https://atomgit.com/i18n/plugin/tree/dev/base-toc",
+  "keywords": [
+    "i18n.site/plugin"
+  ],
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    ".": "./lib/BaseToc.svelte",
+    "./*": "./lib/*"
+  },
+  "files": [
+    "lib/*"
+  ],
+  "devDependencies": {},
+  "peerDependencies": {
+    "@8p/mc": "workspace:^",
+    "@8p/side": "workspace:^",
+    "@8p/toclib": "workspace:^",
+    "@8p/topbar": "workspace:^",
+    "@8p/wait": "workspace:^",
+    "@3-/title_tip": "^0.1.9"
+  },
+  "scripts": {},
+  "type": "module"
+}

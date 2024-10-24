@@ -6,7 +6,7 @@ bonus: بونس
 creditCard: کریډیټ کارت
 asset: شتمنۍ
 amountInTotal: مجموعه
-needTopup: مهرباني وکړئ لومړی ریچارج کړئ
+needTopup: مهرباني وکړئ لومړی چارج کړئ
 topupOnWay: ریچارج په کار دی
 autoChargeTip: کله چې بیلانس ناکافي وي، مخکې تادیه به په اوتومات ډول ترسره شي
 autoChargeHelp: کله چې بیلانس ناکافي وي، د بقایا مقدار به په اوتومات ډول کم شي
@@ -26,3 +26,7 @@ addNewCard: نوی ریچارج کارت اضافه کړئ
 setDefault: د ډیفالټ په توګه تنظیم کړئ
 expire: د ختمیدو نیټه
 cardFee: د سمبالولو فیس
+topupApplyed: د تخفیف غوښتنلیک سپارل شوی
+waitTopupRecv: د راتګ په تمه
+whenTopupRecv: کله چې ریچارج راشي
+willMailNotify: تاسو ته د بریښنالیک له لارې خبر ورکړئ

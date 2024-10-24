@@ -26,3 +26,7 @@ addNewCard: Shto një kartë të re rimbushjeje
 setDefault: Cakto Si Parazgjedhje
 expire: Data E Skadencës
 cardFee: Tarifa E Trajtimit
+topupApplyed: Aplikimi Për Zbritje Është Dorëzuar
+waitTopupRecv: Në Pritje Të Mbërritjes
+whenTopupRecv: Kur Të Mbërrijë Rimbushja
+willMailNotify: Ju Njoftojmë Me Email

@@ -6,7 +6,7 @@ bonus: Bhonasi
 creditCard: Kadhi Rechikwereti
 asset: Assets
 amountInTotal: Zvachose
-needTopup: Ndapota Wedzera Kuchaja Kutanga
+needTopup: Please Recharge First
 topupOnWay: Kuchajisa Kuri Kuitika
 autoChargeTip: Kana chiyero chisina kukwana, prepayment inozoitwa yega
 autoChargeHelp: Kana mari yasara ikasakwana, mari yakasarirwa nechikwereti inobva yabviswa
@@ -26,3 +26,7 @@ addNewCard: Wedzera Kadhi Recharge Nyowani
 setDefault: Seta Seyakagadzika
 expire: Zuva Rekupera
 cardFee: Muripo Wekubata
+topupApplyed: Chikumbiro Chekubvisa Chaendeswa
+waitTopupRecv: Kumirira Kusvika
+whenTopupRecv: Kana Recharge Yasvika
+willMailNotify: Kuzivisa Iwe Neemail

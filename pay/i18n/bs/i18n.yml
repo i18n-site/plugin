@@ -8,7 +8,7 @@ asset: Imovine
 amountInTotal: Ukupno
 needTopup: Molimo Prvo Napunite
 topupOnWay: Punjenje U Toku
-autoChargeTip: Kada je stanje nedovoljno, avansno plaćanje će se automatski izvršiti
+autoChargeTip: Kada saldo nije dovoljan, avansno plaćanje će se automatski izvršiti
 autoChargeHelp: Kada je stanje nedovoljno, zaostali iznos će se automatski odbiti
 needHelp: Imate Pitanje?
 pleaseMail: Molimo Email
@@ -26,3 +26,7 @@ addNewCard: Dodajte Novu Karticu Za Dopunu
 setDefault: Postavi Kao Zadano
 expire: Datum Isteka
 cardFee: Naknada Za Rukovanje
+topupApplyed: Zahtjev Za Odbitak Je Podnesen
+waitTopupRecv: Čeka Se Dolazak
+whenTopupRecv: Kada Stigne Dopuna
+willMailNotify: Obavijestiti Vas Putem E-Pošte

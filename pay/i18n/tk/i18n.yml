@@ -26,3 +26,7 @@ addNewCard: Täze Zarýad Kartasyny Goşuň
 setDefault: Dymmaklyk Hökmünde Düzüň
 expire: Gutarýan Senesi
 cardFee: Töleg
+topupApplyed: Aýyrmak Üçin Arza Berildi
+waitTopupRecv: Gelmegine Garaşýarys
+whenTopupRecv: Haçan-Da Zarýad Berlende
+willMailNotify: E-Poçta Bilen Habar Beriň

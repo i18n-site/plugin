@@ -1,4 +1,4 @@
-bill: Исәп-Хисап
+bill: Түләү
 translate: Тәрҗемә Итү
 topup: Өстә
 manual: Дәреслек
@@ -26,3 +26,7 @@ addNewCard: Яңа Тулыландыру Картасы Өстәгез
 setDefault: Килешү Буенча Куегыз
 expire: Куллану Вакыты
 cardFee: Эшкәртү Өчен Түләү
+topupApplyed: Аеру Гаризасы Тапшырылды
+waitTopupRecv: Килүен Көтәбез
+whenTopupRecv: Түләү Килеп Җиткәч
+willMailNotify: Электрон Почта Аша Хәбәр Итегез

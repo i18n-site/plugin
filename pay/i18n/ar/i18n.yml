@@ -1,28 +1,32 @@
 bill: فاتورة
-translate: ترجمة
+translate: الترجمة
 topup: إعادة الشحن
 manual: يدوي
 bonus: مكافأة
-creditCard: بطاقة ائتمان
+creditCard: بطاقة إئتمان
 asset: أصول
 amountInTotal: المجموع
 needTopup: يرجى إعادة الشحن أولاً
 topupOnWay: إعادة الشحن جارية
-autoChargeTip: عند نقص الرصيد، سيتم تنفيذ الدفع المسبق آلياً
-autoChargeHelp: عند نقص الرصيد، سيتم خصم المبلغ المدين آلياً
+autoChargeTip: عند انخفاض الرصيد، سيتم إجراء الدفع المسبق آلياً
+autoChargeHelp: عند انخفاض الرصيد، سيتم خصم المبلغ المدين آلياً
 needHelp: هل لديك سؤال؟
 pleaseMail: يرجى إرسال البريد الإلكتروني
 topupAmount: مبلغ إعادة الشحن
 USD: دولار
 # EUR: يورو
-topUpFailed: فشل إعادة الشحن
+topUpFailed: فشلت عملية إعادة الشحن
 rtRetry: ارجع وحاول مجدداً
-amount: كمية
-# معدل التبادل: سعر الصرف
-pay: دفع
-topupOk: نجحت إعادة الشحن
-addCard: أضف بطاقة الشحن
+amount: الكمية
+# معدل التبادل: معدل التبادل
+pay: الayaran
+topupOk: نجحت عملية إعادة الشحن
+addCard: أضف بطاقة إعادة الشحن
 addNewCard: أضف بطاقة شحن جديدة
 setDefault: تعيين كالافتراضي
-expire: تاريخ انتهاء الصلاحية
-cardFee: رسوم المعاملة
+expire: تاريخ الانتهاء
+cardFee: الرسوم
+topupApplyed: تم تقديم طلب الخصم
+waitTopupRecv: في انتظار الائتمان في الحساب
+whenTopupRecv: عند وصول الشحن
+willMailNotify: سيتم إعلامك عبر البريد الإلكتروني

@@ -26,3 +26,7 @@ addNewCard: ሓድሽ ሪቻርጅ ካርድ ምውሳኽ
 setDefault: ከም ነባሪ ኣቐምጦ
 expire: ናይ ምውዳእ ዕለት
 cardFee: ናይ ኣተሓሕዛ ክፍሊት
+topupApplyed: ናይ ምጉዳል መመልከቲ ቀሪቡ ኣሎ።
+waitTopupRecv: ምምጻእ ምጽባይ
+whenTopupRecv: እቲ ሪቻርጅ ምስ መጸ
+willMailNotify: ብኢመይል ኣፍልጠኩም

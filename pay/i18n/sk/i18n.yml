@@ -3,7 +3,7 @@ translate: Preložiť
 topup: Doplniť
 manual: Manuál
 bonus: Bonus
-creditCard: Kreditnou Kartou
+creditCard: Kreditná Karta
 asset: Aktíva
 amountInTotal: Celkom
 needTopup: Najskôr Nabite
@@ -26,3 +26,7 @@ addNewCard: Pridajte Novú Dobíjaciu Kartu
 setDefault: Nastaviť Ako Predvolené
 expire: Dátum Vypršania Platnosti
 cardFee: Manipulačný Poplatok
+topupApplyed: Žiadosť O Odpočet Bola Podaná
+waitTopupRecv: Čakanie Na Príchod
+whenTopupRecv: Keď Príde Dobitie
+willMailNotify: Upozorniť Vás E-Mailom

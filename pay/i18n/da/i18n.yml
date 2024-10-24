@@ -1,28 +1,32 @@
 bill: Regning
-translate: Oversættelse
-topup: Opkald
+translate: Oversætte
+topup: Fylde Op
 manual: Manuel
 bonus: Bonus
 creditCard: Kreditkort
 asset: Aktiver
-amountInTotal: I alt
-needTopup: Vælg venligst at opdatere først
-topupOnWay: Opdatering i gang
-autoChargeTip: Når saldoen er for lav, vil der automatisk blive foretaget en forudbetaling
-autoChargeHelp: Når saldoen er for lav, vil den udestående sum automatisk blive trukket
-needHelp: Er der et problem?
-pleaseMail: Send en e-mail
-topupAmount: Opdateringsbeløb
+amountInTotal: Total
+needTopup: Oplad Venligst Først
+topupOnWay: Genopladning I Gang
+autoChargeTip: Når saldoen er utilstrækkelig, vil der automatisk blive foretaget forudbetaling
+autoChargeHelp: Når saldoen er utilstrækkelig, trækkes det restancebeløb automatisk
+needHelp: Har Du Et Spørgsmål?
+pleaseMail: Venligst E-Mail
+topupAmount: Genopladningsbeløb
 USD: Dollar
 # EUR: Euro
-topUpFailed: Opdatering mislykkedes
-rtRetry: Gå tilbage og prøv igen
-amount: Antal
-# exchangeRate: Valutakurs
-pay: Betaling
-topupOk: Opdatering succesfuld
-addCard: Tilføj opdateringskort
-addNewCard: Tilføj et nyt opdateringskort
-setDefault: Sæt som standard
+topUpFailed: Genopladning Mislykkedes
+rtRetry: Gå Tilbage Og Prøv Igen
+amount: Mængde
+# Valutakurs: Valutakurs
+pay: Betale
+topupOk: Genopladning Lykkedes
+addCard: Tilføj Genopladningskort
+addNewCard: Tilføj Nyt Genopladningskort
+setDefault: Indstil Som Standard
 expire: Udløbsdato
-cardFee: Gebyr
+cardFee: Ekspeditionsgebyr
+topupApplyed: Ansøgning Om Fradrag Er Indsendt
+waitTopupRecv: Venter På Ankomst
+whenTopupRecv: Når Genopladningen Kommer
+willMailNotify: Giv Dig Besked via E-Mail

@@ -23,6 +23,10 @@ pay: Ordaindu
 topupOk: Kargatu Ondo
 addCard: Gehitu Kargatzeko Txartela
 addNewCard: Gehitu Kargatzeko Txartel Berria
-setDefault: Ezarri Lehenetsi Gisa
+setDefault: Ezarri Lehenespen Gisa
 expire: Iraungitze Data
 cardFee: Kuota Kuota
+topupApplyed: Kenkari Eskaera Aurkeztu Da
+waitTopupRecv: Etorreraren Zain
+whenTopupRecv: Karga Iristen Denean
+willMailNotify: Posta Elektronikoz Jakinarazi

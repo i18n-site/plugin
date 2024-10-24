@@ -18,7 +18,7 @@ USD: Doler
 topUpFailed: Methodd Ad-Daliad
 rtRetry: Ewch yn ôl a rhowch gynnig arall arni
 amount: Maint
-# Cyfradd Gyfnewid: Exchangerate
+# Cyfradd Gyfnewid: Exchange Rate
 pay: Talu
 topupOk: Ail-Lenwi Yn Llwyddiannus
 addCard: Ychwanegu Cerdyn Ail-Lenwi
@@ -26,3 +26,7 @@ addNewCard: Ychwanegu Cerdyn Ail-Lenwi Newydd
 setDefault: Gosod Fel Rhagosodiad
 expire: Dyddiad Dod I Ben
 cardFee: Ffi Trin
+topupApplyed: Mae Cais Didynnu Wedi'i Gyflwyno
+waitTopupRecv: Aros I Gyrraedd
+whenTopupRecv: Pan fydd yr ad-daliad yn cyrraedd
+willMailNotify: Rhoi gwybod i chi drwy e-bost

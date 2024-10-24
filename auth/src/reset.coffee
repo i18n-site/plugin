@@ -1,4 +1,4 @@
-> x/pbox.js
+> @2-/pbox
   ./ResetPasswd.svelte
   @8p/box/Focus.js:Box
 

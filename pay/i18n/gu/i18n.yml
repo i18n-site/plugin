@@ -26,3 +26,7 @@ addNewCard: નવું રિચાર્જ કાર્ડ ઉમેરો
 setDefault: ડિફૉલ્ટ તરીકે સેટ કરો
 expire: સમાપ્તિ તારીખ
 cardFee: હેન્ડલિંગ ફી
+topupApplyed: કપાત અરજી સબમિટ કરવામાં આવી છે
+waitTopupRecv: આગમનની રાહ જોઈ રહ્યા છીએ
+whenTopupRecv: જ્યારે રિચાર્જ આવે છે
+willMailNotify: તમને ઇમેઇલ દ્વારા સૂચિત કરો

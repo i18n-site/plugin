@@ -12,7 +12,7 @@ autoChargeTip: A le lava le paleni, o le a otometi lava ona fai le totogi muamua
 autoChargeHelp: A le lava le paleni, o le a otometi lava ona toese le tupe o lo o totoe
 needHelp: E Iai Sau Fesili?
 pleaseMail: Fa'amolemole Imeli
-topupAmount: Aofaiga Toe Fa'atumu
+topupAmount: Toe Fa'atumu Le Aofa'i
 USD: Tala
 # EUR: Euro
 topUpFailed: Ua le mafai ona toe faaola
@@ -26,3 +26,7 @@ addNewCard: Fa'aopoopo Pepa Fa'atumu Fou
 setDefault: Seti E Le Mafai
 expire: Uma Le Aoga
 cardFee: Tau Taulima
+topupApplyed: Ua tu'uina atu le talosaga mo toesega
+waitTopupRecv: Faatalitali Mo Le Taunuu
+whenTopupRecv: A oʻo mai le toe faʻaleleia
+willMailNotify: Fa'ailoa Oe Ile Imeli

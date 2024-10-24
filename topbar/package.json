@@ -1,6 +1,6 @@
 {
   "name": "@8p/topbar",
-  "version": "0.3.37",
+  "version": "0.3.68",
   "repository": {
     "type": "git",
     "url": "git+https://atomgit.com/i18n/plugin.git"
@@ -29,7 +29,7 @@
     "@8p/mfs": "../../site/node_modules/@8p/mfs",
     "@8p/scroll": "../../site/node_modules/@8p/scroll",
     "@8p/topfix": "../../site/node_modules/@8p/topfix",
-    "@2-/pa": "^0.1.1"
+    "@2-/pa": "^0.1.2"
   },
   "dependencies": {}
 }

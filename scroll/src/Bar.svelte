@@ -1,5 +1,5 @@
 <script lang="coffee">
-> lodash-es/debounce
+> @3-/debounce
   x/On.js
   svelte > tick
 
@@ -78,6 +78,7 @@ retop = (height)=>
 onMount =>
   ob = new ResizeObserver(
     debounce(
+      200
       (entry)=>
         {clientHeight:ch} = b
         {scrollHeight:sh} = m
@@ -88,7 +89,6 @@ onMount =>
           si.style.height = height + 'px'
           retop(height) # 因为有 transition 的延时，高度不会立刻改变，所以这里传入
         return
-      100
     )
   )
   [

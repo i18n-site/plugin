@@ -26,3 +26,7 @@ addNewCard: Yangi To'ldirish Kartasini Qo'shing
 setDefault: Standart Sifatida O'rnating
 expire: Tugash Muddati
 cardFee: Ishlov Berish To'lovi
+topupApplyed: Chegirmaga Ariza Topshirildi
+waitTopupRecv: Ketishni Kutish
+whenTopupRecv: Zaryad Yetganda
+willMailNotify: Sizga elektron pochta orqali xabar bering

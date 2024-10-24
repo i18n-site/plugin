@@ -1,15 +1,15 @@
 <script lang="coffee">
 > @8p/scroll:Scroll
-  ./fix.js
+  ./topfix.js
 
-+ m
+< R
 
 onMount =>
-  fix(m)
+  topfix R
 </script>
 
 <template lang="pug">
-Scroll(@&m)
+Scroll(bind:R=R)
   slot
 </template>
 

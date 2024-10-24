@@ -26,3 +26,7 @@ addNewCard: Pridėkite Naują Papildymo Kortelę
 setDefault: Nustatyti Kaip Numatytąjį
 expire: Galiojimo Laikas
 cardFee: Tvarkymo Mokestis
+topupApplyed: Pateiktas Prašymas Dėl Atskaitymo
+waitTopupRecv: Laukia Atvykstant
+whenTopupRecv: Kai Ateina Įkrovimas
+willMailNotify: Pranešti El. Paštu
