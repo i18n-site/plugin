@@ -1,0 +1,32 @@
+bill: הַצָעַת חוֹק
+translate: לְתַרְגֵם
+topup: להעלות
+manual: יָדָנִי
+bonus: מַעֲנָק
+creditCard: כרטיס אשראי
+asset: נכסים
+amountInTotal: סַך הַכֹּל
+needTopup: נא להטעין תחילה
+topupOnWay: טעינה בעיצומה
+autoChargeTip: כאשר היתרה אינה מספקת, התשלום מראש יתבצע אוטומטית
+autoChargeHelp: כאשר היתרה אינה מספקת, יקוזז אוטומטית הסכום בפיגור
+needHelp: יש לך שאלה?
+pleaseMail: נא לשלוח מייל
+topupAmount: כמות הטעינה מחדש
+USD: דוֹלָר
+# יורו: יורו
+topUpFailed: הטעינה נכשלה
+rtRetry: חזור ונסה שוב
+amount: כַּמוּת
+# שער חליפין: שער חליפין
+pay: לְשַׁלֵם
+topupOk: טעינה מוצלחת
+addCard: הוסף כרטיס טעינה
+addNewCard: הוסף כרטיס טעינה חדש
+setDefault: הגדר כברירת מחדל
+expire: תַאֲרִיך תְפוּגָה
+cardFee: דמי טיפול
+topupApplyed: הוגשה בקשה לניכוי
+waitTopupRecv: מחכה להגעה
+whenTopupRecv: כשהטעינה מגיעה
+willMailNotify: תודיע לך במייל

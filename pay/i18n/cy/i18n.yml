@@ -1,0 +1,32 @@
+bill: Bil
+translate: Cyfieithu
+topup: Ychwanegu At
+manual: Llawlyfr
+bonus: Bonws
+creditCard: Cerdyn Credyd
+asset: Asedau
+amountInTotal: Cyfanswm
+needTopup: Os gwelwch yn dda ailgodi tâl yn gyntaf
+topupOnWay: Ad-Daliad Ar Y Gweill
+autoChargeTip: Pan fydd y balans yn annigonol, bydd rhagdaliad yn cael ei wneud yn awtomatig
+autoChargeHelp: Pan fydd y balans yn annigonol, bydd y swm mewn ôl-ddyledion yn cael ei ddidynnu'n awtomatig
+needHelp: Oes Gennych Chi Gwestiwn?
+pleaseMail: E-Bostiwch
+topupAmount: Swm Ailgodi
+USD: Doler
+# EUR: Ewro
+topUpFailed: Methodd Ad-Daliad
+rtRetry: Ewch yn ôl a rhowch gynnig arall arni
+amount: Maint
+# Cyfradd Gyfnewid: Exchange Rate
+pay: Talu
+topupOk: Ail-Lenwi Yn Llwyddiannus
+addCard: Ychwanegu Cerdyn Ail-Lenwi
+addNewCard: Ychwanegu Cerdyn Ail-Lenwi Newydd
+setDefault: Gosod Fel Rhagosodiad
+expire: Dyddiad Dod I Ben
+cardFee: Ffi Trin
+topupApplyed: Mae Cais Didynnu Wedi'i Gyflwyno
+waitTopupRecv: Aros I Gyrraedd
+whenTopupRecv: Pan fydd yr ad-daliad yn cyrraedd
+willMailNotify: Rhoi gwybod i chi drwy e-bost

@@ -1,0 +1,43 @@
+{
+  "name": "@8p/pay",
+  "version": "0.3.42",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n/plugin.git"
+  },
+  "homepage": "https://atomgit.com/i18n/plugin/tree/dev/pay",
+  "keywords": [
+    "i18n.site/plugin"
+  ],
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    ".": "./lib/index.js",
+    "./*": "./lib/*"
+  },
+  "files": [
+    "lib/*"
+  ],
+  "peerDependencies": {
+    "@2-/errer": "^0.1.5",
+    "@2-/ing": "^0.1.4",
+    "@2-/new": "^0.1.2",
+    "@2-/tag0": "^0.1.2",
+    "@3-/time": "^0.1.14",
+    "@5-/pay": "^0.2.7",
+    "@stripe/stripe-js": "^4.8.0",
+    "@8p/auth": "workspace:^",
+    "@8p/box": "workspace:^",
+    "@8p/drop": "workspace:^",
+    "@8p/lang": "workspace:^",
+    "@8p/scroll": "workspace:^",
+    "@8p/scrollc": "workspace:^",
+    "@8p/tip": "workspace:^"
+  },
+  "scripts": {},
+  "devDependencies": {
+    "@8p/auth": "../../site/node_modules/@8p/auth",
+    "@8p/scrollc": "../../site/node_modules/@8p/scrollc"
+  },
+  "type": "module"
+}

@@ -1,0 +1,32 @@
+bill: বিল
+translate: অনুবাদ
+topup: টপ আপ
+manual: ম্যানুয়াল
+bonus: বোনাস
+creditCard: ক্রেডিট কার্ড
+asset: সম্পদ
+amountInTotal: মোট
+needTopup: অনুগ্রহ করে প্রথমে রিচার্জ করুন
+topupOnWay: রিচার্জ চলছে
+autoChargeTip: ব্যালেন্স অপর্যাপ্ত হলে, প্রিপেমেন্ট স্বয়ংক্রিয়ভাবে করা হবে
+autoChargeHelp: ব্যালেন্স অপর্যাপ্ত হলে, বকেয়া পরিমাণ স্বয়ংক্রিয়ভাবে কেটে যাবে
+needHelp: একটি প্রশ্ন আছে?
+pleaseMail: ইমেইল করুন
+topupAmount: রিচার্জ পরিমাণ
+USD: ডলার
+# EUR: ইউরো
+topUpFailed: রিচার্জ ব্যর্থ হয়েছে
+rtRetry: ফিরে যান এবং আবার চেষ্টা করুন
+amount: পরিমাণ
+# বিনিময় হার: বিনিময় হার
+pay: বেতন
+topupOk: রিচার্জ সফল হয়েছে
+addCard: রিচার্জ কার্ড যোগ করুন
+addNewCard: নতুন রিচার্জ কার্ড যোগ করুন
+setDefault: ডিফল্ট হিসেবে সেট করুন
+expire: মেয়াদ শেষ হওয়ার তারিখ
+cardFee: হ্যান্ডলিং ফি
+topupApplyed: কর্তনের আবেদন জমা দেওয়া হয়েছে
+waitTopupRecv: আগমনের অপেক্ষায়
+whenTopupRecv: রিচার্জ এলে
+willMailNotify: ইমেল দ্বারা আপনাকে অবহিত

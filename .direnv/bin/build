@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+
+set -ex
+rm -rf lib
+rsync -av --exclude='*.coffee' ./src/ ./lib/
+
+bun x cep -o lib -c src &
+
+# TODO
+if [ -d "i18n" ]; then
+# cd i18n
+# bun x i18n
+# cd ..
+# TODO
+cp -r i18n lib/
+fi
+
+if [ -d "svg" ]; then
+cp -r svg/* lib/
+fi
+
+if [ ! -f "lib/package.json" ]; then
+cp package.json lib/
+sed -i 's/\.\/lib\//\.\//g' lib/package.json
+fi
+
+
+wait || \
+  {
+    echo "error : $?" >&2
+    exit 1
+  }
+
+#find lib/ -name "*.svelte" -type f -print0 | xargs -0 touch
+

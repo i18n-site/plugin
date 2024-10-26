@@ -1,0 +1,29 @@
+{
+  "name": "@8p/menu-nb",
+  "version": "0.1.12",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n/plugin.git"
+  },
+  "homepage": "https://atomgit.com/i18n/plugin/tree/dev/menu-nb",
+  "keywords": [
+    "i18n.site/plugin"
+  ],
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    ".": "./lib/NB.svelte",
+    "./*": "./lib/*"
+  },
+  "files": [
+    "lib/*"
+  ],
+  "peerDependencies": {
+    "@8p/menu": "workspace:^",
+    "@3-/title_tip": "^0.1.8",
+    "@8p/wait": "workspace:^"
+  },
+  "scripts": {},
+  "type": "module",
+  "dependencies": {}
+}

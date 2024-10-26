@@ -1,0 +1,35 @@
+{
+  "name": "@8p/topbar",
+  "version": "0.3.68",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n/plugin.git"
+  },
+  "homepage": "https://atomgit.com/i18n/plugin/tree/dev/topbar",
+  "keywords": [
+    "i18n.site/plugin"
+  ],
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    ".": "./lib/Topbar.svelte",
+    "./*": "./lib/*"
+  },
+  "files": [
+    "lib/*"
+  ],
+  "peerDependencies": {
+    "@8p/mfs": "workspace:^",
+    "@8p/scroll": "workspace:^",
+    "@8p/topfix": "workspace:^"
+  },
+  "scripts": {},
+  "type": "module",
+  "devDependencies": {
+    "@8p/mfs": "../../site/node_modules/@8p/mfs",
+    "@8p/scroll": "../../site/node_modules/@8p/scroll",
+    "@8p/topfix": "../../site/node_modules/@8p/topfix",
+    "@2-/pa": "^0.1.2"
+  },
+  "dependencies": {}
+}

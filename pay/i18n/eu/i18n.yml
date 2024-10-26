@@ -1,0 +1,32 @@
+bill: Faktura
+translate: Itzuli
+topup: Gora Igo
+manual: Eskuliburua
+bonus: Bonus
+creditCard: Kreditu Txartela
+asset: Aktiboak
+amountInTotal: Guztira
+needTopup: Mesedez, Lehenik Kargatu
+topupOnWay: Kargatzen Ari Da
+autoChargeTip: Saldoa nahikoa ez denean, aurreordainketa automatikoki egingo da
+autoChargeHelp: Saldoa nahikoa ez denean, berandutza-kopurua automatikoki kenduko da
+needHelp: Galderarik Al Duzu?
+pleaseMail: Mesedez E-Posta
+topupAmount: Birkargatu Zenbatekoa
+USD: Dolarra
+# EUR: Euro
+topUpFailed: Ezin Izan Da Kargatu
+rtRetry: Joan Atzera Eta Saiatu Berriro
+amount: Kantitatea
+# cambioTasa: Cambio Tasa
+pay: Ordaindu
+topupOk: Kargatu Ondo
+addCard: Gehitu Kargatzeko Txartela
+addNewCard: Gehitu Kargatzeko Txartel Berria
+setDefault: Ezarri Lehenespen Gisa
+expire: Iraungitze Data
+cardFee: Kuota Kuota
+topupApplyed: Kenkari Eskaera Aurkeztu Da
+waitTopupRecv: Etorreraren Zain
+whenTopupRecv: Karga Iristen Denean
+willMailNotify: Posta Elektronikoz Jakinarazi

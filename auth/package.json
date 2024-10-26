@@ -1,0 +1,45 @@
+{
+  "name": "@8p/auth",
+  "version": "0.3.78",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n/plugin.git"
+  },
+  "homepage": "https://atomgit.com/i18n/plugin/tree/dev/auth",
+  "keywords": [
+    "i18n.site/plugin"
+  ],
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    ".": "./lib/auth.js",
+    "./*": "./lib/*"
+  },
+  "files": [
+    "lib/*"
+  ],
+  "scripts": {},
+  "type": "module",
+  "peerDependencies": {
+    "@2-/conf": "^0.1.3",
+    "@2-/errer": "^0.1.5",
+    "@2-/focus": "^0.1.2",
+    "@2-/fp": "^0.1.8",
+    "@2-/pbox": "^0.1.2",
+    "@5-/auth": "^0.2.12",
+    "@8p/_sync": "workspace:^",
+    "@8p/box": "workspace:^",
+    "@8p/boxmd": "workspace:^",
+    "@8p/edit": "workspace:^",
+    "@8p/input_mail_a": "workspace:^",
+    "@8p/lang": "workspace:^",
+    "@8p/menu": "workspace:^",
+    "@8p/resend": "workspace:^",
+    "@8p/scrollc": "workspace:^",
+    "@8p/smnt": "workspace:^",
+    "@8p/topbar": "workspace:^",
+    "@8p/wait": "workspace:^"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}

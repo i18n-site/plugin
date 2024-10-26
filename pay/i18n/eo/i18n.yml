@@ -1,0 +1,32 @@
+bill: Fakturo
+translate: Traduki
+topup: Supre
+manual: Manlibro
+bonus: Bonuso
+creditCard: Kreditkarto
+asset: Aktivoj
+amountInTotal: Entute
+needTopup: Bonvolu Reŝargi Unue
+topupOnWay: Reŝargo en Progreso
+autoChargeTip: Kiam la saldo estas nesufiĉa, antaŭpago estos aŭtomate farita
+autoChargeHelp: Kiam la saldo estas nesufiĉa, la prokrasto estos aŭtomate subtrahita
+needHelp: Ĉu Vi Havas Demandon?
+pleaseMail: Bonvolu Retpoŝti
+topupAmount: Reŝargo Kvanto
+USD: Dolaro
+# EUR: Eŭro
+topUpFailed: Reŝargo Malsukcesis
+rtRetry: Reiru Kaj Provu Denove
+amount: Kvanto
+# exchangeRate: Kurzo
+pay: Pagi
+topupOk: Reŝargo Sukcesa
+addCard: Aldonu Reŝargan Karton
+addNewCard: Aldonu Novan Reŝargan Karton
+setDefault: Agordu Kiel Defaŭltan
+expire: Limdato
+cardFee: Pritrakta Kotizo
+topupApplyed: Dedukta Peto Estis Prezentita
+waitTopupRecv: Atendante Alvenon
+whenTopupRecv: Kiam La Reŝargo Alvenas
+willMailNotify: Sciigu Vin Retpoŝte

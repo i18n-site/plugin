@@ -1,0 +1,32 @@
+bill: Tagihan
+translate: Nerjemahake
+topup: Top Up
+manual: Manual
+bonus: Bonus
+creditCard: Kertu Kredit
+asset: Aset
+amountInTotal: Gunggung
+needTopup: Mangga Ngisi Daya Dhisik
+topupOnWay: Ngisi Daya Lagi Ditindakake
+autoChargeTip: Yen imbangan ora cukup, prabayar bakal digawe kanthi otomatis
+autoChargeHelp: Nalika imbangan ora cukup, jumlah tunggakan bakal kanthi otomatis disuda
+needHelp: Duwe Pitakonan?
+pleaseMail: Mangga Email
+topupAmount: Jumlah Isi Ulang
+USD: Dolar
+# EUR: Euro
+topUpFailed: Ngisi Ulang Gagal
+rtRetry: Bali Lan Coba Maneh
+amount: Jumlah
+# Kurs: Kurs
+pay: Mbayar
+topupOk: Ngisi Ulang Sukses
+addCard: Tambah Kertu Isi Ulang
+addNewCard: Tambah Kertu Isi Ulang Anyar
+setDefault: Setel Minangka Standar
+expire: Tanggal Kadaluwarsa
+cardFee: Biaya Penanganan
+topupApplyed: Aplikasi Potongan Wis Diajukake
+waitTopupRecv: Ngenteni Tekane
+whenTopupRecv: Nalika Ngisi Ulang Teka
+willMailNotify: Ngabari Sampeyan Liwat Email

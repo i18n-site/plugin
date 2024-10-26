@@ -1,0 +1,20 @@
+signUp: Enregistrement
+signIn: Connexion
+mail: Email
+password: Mot de passe
+agree: Accepter
+resetPassword: Réinitialiser le mot de passe
+userAgreement: Accord utilisateur
+setPassword: Définir un mot de passe
+name: Nom
+code: Code de vérification
+enterCode: Veuillez saisir le code de vérification que vous avez reçu
+checkSpam: N'oubliez pas de vérifier vos spams
+accountExist: Le compte existe déjà, connectez-vous directement
+created: Compte créé avec succès
+exit: Dueloguer
+userAdmin: Gestion des utilisateurs
+addAccount: Créer un nouveau compte
+exitAll: Dueloguer de tous les comptes
+nowMail: Email actuel
+newMail: Nouvel email

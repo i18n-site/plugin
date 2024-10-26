@@ -1,0 +1,62 @@
+# @3-/github
+
+如果绑定的用户或者github账号在githubUser中已经存在,并且uid不为0,那么就绑定失败
+
+请帮忙创建以下mysql表,ts和各种id都用无符号大整数
+
+githubUser
+  id github的id
+  uid 默认为0
+  github_login varbinary(63)
+  token varbinary(63)
+
+githubUserFollowers
+  id
+  n
+  ts 默认为当前unix时间戳
+
+githubMail
+  id
+  github_user_id
+  auth_mail_id
+  primary bool
+
+CREATE TABLE githubUser (
+  id BIGINT UNSIGNED PRIMARY KEY,
+  uid BIGINT UNSIGNED DEFAULT 0 NOT NULL,
+  login VARBINARY(63) NOT NULL,
+  token VARBINARY(63) NOT NULL
+);
+
+CREATE TABLE githubUserFollowers (
+  id BIGINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+  github_user_id BIGINT UNSIGNED NOT NULL,
+  n BIGINT UNSIGNED NOT NULL,
+  ts BIGINT UNSIGNED DEFAULT UNIX_TIMESTAMP() NOT NULL,
+);
+
+CREATE TABLE githubMail (
+  id BIGINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+  github_user_id BIGINT UNSIGNED NOT NULL,
+  auth_mail_id BIGINT UNSIGNED NOT NULL,
+  primary BOOL,
+);
+
+通过kvrocks的stream告知后台
+
+后台用 XREAD 读取 BLOCK 设置为60 然后心跳
+完成后用 XDEL key id 删除
+
+后台会
+
+1. 获取邮箱
+2. 获取用户
+
+忽略以 .noreply.github.com 结尾的
+
+
+## TODO
+
+赠送金改为抵扣额度, 每月清零
+
+<+ ../about.md >

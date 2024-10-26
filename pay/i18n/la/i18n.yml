@@ -1,0 +1,32 @@
+bill: Rogationis
+translate: Translate
+topup: Supermitto
+manual: Manual
+bonus: Bonus
+creditCard: Fidem Card
+asset: Bonorum
+amountInTotal: Total
+needTopup: Quaeso Primum Recharge
+topupOnWay: Recharge in Profectum
+autoChargeTip: Cum statera insufficiens sit, praeparatio statim facta erit
+autoChargeHelp: Cum statera insufficiens sit, moles arretro sponte deducta erit
+needHelp: Habesne Quaestionem?
+pleaseMail: Placet Email
+topupAmount: Recharge Moles
+USD: Dollar
+# EUR: Euro
+topUpFailed: Recharge Defecit
+rtRetry: Revertere Et Iterum Tenta
+amount: Quantitas
+# exchangeRate, Commutationem Rate
+pay: Stipendium
+topupOk: Recharge Felix
+addCard: Addere Recharge Card
+addNewCard: Addere Novam Recharge Card
+setDefault: Set Quod Default
+expire: Expirata
+cardFee: Pertractatio Feodo
+topupApplyed: Deductionis Application Est Summitto
+waitTopupRecv: Expectans Adventum
+whenTopupRecv: Cum Advenit Recharge
+willMailNotify: Certiorem Te Per Inscriptio

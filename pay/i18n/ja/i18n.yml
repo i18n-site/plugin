@@ -1,0 +1,32 @@
+bill: 請求書
+translate: 翻訳
+topup: 充電を行ってください
+manual: 手動
+bonus: ボーナス
+creditCard: クレジットカード
+asset: 資産
+amountInTotal: 合計金額
+needTopup: まずは充電を行ってください
+topupOnWay: 充電中です
+autoChargeTip: 残高が不足した場合、自動的に前払いが行われます
+autoChargeHelp: 残高が不足した場合、未払い金額が自動的に引き落とされます
+needHelp: 何かご不明点がございましたら？
+pleaseMail: メールでご連絡ください
+topupAmount: 充電額
+USD: ドル
+# EUR: ユーロ
+topUpFailed: 再充電に失敗しました
+rtRetry: 一時的に中断し、再度試行してください
+amount: 量
+# ExchangeRate: 為替レート
+pay: 支払いを行う
+topupOk: 充電成功
+addCard: 充電カードを追加する
+addNewCard: 新しい充電カードを追加する
+setDefault: デフォルトとして設定する
+expire: 有効期限
+cardFee: 手数料
+topupApplyed: 控除申請が提出されました
+waitTopupRecv: 入金を待っています
+whenTopupRecv: 充値が入金されたら
+willMailNotify: メールにて通知いたします

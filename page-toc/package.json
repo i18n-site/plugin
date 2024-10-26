@@ -1,0 +1,34 @@
+{
+  "name": "@8p/page-toc",
+  "version": "0.3.25",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n/plugin.git"
+  },
+  "homepage": "https://atomgit.com/i18n/plugin/tree/dev/page-toc",
+  "keywords": [
+    "i18n.site/plugin"
+  ],
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    ".": "./lib/Toc.svelte",
+    "./*": "./lib/*"
+  },
+  "files": [
+    "lib/*"
+  ],
+  "peerDependencies": {
+    "@8p/mc": "workspace:^",
+    "@8p/md": "workspace:^",
+    "@8p/shash": "workspace:^",
+    "@8p/toc": "workspace:^",
+    "@8p/side": "workspace:^",
+    "@8p/topbar": "workspace:^",
+    "@8p/wait": "workspace:^",
+    "@8p/toclib": "workspace:^"
+  },
+  "scripts": {},
+  "type": "module",
+  "devDependencies": {}
+}

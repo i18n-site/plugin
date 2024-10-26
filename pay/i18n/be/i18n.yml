@@ -1,0 +1,32 @@
+bill: Рахунак
+translate: Перакладаць
+topup: Папоўніць
+manual: Дапаможнік
+bonus: Бонус
+creditCard: Крэдытная Карта
+asset: Актывы
+amountInTotal: Усяго
+needTopup: Спачатку Зарадзіце
+topupOnWay: Ідзе Перазарадка
+autoChargeTip: Пры недастатковым балансе перадаплата будзе зроблена аўтаматычна
+autoChargeHelp: Калі рэшту недастаткова, сума запазычанасці будзе аўтаматычна вылічана
+needHelp: Ёсць Пытанне?
+pleaseMail: Калі Ласка, Напішыце
+topupAmount: Сума Папаўнення
+USD: Даляр
+# EUR: Еўра
+topUpFailed: Перазарадзіць Не Атрымалася
+rtRetry: Вярніцеся І Паўтарыце Спробу
+amount: Колькасць
+# exchangeRate: Абменны Курс
+pay: Плаціць
+topupOk: Перазарадка Паспяховая
+addCard: Дадаць Карту Папаўнення
+addNewCard: Дадаць Новую Карту Папаўнення
+setDefault: Усталяваць Па Змаўчанні
+expire: Тэрмін Прыдатнасці
+cardFee: Плата За Апрацоўку
+topupApplyed: Заяўка На Вылік Пададзена
+waitTopupRecv: Чакаю Прыезду
+whenTopupRecv: Калі Прыйдзе Папаўненне
+willMailNotify: Апавясціць Вас Па Электроннай Пошце

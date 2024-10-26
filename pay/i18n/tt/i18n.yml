@@ -1,0 +1,32 @@
+bill: Түләү
+translate: Тәрҗемә Итү
+topup: Өстә
+manual: Дәреслек
+bonus: Бонус
+creditCard: Кредит Картасы
+asset: Активлар
+amountInTotal: Барлыгы
+needTopup: Зинһар, Башта Тулыландырыгыз
+topupOnWay: Түләү Дәвам Итә
+autoChargeTip: Баланс җитмәгәндә, алдан түләү автоматик рәвештә ясалачак
+autoChargeHelp: Баланс җитмәгәндә, бурычлар күләме автоматик рәвештә чыгарылачак
+needHelp: Соравыгыз Бармы?
+pleaseMail: Зинһар, Электрон Почтага Җибәрегез
+topupAmount: Түләү Күләме
+USD: Доллар
+# EUR: Евро
+topUpFailed: Түләү Уңышсыз
+rtRetry: Кире Кайтып Карагыз
+amount: Саны
+# Алмашу Курсы: Курс
+pay: Түләү
+topupOk: Түләү Уңышлы
+addCard: Түләү Картасын Өстәгез
+addNewCard: Яңа Тулыландыру Картасы Өстәгез
+setDefault: Килешү Буенча Куегыз
+expire: Куллану Вакыты
+cardFee: Эшкәртү Өчен Түләү
+topupApplyed: Аеру Гаризасы Тапшырылды
+waitTopupRecv: Килүен Көтәбез
+whenTopupRecv: Түләү Килеп Җиткәч
+willMailNotify: Электрон Почта Аша Хәбәр Итегез

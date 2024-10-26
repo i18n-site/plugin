@@ -1,0 +1,20 @@
+signUp: ລົງທະບຽນ
+signIn: ເຂົ້າສູ່ລະບົບ
+mail: ຈົດໝາຍ
+password: ລະຫັດຜ່ານ
+agree: ຕົກລົງ
+resetPassword: ຣີເຊັດລະຫັດຜ່ານ
+userAgreement: ຂໍ້ຕົກລົງຜູ້ໃຊ້
+setPassword: ຕັ້ງລະຫັດຜ່ານ
+name: ຊື່
+code: ລະຫັດຢືນຢັນ
+enterCode: ກະລຸນາໃສ່ລະຫັດຢືນຢັນທີ່ທ່ານໄດ້ຮັບ
+checkSpam: ຢ່າລືມກວດເບິ່ງ spam
+accountExist: ບັນຊີມີຢູ່ແລ້ວ, ເຂົ້າສູ່ລະບົບໂດຍກົງ
+created: ສ້າງບັນຊີສຳເລັດແລ້ວ
+exit: ອອກຈາກລະບົບ
+userAdmin: ການຄຸ້ມຄອງຜູ້ໃຊ້
+addAccount: ເພີ່ມບັນຊີໃໝ່
+exitAll: ອອກຈາກລະບົບທັງຫມົດ
+nowMail: ອີເມວປັດຈຸບັນ
+newMail: ອີເມວໃໝ່

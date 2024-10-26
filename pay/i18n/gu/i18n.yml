@@ -1,0 +1,32 @@
+bill: બિલ
+translate: અનુવાદ
+topup: ટોપ અપ
+manual: મેન્યુઅલ
+bonus: બોનસ
+creditCard: ક્રેડિટ કાર્ડ
+asset: અસ્કયામતો
+amountInTotal: કુલ
+needTopup: કૃપા કરીને પહેલા રિચાર્જ કરો
+topupOnWay: રિચાર્જ ચાલુ છે
+autoChargeTip: જ્યારે બેલેન્સ અપૂરતું હોય, ત્યારે પૂર્વચુકવણી આપમેળે કરવામાં આવશે
+autoChargeHelp: જ્યારે બેલેન્સ અપૂરતી હોય, ત્યારે બાકીની રકમ આપોઆપ બાદ કરવામાં આવશે
+needHelp: એક પ્રશ્ન છે?
+pleaseMail: કૃપા કરીને ઇમેઇલ કરો
+topupAmount: રિચાર્જ રકમ
+USD: ડૉલર
+# EUR: યુરો
+topUpFailed: રિચાર્જ નિષ્ફળ થયું
+rtRetry: પાછા જાઓ અને ફરી પ્રયાસ કરો
+amount: જથ્થો
+# વિનિમય દર: વિનિમય દર
+pay: ચૂકવણી
+topupOk: રિચાર્જ સફળ
+addCard: રિચાર્જ કાર્ડ ઉમેરો
+addNewCard: નવું રિચાર્જ કાર્ડ ઉમેરો
+setDefault: ડિફૉલ્ટ તરીકે સેટ કરો
+expire: સમાપ્તિ તારીખ
+cardFee: હેન્ડલિંગ ફી
+topupApplyed: કપાત અરજી સબમિટ કરવામાં આવી છે
+waitTopupRecv: આગમનની રાહ જોઈ રહ્યા છીએ
+whenTopupRecv: જ્યારે રિચાર્જ આવે છે
+willMailNotify: તમને ઇમેઇલ દ્વારા સૂચિત કરો

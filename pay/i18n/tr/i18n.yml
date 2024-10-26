@@ -1,0 +1,32 @@
+bill: Fatura
+translate: Tercüme Etmek
+topup: Tamamlamak
+manual: Manuel
+bonus: Bonus
+creditCard: Kredi Kartı
+asset: Varlıklar
+amountInTotal: Toplam
+needTopup: Lütfen Önce Şarj Edin
+topupOnWay: Şarj Işlemi Devam Ediyor
+autoChargeTip: Bakiye yetersiz olduğunda ön ödeme otomatik olarak yapılacaktır.
+autoChargeHelp: Bakiye yetersiz olduğunda, ödenmemiş tutar otomatik olarak düşülecektir.
+needHelp: Bir Sorunuz Mu Var?
+pleaseMail: Lütfen E-Posta Gönderin
+topupAmount: Yeniden Yükleme Miktarı
+USD: Dolar
+# Avro: Avro
+topUpFailed: Yeniden Şarj Başarısız Oldu
+rtRetry: Geri Dönüp Tekrar Deneyin
+amount: Miktar
+# Döviz Kuru: Döviz Kuru
+pay: Ödemek
+topupOk: Yeniden Yükleme Başarılı
+addCard: Yeniden Yükleme Kartı Ekle
+addNewCard: Yeni Yükleme Kartı Ekle
+setDefault: Varsayılan Olarak Ayarla
+expire: Son Kullanma Tarihi
+cardFee: Işlem Ücreti
+topupApplyed: İndirim Başvurusu Yapıldı
+waitTopupRecv: Varışı Bekliyorum
+whenTopupRecv: Şarj Geldiğinde
+willMailNotify: Sizi E-Postayla Bilgilendirin

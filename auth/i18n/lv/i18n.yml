@@ -1,0 +1,20 @@
+signUp: Reģistrēties
+signIn: Piesakieties
+mail: Pasts
+password: Parole
+agree: Piekrītu
+resetPassword: Atiestatīt Paroli
+userAgreement: Lietotāja Līgums
+setPassword: Iestatiet Paroli
+name: Nosaukums
+code: Verifikācijas Kods
+enterCode: Lūdzu, Ievadiet Saņemto Verifikācijas Kodu
+checkSpam: Neaizmirstiet Pārbaudīt Surogātpastu
+accountExist: Konts Jau Pastāv, Piesakieties Tieši
+created: Konts Veiksmīgi Izveidots
+exit: Izrakstīties
+userAdmin: Lietotāju Pārvaldība
+addAccount: Pievienojiet Jaunu Kontu
+exitAll: Atteikties No Visiem
+nowMail: Pašreizējais E-Pasts
+newMail: Jauns E-Pasts

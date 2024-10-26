@@ -1,0 +1,32 @@
+bill: Arve
+translate: Tõlkida
+topup: Täiendada
+manual: Käsiraamat
+bonus: Boonus
+creditCard: Krediitkaart
+asset: Varasid
+amountInTotal: Kokku
+needTopup: Palun Laadige Esmalt
+topupOnWay: Laadimine on Pooleli
+autoChargeTip: Kui saldo on ebapiisav, tehakse ettemaks automaatselt
+autoChargeHelp: Kui jääk on ebapiisav, arvatakse võlgnevus automaatselt maha
+needHelp: Kas Teil on Küsimus?
+pleaseMail: Palun Meili
+topupAmount: Laadige Summa
+USD: Dollar
+# EUR: Euro
+topUpFailed: Laadimine Ebaõnnestus
+rtRetry: Minge Tagasi Ja Proovige Uuesti
+amount: Kogus
+# Vahetuskurss: Vahetuskurss
+pay: Maksma
+topupOk: Laadimine Õnnestus
+addCard: Lisa Laadimiskaart
+addNewCard: Lisage Uus Laadimiskaart
+setDefault: Määra Vaikeväärtuseks
+expire: Aegumiskuupäev
+cardFee: Käitlustasu
+topupApplyed: Mahaarvamise Avaldus on Esitatud
+waitTopupRecv: Ootab Saabumist
+whenTopupRecv: Kui Laadimine Saabub
+willMailNotify: Teavita Teid Meili Teel

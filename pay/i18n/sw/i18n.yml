@@ -1,0 +1,32 @@
+bill: Muswada
+translate: Kutafsiri
+topup: Ongeza Juu
+manual: Mwongozo
+bonus: Bonasi
+creditCard: Kadi Ya Mkopo
+asset: Mali
+amountInTotal: Jumla
+needTopup: Tafadhali Chaji Upya Kwanza
+topupOnWay: Uchaji Upya Unaendelea
+autoChargeTip: Wakati salio halitoshi, malipo ya mapema yatafanywa kiotomatiki
+autoChargeHelp: Wakati salio haitoshi, kiasi cha malimbikizo kitakatwa kiotomatiki
+needHelp: Una Swali?
+pleaseMail: Tafadhali Barua Pepe
+topupAmount: Kiasi Cha Malipo
+USD: Dola
+# EUR: Euro
+topUpFailed: Imeshindwa Kuchaji Tena
+rtRetry: Rudi Nyuma Na Ujaribu Tena
+amount: Wingi
+# Kiwango cha ubadilishaji: kiwango cha ubadilishaji
+pay: Kulipa
+topupOk: Imechaji Upya
+addCard: Ongeza Kadi Ya Recharge
+addNewCard: Ongeza Kadi Mpya Ya Kuchaji
+setDefault: Weka Kama Chaguomsingi
+expire: Tarehe Ya Kumalizika Muda Wake
+cardFee: Ada Ya Kushughulikia
+topupApplyed: Ombi La Kukatwa Limewasilishwa
+waitTopupRecv: Inasubiri Kuwasili
+whenTopupRecv: Wakati Recharge Inafika
+willMailNotify: Akujulishe Kwa Barua Pepe

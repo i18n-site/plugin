@@ -1,0 +1,30 @@
+@import '~/styl/var.styl'
+
+b
+  position relative
+
+  &>a
+    padding-right 16px
+    position relative
+
+    &:after
+      background var(--svgNabla) 0 0 / cover no-repeat
+      content ''
+      height 6px
+      margin-top -2px
+      opacity 0.4
+      position absolute
+      right 0
+      top 50%
+      width 6px
+
+    &:hover
+      border-bottom-color btn-hover
+      filter btn-hover-filter
+
+      &:after
+        opacity 1
+
+@media (max-width 700px)
+  b > a
+    margin-right -16px

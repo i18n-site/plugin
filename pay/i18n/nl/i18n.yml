@@ -1,0 +1,32 @@
+bill: Rekening
+translate: Vertaling
+topup: Betaalopname
+manual: Handmatig
+bonus: Bonus
+creditCard: Creditcard
+asset: Activa
+amountInTotal: Totaal
+needTopup: Gelieve eerst op te laden
+topupOnWay: Betaalopname wordt uitgevoerd
+autoChargeTip: Wanneer het saldo ontoereikend is, wordt automatisch een vooruitbetaling uitgevoerd
+autoChargeHelp: Wanneer het saldo ontoereikend is, wordt het openstaande bedrag automatisch afgetrokken
+needHelp: Problemen?
+pleaseMail: Stuur een e-mail
+topupAmount: Bedrag voor de betaalopname
+USD: Dollar
+# EUR: Euro
+topUpFailed: Betaalopname mislukt
+rtRetry: Ga terug en probeer het opnieuw
+amount: HXAantal
+# exchangeRate: Wisselkoers
+pay: Betalen
+topupOk: Betaalopname succesvol
+addCard: Voeg een betaalkaart toe
+addNewCard: Voeg een nieuwe betaalkaart toe
+setDefault: Stel in als standaard
+expire: Vervaldatum
+cardFee: Transactiekosten
+topupApplyed: Er is een aanvraag voor afschrijving ingediend
+waitTopupRecv: Wachten op het binnenkomen van het geld
+whenTopupRecv: Wanneer het tegoed is opgeladen
+willMailNotify: U wordt per e-mail op de hoogte gehouden

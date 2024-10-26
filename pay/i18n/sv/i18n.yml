@@ -1,0 +1,32 @@
+bill: Fakturera
+translate: Översätta
+topup: Fylla På
+manual: Manuell
+bonus: Bonus
+creditCard: Kreditkort
+asset: Tillgångar
+amountInTotal: Total
+needTopup: Ladda Först
+topupOnWay: Uppladdning Pågår
+autoChargeTip: När saldot är otillräckligt kommer förskottsbetalning att göras automatiskt
+autoChargeHelp: När saldot är otillräckligt dras beloppet i efterskott automatiskt
+needHelp: Har Du en Fråga?
+pleaseMail: Vänligen Maila
+topupAmount: Ladda Belopp
+USD: Dollar
+# EUR: Euro
+topUpFailed: Uppladdningen Misslyckades
+rtRetry: Gå Tillbaka Och Försök Igen
+amount: Kvantitet
+# Växelkurs: Växelkurs
+pay: Betala
+topupOk: Uppladdningen Lyckades
+addCard: Lägg Till Laddningskort
+addNewCard: Lägg Till Nytt Laddningskort
+setDefault: Ställ in Som Standard
+expire: Utgångsdatum
+cardFee: Hanteringsavgift
+topupApplyed: Avdragsansökan Har Lämnats In
+waitTopupRecv: Väntar På Ankomst
+whenTopupRecv: När Uppladdningen Kommer
+willMailNotify: Meddela Dig via E-Post

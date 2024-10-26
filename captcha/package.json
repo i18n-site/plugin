@@ -1,0 +1,31 @@
+{
+  "name": "@8p/captcha",
+  "version": "0.3.13",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n/plugin.git"
+  },
+  "homepage": "https://atomgit.com/i18n/plugin/tree/dev/captcha",
+  "keywords": [
+    "i18n.site/plugin"
+  ],
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    ".": "./lib/index.js",
+    "./*": "./lib/*"
+  },
+  "files": [
+    "*"
+  ],
+  "type": "module",
+  "peerDependencies": {
+    "@3-/render": "^0.1.1",
+    "@5-/captcha": "^0.2.6",
+    "@8p/box": "workspace:^",
+    "@8p/lang": "workspace:^",
+    "@2-/new": "^0.1.2"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

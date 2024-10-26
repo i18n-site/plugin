@@ -1,0 +1,32 @@
+bill: Bili
+translate: Fetolela
+topup: Holimo Holimo
+manual: Bukana
+bonus: Bonase
+creditCard: Karete Ea Mokitlane
+asset: Matlotlo
+amountInTotal: Kakaretso
+needTopup: Ke Kopa O Tjhaje Pele
+topupOnWay: Ho chacha e ntse e tsoela pele
+autoChargeTip: Ha chelete e setseng e sa lekana, tefo ea pele e tla etsoa ka bo eona
+autoChargeHelp: Ha chelete e salletseng morao e sa lekana, chelete e saletseng morao e tla ntšoa ka bo eona
+needHelp: O Na Le Potso?
+pleaseMail: Ka Kopo Imeile
+topupAmount: Chelete E Ncha
+USD: Dollar
+# EUR: Euro
+topUpFailed: Ho Tjhaja Bocha Ho Hlolehile
+rtRetry: Khutlela morao 'me u leke hape
+amount: Bongata
+# exchangeRate: Sekhahla Sa Phapanyetsano
+pay: Lefa
+topupOk: Ho Chacha Ho Atlehile
+addCard: Kenya Karete Ea Recharge
+addNewCard: Kenya karete e ncha ea ho tjhaja
+setDefault: Beha E Le Ea Kamehla
+expire: Letsatsi La Pheletso
+cardFee: Tefello Ya Ho Tshwara
+topupApplyed: Kopo ea ho fokotsa chelete e kentsoe
+waitTopupRecv: E Emetse Ho Fihla
+whenTopupRecv: Ha Recharge E Fihla
+willMailNotify: Ho U Tsebisa Ka Lengolo-Tsoibila

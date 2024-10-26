@@ -1,0 +1,32 @@
+bill: Bill
+translate: Paghubad
+topup: Top Up
+manual: Manwal
+bonus: Bonus
+creditCard: Credit Card
+asset: Mga Kabtangan
+amountInTotal: Kinatibuk-An
+needTopup: Palihog Recharge Una
+topupOnWay: Nag-Uswag Ang Pag-Recharge
+autoChargeTip: Kung kulang ang balanse, awtomatiko nga himuon ang prepayment
+autoChargeHelp: Kung ang balanse dili igo, ang kantidad sa atraso awtomatik nga ibawas
+needHelp: Naa Kay Pangutana?
+pleaseMail: Palihug Email
+topupAmount: I-Recharge Ang Kantidad
+USD: Dolyar
+# EUR: Euro
+topUpFailed: Napakyas Ang Pag-Recharge
+rtRetry: Balik Ug Sulayi Pag-Usab
+amount: Gidaghanon
+# exchangeRate: Exchange Rate
+pay: Pagbayad
+topupOk: Malampuson Ang Pag-Recharge
+addCard: Idugang Ang Recharge Card
+addNewCard: Pagdugang Bag-Ong Recharge Card
+setDefault: Ibutang Isip Default
+expire: Expiration Date
+cardFee: Bayad Sa Pagdumala
+topupApplyed: Ang aplikasyon sa deduction gisumite na
+waitTopupRecv: Naghulat Sa Pag-Abot
+whenTopupRecv: Pag-Abot Sa Recharge
+willMailNotify: Pahibalo Kanimo Pinaagi Sa Email

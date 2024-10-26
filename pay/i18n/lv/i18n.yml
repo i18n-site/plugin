@@ -1,0 +1,32 @@
+bill: Rēķins
+translate: Tulkot
+topup: Papildināt
+manual: Rokasgrāmata
+bonus: Bonuss
+creditCard: Kredītkarte
+asset: Aktīviem
+amountInTotal: Kopā
+needTopup: Lūdzu, Vispirms Uzlādējiet
+topupOnWay: Notiek Uzlāde
+autoChargeTip: Ja atlikums nav pietiekams, priekšapmaksa tiks veikta automātiski
+autoChargeHelp: Ja atlikums nav pietiekams, nokavētā summa tiks automātiski atskaitīta
+needHelp: Vai Jums Ir Jautājums?
+pleaseMail: Lūdzu E-Pastu
+topupAmount: Uzlādēšanas Summa
+USD: Dolārs
+# EUR: Eiro
+topUpFailed: Uzlāde Neizdevās
+rtRetry: Atgriezieties Un Mēģiniet Vēlreiz
+amount: Daudzums
+# Valūtas Maiņas Kurss: Valūtas Kurss
+pay: Maksāt
+topupOk: Uzlādēšana Ir Veiksmīga
+addCard: Pievienojiet Papildināšanas Karti
+addNewCard: Pievienojiet Jaunu Papildināšanas Karti
+setDefault: Iestatīt Kā Noklusējumu
+expire: Derīguma Termiņš
+cardFee: Apstrādes Maksa
+topupApplyed: Iesniegts Atskaitīšanas Pieteikums
+waitTopupRecv: Gaida Ierašanos
+whenTopupRecv: Kad Pienāk Uzlāde
+willMailNotify: Paziņot Jums Pa E-Pastu

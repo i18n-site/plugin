@@ -1,0 +1,20 @@
+signUp: Nyilvántartás
+signIn: Bejelentkezés
+mail: E-mail
+password: Jelszó
+agree: Hozzájárulok
+resetPassword: Jelszó visszaállítása
+userAgreement: Felhasználói megállapodás
+setPassword: Jelszó beállítása
+name: Név
+code: Ellenőrző kód
+enterCode: Kérjük, adja meg a kapott ellenőrző kódot
+checkSpam: Ne felejtse el ellenőrizni a spam mappát
+accountExist: A fiók már létezik, jelentkezzen be közvetlenül
+created: A fiók sikeresen létrehozva
+exit: Kijelentkezés
+userAdmin: Felhasználókezelés
+addAccount: Új fiók hozzáadása
+exitAll: Minden fiókból kijelentkezés
+nowMail: Jelenlegi e-mail cím
+newMail: Új e-mail cím

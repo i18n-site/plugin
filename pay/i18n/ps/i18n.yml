@@ -1,0 +1,32 @@
+bill: بل
+translate: ژباړه
+topup: پورته کول
+manual: لارښود
+bonus: بونس
+creditCard: کریډیټ کارت
+asset: شتمنۍ
+amountInTotal: مجموعه
+needTopup: مهرباني وکړئ لومړی چارج کړئ
+topupOnWay: ریچارج په کار دی
+autoChargeTip: کله چې بیلانس ناکافي وي، مخکې تادیه به په اوتومات ډول ترسره شي
+autoChargeHelp: کله چې بیلانس ناکافي وي، د بقایا مقدار به په اوتومات ډول کم شي
+needHelp: یوه پوښتنه لرئ؟
+pleaseMail: مهرباني وکړئ بریښنالیک وکړئ
+topupAmount: د ریچارج اندازه
+USD: ډالر
+# EUR: یورو
+topUpFailed: ریچارج ناکام شو
+rtRetry: بیرته لاړ شئ او بیا هڅه وکړئ
+amount: مقدار
+# د تبادلې نرخ: د تبادلې نرخ
+pay: تادیه کول
+topupOk: ریچارج بریالی شو
+addCard: د ریچارج کارت اضافه کړئ
+addNewCard: نوی ریچارج کارت اضافه کړئ
+setDefault: د ډیفالټ په توګه تنظیم کړئ
+expire: د ختمیدو نیټه
+cardFee: د سمبالولو فیس
+topupApplyed: د تخفیف غوښتنلیک سپارل شوی
+waitTopupRecv: د راتګ په تمه
+whenTopupRecv: کله چې ریچارج راشي
+willMailNotify: تاسو ته د بریښنالیک له لارې خبر ورکړئ

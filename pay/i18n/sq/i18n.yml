@@ -1,0 +1,32 @@
+bill: Faturë
+translate: Përkthejnë
+topup: Mbushje
+manual: Manual
+bonus: Bonus
+creditCard: Kartë Krediti
+asset: Aseteve
+amountInTotal: Total
+needTopup: Ju Lutemi Rimbushni Fillimisht
+topupOnWay: Rimbushja Në Vazhdim
+autoChargeTip: Kur bilanci është i pamjaftueshëm, parapagimi do të bëhet automatikisht
+autoChargeHelp: Kur bilanci është i pamjaftueshëm, shuma e prapambetur do të zbritet automatikisht
+needHelp: Keni Një Pyetje?
+pleaseMail: Ju Lutem Email
+topupAmount: Shuma E Rimbushjes
+USD: Dollar
+# EUR: Euro
+topUpFailed: Rimbushja Dështoi
+rtRetry: Kthehu Dhe Provo Përsëri
+amount: Sasia
+# kursi i këmbimit: kursi i këmbimit
+pay: Paguaj
+topupOk: Rimbushja Me Sukses
+addCard: Shto Kartën E Rimbushjes
+addNewCard: Shto një kartë të re rimbushjeje
+setDefault: Cakto Si Parazgjedhje
+expire: Data E Skadencës
+cardFee: Tarifa E Trajtimit
+topupApplyed: Aplikimi Për Zbritje Është Dorëzuar
+waitTopupRecv: Në Pritje Të Mbërritjes
+whenTopupRecv: Kur Të Mbërrijë Rimbushja
+willMailNotify: Ju Njoftojmë Me Email

@@ -1,0 +1,32 @@
+bill: Faktire
+translate: Kobongola
+topup: Top Up
+manual: Mokanda
+bonus: Bonus Ya Mbongo
+creditCard: Carte De Crédit
+asset: Biloko Oza Na Yango
+amountInTotal: Mobimba
+needTopup: Svp Bo Recharger Nanu
+topupOnWay: Recharge Ezali Kosalama
+autoChargeTip: Ntango solde ekoki te, kofuta liboso ekosalema automatiquement
+autoChargeHelp: Ntango solde ekoki te, bakolongola mbongo oyo ezali na arriérés yango moko
+needHelp: Ozali Na Motuna Moko?
+pleaseMail: Svp Botindela Biso Email
+topupAmount: Motango Ya Recharge
+USD: Dollar Ya Mbongo
+# EUR: Euro: Ezali na mbongo mingi
+topUpFailed: Recharge Elongi Te
+rtRetry: Zongela Sima Mpe Meka Lisusu
+amount: Mingi
+# exchangeRate: Taux Ya Échange
+pay: Kofuta
+topupOk: Recharge Elongi
+addCard: Bakisa Carte Ya Recharge
+addNewCard: Bakisa carte ya sika ya recharge
+setDefault: Set Lokola Default
+expire: Mokolo Oyo Ekosila
+cardFee: Mbongo Ya Kosimba
+topupApplyed: Bazali kotinda demande ya kolongolama ya mbongo
+waitTopupRecv: Kozela Boyei
+whenTopupRecv: Tango Recharge Ekomi
+willMailNotify: Yebisa yo na nzela ya email

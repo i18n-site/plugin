@@ -1,0 +1,32 @@
+bill: Faktura
+translate: Terjime Et
+topup: Ýokary
+manual: Gollanma
+bonus: Bonus
+creditCard: Kredit Kartoçkasy
+asset: Aktiwleri
+amountInTotal: Jemi
+needTopup: Ilki bilen zarýad bermegiňizi haýyş edýäris
+topupOnWay: Zarýad Berilýär
+autoChargeTip: Balans ýeterlik bolmasa, öňünden töleg awtomatiki usulda amala aşyrylar
+autoChargeHelp: Balans ýeterlik bolmasa, bergilerdäki mukdar awtomatiki usulda aýrylar
+needHelp: Soragyňyz Barmy?
+pleaseMail: E-Poçta Ibermegiňizi Haýyş Edýäris
+topupAmount: Dolandyryş Mukdary
+USD: Dollar
+# EUR: Euroewro
+topUpFailed: Dikeldiş Şowsuz
+rtRetry: Yzyňa Gaýdyp Barla
+amount: Mukdary
+# Walýuta Hümmeti: Walýuta Hümmeti
+pay: Tölemek
+topupOk: Zarýad Bermek Üstünlikli
+addCard: Zarýad Kartasyny Goşuň
+addNewCard: Täze Zarýad Kartasyny Goşuň
+setDefault: Dymmaklyk Hökmünde Düzüň
+expire: Gutarýan Senesi
+cardFee: Töleg
+topupApplyed: Aýyrmak Üçin Arza Berildi
+waitTopupRecv: Gelmegine Garaşýarys
+whenTopupRecv: Haçan-Da Zarýad Berlende
+willMailNotify: E-Poçta Bilen Habar Beriň

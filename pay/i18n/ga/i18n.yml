@@ -1,0 +1,32 @@
+bill: Bille
+translate: Aistrigh
+topup: Barr Suas
+manual: Lámhleabhar
+bonus: Bónas
+creditCard: Cárta Creidmheasa
+asset: Sócmhainní
+amountInTotal: Iomlán
+needTopup: Déan athluchtú ar dtús le do thoil
+topupOnWay: Athluchtú Ar Siúl
+autoChargeTip: Nuair nach leor an t-iarmhéid, déanfar réamhíocaíocht go huathoibríoch
+autoChargeHelp: Nuair nach leor an t-iarmhéid, déanfar an méid atá i riaráiste a asbhaint go huathoibríoch
+needHelp: An Bhfuil Ceist Agat?
+pleaseMail: Seol Ríomhphost Le Do Thoil
+topupAmount: Méid Athluchtaithe
+USD: Dollar
+# EUR: Euro
+topUpFailed: Theip Ar an Athluchtú
+rtRetry: Téigh ar ais agus bain triail eile as
+amount: Chainníocht
+# Ráta Malairte: Ráta Malairte
+pay: Íoc
+topupOk: Recharge Rathúil
+addCard: Cuir Cárta Athluchtaithe Leis
+addNewCard: Cuir Cárta Athluchtaithe Nua Leis
+setDefault: Socraigh Mar Réamhshocrú
+expire: Dáta Éaga
+cardFee: Táille Láimhseála
+topupApplyed: Tá Iarratas Asbhainte Curtha Isteach
+waitTopupRecv: Ag Fanacht Le Teacht
+whenTopupRecv: Nuair a Thagann an Recharge
+willMailNotify: Cuir in iúl duit trí ríomhphost

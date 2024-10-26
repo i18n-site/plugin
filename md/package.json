@@ -1,0 +1,32 @@
+{
+  "name": "@8p/md",
+  "version": "0.3.64",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n/plugin.git"
+  },
+  "homepage": "https://atomgit.com/i18n/plugin/tree/dev/md",
+  "keywords": [
+    "i18n.site/plugin"
+  ],
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    ".": "./lib/Md.svelte",
+    "./*": "./lib/*"
+  },
+  "files": [
+    "lib/*"
+  ],
+  "scripts": {},
+  "type": "module",
+  "peerDependencies": {
+    "@2-/tag0": "^0.1.2",
+    "@2-/title": "^0.1.8",
+    "@3-/mark": "^0.1.18",
+    "@8p/h404": "workspace:^",
+    "@8p/wait": "workspace:^",
+    "@8p/_sync": "workspace:^"
+  },
+  "devDependencies": {}
+}

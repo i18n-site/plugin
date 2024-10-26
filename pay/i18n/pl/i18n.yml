@@ -1,0 +1,32 @@
+bill: Rachunek
+translate: Tłumaczenia
+topup: Doładowanie
+manual: Ręczny
+bonus: Bonus
+creditCard: Karta Kredytowa
+asset: Aktywa
+amountInTotal: Suma
+needTopup: Proszę najpierw doładować
+topupOnWay: Trwa doładowanie
+autoChargeTip: Przy braku środków automatycznie zostanie dokonana przedpłata
+autoChargeHelp: Przy braku środków automatycznie zostanie pobrana kwota zadłużenia
+needHelp: Czy masz pytanie?
+pleaseMail: Proszę wysłać e-mail
+topupAmount: Kwota doładowania
+USD: Dolar
+# EUR: Euro
+topUpFailed: Doładowanie nie powiodło się
+rtRetry: Wróć i spróbuj ponownie
+amount: Ilość
+# exchangeRate: Kurs wymiany
+pay: Płatność
+topupOk: Doładowanie zakończone sukcesem
+addCard: Dodaj kartę doładowującą
+addNewCard: Dodaj nową kartę doładowującą
+setDefault: Ustaw jako domyślne
+expire: Data ważności
+cardFee: Opłata manipulacyjna
+topupApplyed: Wniosek o obciążenie został złożony
+waitTopupRecv: Oczekujące na wpłatę
+whenTopupRecv: Gdy doładowanie zostanie zaksięgowane
+willMailNotify: Zostaniesz powiadomiony e-mailem

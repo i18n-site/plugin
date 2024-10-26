@@ -1,0 +1,26 @@
+{
+  "name": "@8p/toclib",
+  "version": "0.3.23",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n/plugin.git"
+  },
+  "homepage": "https://atomgit.com/i18n/plugin/tree/dev/toclib",
+  "keywords": [
+    "i18n.site/plugin"
+  ],
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    ".": "./lib/index.js",
+    "./*": "./lib/*"
+  },
+  "files": [
+    "lib/*"
+  ],
+  "scripts": {},
+  "type": "module",
+  "peerDependencies": {
+    "@2-/doc": "^0.1.9"
+  }
+}

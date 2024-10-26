@@ -1,0 +1,20 @@
+signUp: تسجيل
+signIn: ولوج
+mail: بريد إلكتروني
+password: كلمة المرور
+agree: ال同意
+resetPassword: إعادة تعيين كلمة المرور
+userAgreement: اتفاقية المستخدم
+setPassword: إعداد كلمة المرور
+name: الاسم
+code: الرمز التحقق
+enterCode: يرجى إدخال رمز التحقق الذي است收到了
+checkSpam: لا تنسَ التحقق من صندوق البريد غير المرغوب فيه
+accountExist: الحساب موجود مسبقًا، قم بالولوج مباشرة
+created: تم إنشاء الحساب بنجاح
+exit: الخروج
+userAdmin: إدارة المستخدمين
+addAccount: إضافة حساب جديد
+exitAll: الخروج الكلي
+nowMail: البريد الإلكتروني الحالي
+newMail: البريد الإلكتروني الجديد

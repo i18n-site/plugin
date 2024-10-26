@@ -1,0 +1,32 @@
+bill: Factura
+translate: Tikray
+topup: Top Up
+manual: Makiwan
+bonus: Bonificación Nisqa
+creditCard: Tarjeta De Crédito Nisqawan
+asset: Imakuna
+amountInTotal: Llapan
+needTopup: Ama Hina Kaspa, Ñawpaqtaqa Cargay
+topupOnWay: Recarga Ruwakuchkan
+autoChargeTip: Saldo mana suficiente kaqtinqa, kikillanmantan ñawpaqmanta pagakunqa
+autoChargeHelp: Saldo mana suficiente kaqtinqa, kikillanmantan qolqe atraso nisqa qichusqa kanqa
+needHelp: ¿Ima Tapukuyniykipas Kanchu?
+pleaseMail: ama hina kaspa correo electrónico nisqapi apachiy
+topupAmount: Recarga Nisqa Qolqe
+USD: Dólar
+# EUR: Euro Nisqa
+topUpFailed: Recarga Mana Allintachu Ruwakurqa
+rtRetry: Kutiy Hinaspa Hukmanta Kallpanchakuy
+amount: Hayka
+# exchangeRate: Qullqi Tikray
+pay: Payllay
+topupOk: Recarga Allin Ruwasqa
+addCard: Tarjeta De Recarga Nisqatapas Yapay
+addNewCard: Musuq tarjeta de recarga nisqatapas yapay
+setDefault: Ñawpaqmanta Churasqa Hina Churay
+expire: P’unchay Tukukuynin
+cardFee: Manejomanta Qullqita
+topupApplyed: Deducción Nisqa Mañakuymi Apachisqaña
+waitTopupRecv: Chayamunanta Suyaspa
+whenTopupRecv: Recarga Chayamuptin
+willMailNotify: Correo Electrónico Nisqawan Willay

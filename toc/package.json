@@ -1,0 +1,29 @@
+{
+  "name": "@8p/toc",
+  "version": "0.3.8",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n/plugin.git"
+  },
+  "homepage": "https://atomgit.com/i18n/plugin/tree/dev/toc",
+  "keywords": [
+    "i18n.site/plugin"
+  ],
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    ".": "./lib/Toc.svelte",
+    "./*": "./lib/*"
+  },
+  "files": [
+    "lib/*"
+  ],
+  "devDependencies": {},
+  "peerDependencies": {
+    "@2-/doc": "^0.1.9",
+    "@8p/topbar": "workspace:^",
+    "@8p/toclib": "workspace:^"
+  },
+  "scripts": {},
+  "type": "module"
+}

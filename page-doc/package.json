@@ -1,0 +1,28 @@
+{
+  "name": "@8p/page-doc",
+  "version": "0.3.71",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n/plugin.git"
+  },
+  "homepage": "https://atomgit.com/i18n/plugin/tree/dev/page-doc",
+  "keywords": [
+    "i18n.site/plugin"
+  ],
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    ".": "./lib/Doc.svelte",
+    "./*": "./lib/*"
+  },
+  "files": [
+    "lib/*"
+  ],
+  "peerDependencies": {
+    "@8p/base-toc": "workspace:^",
+    "@8p/md": "workspace:^",
+    "@8p/wait": "workspace:^",
+    "svelte": "^5.0.3"
+  },
+  "type": "module"
+}

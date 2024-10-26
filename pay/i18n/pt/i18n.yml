@@ -1,0 +1,32 @@
+bill: Conta
+translate: Tradução
+topup: Recarregar
+manual: Manual
+bonus: Bônus
+creditCard: Cartão de Crédito
+asset: Ativos
+amountInTotal: Total
+needTopup: Por favor, efetue uma recarga primeiro
+topupOnWay: Recarga em andamento
+autoChargeTip: Quando o saldo for insuficiente, uma pré-pagamento será efetuado automaticamente
+autoChargeHelp: Quando o saldo for insuficiente, o valor devido será deduzido automaticamente
+needHelp: Há algum problema?
+pleaseMail: Por favor, envie um e-mail
+topupAmount: Valor da recarga
+USD: Dólar
+# EUR: Euro
+topUpFailed: Falha na recarga
+rtRetry: Voltar e tentar novamente
+amount: Quantidade
+# exchangeRate: Taxa de câmbio
+pay: Pagar
+topupOk: Recarga concluída com sucesso
+addCard: Adicionar cartão de recarga
+addNewCard: Adicionar novo cartão de recarga
+setDefault: Definir como padrão
+expire: Data de vencimento
+cardFee: Taxa de serviço
+topupApplyed: O pedido de débito foi submetido
+waitTopupRecv: Aguardando depósito
+whenTopupRecv: Quando o crédito for depositado
+willMailNotify: Enviar e-mail de notificação para você

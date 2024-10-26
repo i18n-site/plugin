@@ -1,0 +1,32 @@
+bill: Regning
+translate: Oversætte
+topup: Fylde Op
+manual: Manuel
+bonus: Bonus
+creditCard: Kreditkort
+asset: Aktiver
+amountInTotal: Total
+needTopup: Oplad Venligst Først
+topupOnWay: Genopladning I Gang
+autoChargeTip: Når saldoen er utilstrækkelig, vil der automatisk blive foretaget forudbetaling
+autoChargeHelp: Når saldoen er utilstrækkelig, trækkes det restancebeløb automatisk
+needHelp: Har Du Et Spørgsmål?
+pleaseMail: Venligst E-Mail
+topupAmount: Genopladningsbeløb
+USD: Dollar
+# EUR: Euro
+topUpFailed: Genopladning Mislykkedes
+rtRetry: Gå Tilbage Og Prøv Igen
+amount: Mængde
+# Valutakurs: Valutakurs
+pay: Betale
+topupOk: Genopladning Lykkedes
+addCard: Tilføj Genopladningskort
+addNewCard: Tilføj Nyt Genopladningskort
+setDefault: Indstil Som Standard
+expire: Udløbsdato
+cardFee: Ekspeditionsgebyr
+topupApplyed: Ansøgning Om Fradrag Er Indsendt
+waitTopupRecv: Venter På Ankomst
+whenTopupRecv: Når Genopladningen Kommer
+willMailNotify: Giv Dig Besked via E-Mail

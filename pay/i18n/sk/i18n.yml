@@ -1,0 +1,32 @@
+bill: Účet
+translate: Preložiť
+topup: Doplniť
+manual: Manuál
+bonus: Bonus
+creditCard: Kreditná Karta
+asset: Aktíva
+amountInTotal: Celkom
+needTopup: Najskôr Nabite
+topupOnWay: Prebieha Nabíjanie
+autoChargeTip: Ak je zostatok nedostatočný, platba vopred sa automaticky vykoná
+autoChargeHelp: Ak je zostatok nedostatočný, suma v omeškaní sa automaticky odpočíta
+needHelp: Máte Otázku?
+pleaseMail: Prosím Email
+topupAmount: Suma Dobitia
+USD: Dolár
+# EUR: Euro
+topUpFailed: Nabíjanie Zlyhalo
+rtRetry: Vráťte sa a skúste to znova
+amount: Množstvo
+# exchangeRate: Výmenný Kurz
+pay: Zaplatiť
+topupOk: Úspešné Nabitie
+addCard: Pridajte Dobíjaciu Kartu
+addNewCard: Pridajte Novú Dobíjaciu Kartu
+setDefault: Nastaviť Ako Predvolené
+expire: Dátum Vypršania Platnosti
+cardFee: Manipulačný Poplatok
+topupApplyed: Žiadosť O Odpočet Bola Podaná
+waitTopupRecv: Čakanie Na Príchod
+whenTopupRecv: Keď Príde Dobitie
+willMailNotify: Upozorniť Vás E-Mailom

@@ -1,0 +1,32 @@
+bill: बिल
+translate: अनुवाद गर्नुहोस्
+topup: माथि
+manual: म्यानुअल
+bonus: बोनस
+creditCard: क्रेडिट कार्ड
+asset: सम्पत्ति
+amountInTotal: कुल
+needTopup: कृपया पहिले रिचार्ज गर्नुहोस्
+topupOnWay: रिचार्ज भइरहेको छ
+autoChargeTip: जब ब्यालेन्स अपर्याप्त हुन्छ, पूर्व भुक्तानी स्वतः बनाइनेछ
+autoChargeHelp: ब्यालेन्स अपर्याप्त हुँदा, बक्यौता रकम स्वतः कटौती हुनेछ
+needHelp: एउटा प्रश्न छ?
+pleaseMail: कृपया इमेल गर्नुहोस्
+topupAmount: रिचार्ज रकम
+USD: डलर
+# EUR: यूरो
+topUpFailed: रिचार्ज असफल भयो
+rtRetry: पछाडि जानुहोस् र पुन∶ प्रयास गर्नुहोस्
+amount: मात्रा
+# विनिमय दर: विनिमय दर
+pay: भुक्तान
+topupOk: रिचार्ज सफल भयो
+addCard: रिचार्ज कार्ड थप्नुहोस्
+addNewCard: नयाँ रिचार्ज कार्ड थप्नुहोस्
+setDefault: पूर्वनिर्धारित रूपमा सेट गर्नुहोस्
+expire: म्याद सकिने मिति
+cardFee: ह्यान्डलिंग शुल्क
+topupApplyed: कटौती आवेदन पेश गरिएको छ
+waitTopupRecv: आगमनको प्रतिक्षामा
+whenTopupRecv: जब रिचार्ज आउँछ
+willMailNotify: इमेल मार्फत तपाईंलाई सूचित गर्नुहोस्

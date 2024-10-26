@@ -1,0 +1,32 @@
+bill: देयकं
+translate: अनुवदति
+topup: Top Up इति
+manual: शास्त्र
+bonus: बोनस
+creditCard: क्रेडिट कार्ड
+asset: संपत्तियां
+amountInTotal: कुल
+needTopup: कृपया प्रथमं पुनः चार्जं कुर्वन्तु
+topupOnWay: पुनः चार्ज प्रचलति
+autoChargeTip: यदा शेषं अपर्याप्तं भवति तदा पूर्वदेयता स्वयमेव भविष्यति
+autoChargeHelp: यदा शेषं अपर्याप्तं भवति तदा बकाया राशिः स्वयमेव कटौती भविष्यति
+needHelp: प्रश्नः अस्ति वा ?
+pleaseMail: कृपया ईमेलं कुर्वन्तु
+topupAmount: पुनः चार्ज राशि
+USD: डॉलर
+# यूरो: यूरो
+topUpFailed: पुनः चार्जं विफलम् अभवत्
+rtRetry: पुनः गत्वा पुनः प्रयासं कुर्वन्तु
+amount: मात्रा
+# exchangeRate: विनिमय दर
+pay: वेतनं
+topupOk: पुनः चार्ज सफल
+addCard: रिचार्ज कार्ड् योजयन्तु
+addNewCard: नूतनं रिचार्जकार्डं योजयन्तु
+setDefault: पूर्वनिर्धारितरूपेण सेट् कुर्वन्तु
+expire: समाप्ति तिथि
+cardFee: संचालनशुल्कम्
+topupApplyed: कटौती आवेदनपत्रं प्रदत्तम् अस्ति
+waitTopupRecv: आगमनं प्रतीक्षमाणः
+whenTopupRecv: यदा पुनः चार्जः आगच्छति
+willMailNotify: ईमेलद्वारा भवन्तं सूचयन्तु

@@ -1,0 +1,32 @@
+bill: बिल
+translate: भाषांतर करा
+topup: टॉप अप
+manual: मॅन्युअल
+bonus: बोनस
+creditCard: क्रेडिट कार्ड
+asset: मालमत्ता
+amountInTotal: एकूण
+needTopup: कृपया प्रथम रिचार्ज करा
+topupOnWay: रिचार्ज चालू आहे
+autoChargeTip: जेव्हा शिल्लक अपुरी असेल, तेव्हा प्रीपेमेंट स्वयंचलितपणे केले जाईल
+autoChargeHelp: जेव्हा शिल्लक अपुरी असेल, तेव्हा थकबाकीतील रक्कम आपोआप वजा केली जाईल
+needHelp: एक प्रश्न आहे का?
+pleaseMail: कृपया ईमेल करा
+topupAmount: रिचार्ज रक्कम
+USD: डॉलर
+# EUR: युरो
+topUpFailed: रिचार्ज अयशस्वी
+rtRetry: परत जा आणि पुन्हा प्रयत्न करा
+amount: प्रमाण
+# विनिमय दर: विनिमय दर
+pay: पैसे द्या
+topupOk: रिचार्ज यशस्वी
+addCard: रिचार्ज कार्ड जोडा
+addNewCard: नवीन रिचार्ज कार्ड जोडा
+setDefault: डीफॉल्ट म्हणून सेट करा
+expire: कालबाह्यता तारीख
+cardFee: हाताळणी शुल्क
+topupApplyed: कपातीचा अर्ज सादर केला आहे
+waitTopupRecv: आगमनाची वाट पाहत आहे
+whenTopupRecv: रिचार्ज आल्यावर
+willMailNotify: तुम्हाला ईमेलद्वारे सूचित करा

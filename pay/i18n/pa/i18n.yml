@@ -1,0 +1,32 @@
+bill: ਬਿੱਲ
+translate: ਅਨੁਵਾਦ ਕਰੋ
+topup: ਸਿਖਰ 'ਤੇ
+manual: ਮੈਨੁਅਲ
+bonus: ਬੋਨਸ
+creditCard: ਕਰੇਡਿਟ ਕਾਰਡ
+asset: ਸੰਪਤੀਆਂ
+amountInTotal: ਕੁੱਲ
+needTopup: ਕਿਰਪਾ ਕਰਕੇ ਪਹਿਲਾਂ ਰੀਚਾਰਜ ਕਰੋ
+topupOnWay: ਰੀਚਾਰਜ ਚੱਲ ਰਿਹਾ ਹੈ
+autoChargeTip: ਜਦੋਂ ਬਕਾਇਆ ਨਾਕਾਫ਼ੀ ਹੁੰਦਾ ਹੈ, ਤਾਂ ਪੂਰਵ-ਭੁਗਤਾਨ ਸਵੈਚਲਿਤ ਤੌਰ 'ਤੇ ਕੀਤਾ ਜਾਵੇਗਾ
+autoChargeHelp: ਜਦੋਂ ਬਕਾਇਆ ਨਾਕਾਫ਼ੀ ਹੁੰਦਾ ਹੈ, ਤਾਂ ਬਕਾਏ ਦੀ ਰਕਮ ਆਪਣੇ ਆਪ ਕੱਟ ਦਿੱਤੀ ਜਾਵੇਗੀ
+needHelp: ਕੋਈ ਸਵਾਲ ਹੈ?
+pleaseMail: ਕਿਰਪਾ ਕਰਕੇ ਈਮੇਲ ਕਰੋ
+topupAmount: ਰੀਚਾਰਜ ਦੀ ਰਕਮ
+USD: ਡਾਲਰ
+# EUR: ਯੂਰੋ
+topUpFailed: ਰੀਚਾਰਜ ਅਸਫਲ ਰਿਹਾ
+rtRetry: ਵਾਪਸ ਜਾਓ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ
+amount: ਮਾਤਰਾ
+# ਐਕਸਚੇਂਜ ਰੇਟ: ਐਕਸਚੇਂਜ ਰੇਟ
+pay: ਭੁਗਤਾਨ ਕਰੋ
+topupOk: ਰੀਚਾਰਜ ਸਫਲ
+addCard: ਰੀਚਾਰਜ ਕਾਰਡ ਸ਼ਾਮਲ ਕਰੋ
+addNewCard: ਨਵਾਂ ਰੀਚਾਰਜ ਕਾਰਡ ਸ਼ਾਮਲ ਕਰੋ
+setDefault: ਪੂਰਵ-ਨਿਰਧਾਰਤ ਵਜੋਂ ਸੈੱਟ ਕਰੋ
+expire: ਅੰਤ ਦੀ ਤਾਰੀਖ
+cardFee: ਹੈਂਡਲਿੰਗ ਫੀਸ
+topupApplyed: ਕਟੌਤੀ ਦੀ ਅਰਜ਼ੀ ਜਮ੍ਹਾਂ ਕਰਾਈ ਗਈ ਹੈ
+waitTopupRecv: ਪਹੁੰਚਣ ਦੀ ਉਡੀਕ ਕਰ ਰਿਹਾ ਹੈ
+whenTopupRecv: ਜਦੋਂ ਰੀਚਾਰਜ ਆਉਂਦਾ ਹੈ
+willMailNotify: ਤੁਹਾਨੂੰ ਈਮੇਲ ਦੁਆਰਾ ਸੂਚਿਤ ਕਰੋ

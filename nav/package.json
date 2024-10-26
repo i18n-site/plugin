@@ -1,0 +1,29 @@
+{
+  "name": "@8p/nav",
+  "version": "0.3.14",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n/plugin.git"
+  },
+  "homepage": "https://atomgit.com/i18n/plugin/tree/dev/nav",
+  "keywords": [
+    "i18n.site/plugin"
+  ],
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    ".": "./lib/index.js",
+    "./*": "./lib/*"
+  },
+  "files": [
+    "lib/*"
+  ],
+  "scripts": {},
+  "type": "module",
+  "dependencies": {
+    "@2-/doc": "^0.1.8"
+  },
+  "devDependencies": {
+    "~": "../../site/src"
+  }
+}

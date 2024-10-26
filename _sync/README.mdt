@@ -1,0 +1,3 @@
+# @3-/_sync : 将异步的 onMount 转为同步的 onMount , 以便于 svelte onUnmount 生效
+
+<+ ../about.md >

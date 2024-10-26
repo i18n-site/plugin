@@ -1,0 +1,32 @@
+bill: Bill
+translate: Translate
+topup: Top Up
+manual: Manual
+bonus: Bonus
+creditCard: Credit Card
+asset: Asset
+amountInTotal: Total Amount
+needTopup: Please Top Up Before Proceeding
+topupOnWay: Top Up in Progress
+autoChargeTip: Should the balance be insufficient, prepayment will be automatically initiated
+autoChargeHelp: Should the balance be insufficient, the outstanding amount will be automatically deducted
+needHelp: Has Problem ?
+pleaseMail: Please Send an Email
+topupAmount: Recharge Amount
+USD: Dollar
+# EUR: Euros
+topUpFailed: Recharge Failed
+rtRetry: Back and Retry
+amount: Quantity
+# exchangeRate: Exchange Rate
+pay: Payment
+topupOk: Recharge Successful
+addCard: Add Recharge Card
+addNewCard: Add a New Card
+setDefault: Set as Default
+expire: Expiry Date
+cardFee: Transaction Fee
+topupApplyed: Deduction request submitted
+waitTopupRecv: Awaiting account credit
+whenTopupRecv: Upon arrival of the recharge
+willMailNotify: Email notification will be sent to you

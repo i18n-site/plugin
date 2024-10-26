@@ -1,0 +1,32 @@
+bill: 账单
+translate: 翻译
+topup: 充值
+manual: 手动
+bonus: 赠金
+creditCard: 信用卡
+asset: 资产
+amountInTotal: 合计
+needTopup: 请先充值
+topupOnWay: 充值进行中
+autoChargeTip: 余额不足时，将自动进行预付款
+autoChargeHelp: 余额不足时，将自动扣取欠费金额
+needHelp: 有问题 ？
+pleaseMail: 请发电子邮件
+topupAmount: 充值金额
+USD: 美元
+# EUR: 欧元
+topUpFailed: 充值失败
+rtRetry: 返回并重试
+amount: 数量
+# exchangeRate: 汇率
+pay: 支付
+topupOk: 充值成功
+addCard: 添加充值卡
+addNewCard: 添加新的充值卡
+setDefault: 设为默认
+expire: 到期日
+cardFee: 手续费
+topupApplyed: 扣费申请已提交
+waitTopupRecv: 等待到账中
+whenTopupRecv: 当充值到账时
+willMailNotify: 将邮件通知您

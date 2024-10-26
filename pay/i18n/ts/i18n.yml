@@ -1,0 +1,32 @@
+bill: Koxa
+translate: Hundzuluxa
+topup: Top Up
+manual: Manyuwali
+bonus: Bonasi Ya Kona
+creditCard: Khadi Ra Xikweleti
+asset: Tinhundzu
+amountInTotal: Hinkwaswo
+needTopup: Hi kombela u rhanga hi ku chajiwa
+topupOnWay: Recharge Yi Le Ku Endliweni
+autoChargeTip: Loko mali leyi saleke yi nga enelanga, ku hakela ka ha ri emahlweni ku ta endliwa hi ku tisungulela
+autoChargeHelp: Loko mali leyi saleke yi nga enelanga, mali leyi nga sala endzhaku yi ta susiwa hi ku tisungulela
+needHelp: Xana U Na Xivutiso?
+pleaseMail: Hi Kombela U Rhumela Email
+topupAmount: Nhlayo Ya Ku Chajiwa Nakambe
+USD: Dolara
+# EUR: Euro: Yuro
+topUpFailed: Recharge Yi Tsandzekile
+rtRetry: Vuya endzhaku u ya ringeta nakambe
+amount: Ntsengo
+# exchangeRate: Mpimo Wa Ku Cincana
+pay: Hakela
+topupOk: Recharge Yi Humelerile
+addCard: Engetela Khadi Ro Chajiwa Nakambe
+addNewCard: Engetela khadi lerintshwa ro chajiwa nakambe
+setDefault: Seta Tanihi Default
+expire: Siku Ro Hela Ka Nkarhi
+cardFee: Mali Yo Khoma
+topupApplyed: Xikombelo Xo Hungutiwa Xi Rhumeriwile
+waitTopupRecv: Ku Rindzele Ku Fika
+whenTopupRecv: Loko Ku Fika Recharge
+willMailNotify: Ku Tivisa Hi Email

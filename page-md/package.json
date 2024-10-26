@@ -1,0 +1,29 @@
+{
+  "name": "@8p/page-md",
+  "version": "0.3.6",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n/plugin.git"
+  },
+  "homepage": "https://atomgit.com/i18n/plugin/tree/dev/page-md",
+  "keywords": [
+    "i18n.site/plugin"
+  ],
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    ".": "./lib/Md.svelte",
+    "./*": "./lib/*"
+  },
+  "files": [
+    "lib/*"
+  ],
+  "peerDependencies": {
+    "@8p/mc": "workspace:^",
+    "@8p/topbar": "workspace:^",
+    "@8p/md": "workspace:^"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "type": "module"
+}

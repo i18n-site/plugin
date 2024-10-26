@@ -1,0 +1,32 @@
+bill: Facture
+translate: Traduire
+topup: Recharger
+manual: Manuel
+bonus: Prime
+creditCard: Carte De Crédit
+asset: Actifs
+amountInTotal: Total
+needTopup: Veuillez D'abord Recharger
+topupOnWay: Recharge en Cours
+autoChargeTip: Lorsque le solde est insuffisant, un prépaiement sera automatiquement effectué
+autoChargeHelp: Lorsque le solde est insuffisant, le montant en souffrance sera automatiquement déduit
+needHelp: Vous Avez Une Question ?
+pleaseMail: s'il vous plaît envoyez un e-mail
+topupAmount: Montant De La Recharge
+USD: Dollar
+# EUR : Euros
+topUpFailed: La Recharge a Échoué
+rtRetry: Revenez en Arrière Et Réessayez
+amount: Quantité
+# changeRate : Taux De Change
+pay: Payer
+topupOk: Recharge Réussie
+addCard: Ajouter Une Carte De Recharge
+addNewCard: Ajouter une nouvelle carte de recharge
+setDefault: Définir Par Défaut
+expire: Date De Péremption
+cardFee: Frais De Traitement
+topupApplyed: La demande de déduction a été soumise
+waitTopupRecv: En Attendant L'arrivée
+whenTopupRecv: Quand La Recharge Arrive
+willMailNotify: Vous Avertir Par Email

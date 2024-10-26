@@ -1,0 +1,32 @@
+bill: ክፍሊት
+translate: ምትርጓም
+topup: ቶፕ ኣፕ ምግባር
+manual: ናይ ኢድ
+bonus: ቦነስ እዩ።
+creditCard: ናይ ክረዲት ካርድ
+asset: ሃብቲ
+amountInTotal: ድምር
+needTopup: በጃኹም መጀመርያ ሪቻርጅ ግበሩ
+topupOnWay: ሪቻርጅ ኣብ መስርሕ ኣሎ።
+autoChargeTip: እቲ ሚዛን እኹል ኣብ ዘይኮነሉ እዋን ቅድመ ክፍሊት ብኣውቶማቲክ ይግበር
+autoChargeHelp: እቲ ሚዛን እኹል ኣብ ዘይኮነሉ እዋን እቲ ኣብ ዕዳ ዘሎ መጠን ገንዘብ ብኣውቶማቲክ ይቑረጽ
+needHelp: ሕቶ ኣለካ?
+pleaseMail: በጃኹም ብኢመይል ክትጽሕፉ ትኽእሉ ኢኹም።
+topupAmount: መጠን ሪቻርጅ
+USD: ዶላር
+# ዩሮ፡ ዩሮ
+topUpFailed: ሪቻርጅ ኣይተዓወተን
+rtRetry: ንድሕሪት ተመሊስካ እንደገና ፈትን።
+amount: መጠን
+# exchangeRate: ሸርፊ ዋጋ
+pay: ክፈል
+topupOk: ሪቻርጅ ዕዉት ኮይኑ
+addCard: ሪቻርጅ ካርድ ምውሳኽ
+addNewCard: ሓድሽ ሪቻርጅ ካርድ ምውሳኽ
+setDefault: ከም ነባሪ ኣቐምጦ
+expire: ናይ ምውዳእ ዕለት
+cardFee: ናይ ኣተሓሕዛ ክፍሊት
+topupApplyed: ናይ ምጉዳል መመልከቲ ቀሪቡ ኣሎ።
+waitTopupRecv: ምምጻእ ምጽባይ
+whenTopupRecv: እቲ ሪቻርጅ ምስ መጸ
+willMailNotify: ብኢመይል ኣፍልጠኩም

@@ -1,0 +1,32 @@
+bill: Bilu
+translate: Masulira
+topup: Onjezerani
+manual: Pamanja
+bonus: Bonasi
+creditCard: Kiredi
+asset: Katundu
+amountInTotal: Zonse
+needTopup: Chonde Muwonjezerenso Kaye
+topupOnWay: Kuchangitsanso Kuli Mkati
+autoChargeTip: Ngati ndalamazo sizikukwanira, kulipiriratu kumangochitika zokha
+autoChargeHelp: Ngati ndalamazo sizikukwanira, ndalama zomwe zabweza zidzachotsedwa zokha
+needHelp: Muli Ndi Funso?
+pleaseMail: Chonde Imelo
+topupAmount: Recharge Ndalama
+USD: Dola
+# EUR: Euro
+topUpFailed: Kuyitanitsanso Kwalephera
+rtRetry: Bwererani Ndikuyesanso
+amount: Kuchuluka
+# exchangeRate: Mtengo Wosinthira
+pay: Kulipira
+topupOk: Kuyitanitsanso Kwapambana
+addCard: Onjezani Recharge Khadi
+addNewCard: Onjezani Khadi Lowonjezera Latsopano
+setDefault: Khazikitsani Ngati Chosasintha
+expire: Tsiku Lothera Ntchito
+cardFee: Mtengo Wogwira
+topupApplyed: Ntchito Yochotsera Yatumizidwa
+waitTopupRecv: Kuyembekezera Kubwera
+whenTopupRecv: Pamene Recharge Ifika
+willMailNotify: Akudziwitseni Ndi Imelo

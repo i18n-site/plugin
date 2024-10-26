@@ -1,0 +1,32 @@
+bill: Sąskaita
+translate: Išversti
+topup: Papildyti
+manual: Vadovas
+bonus: Premija
+creditCard: Kreditine Kortele
+asset: Turto
+amountInTotal: Viso
+needTopup: Pirmiausia Įkraukite
+topupOnWay: Vyksta Įkrovimas
+autoChargeTip: Kai likučio nepakanka, išankstinis apmokėjimas bus atliktas automatiškai
+autoChargeHelp: Kai likučio nepakanka, įsiskolinta suma bus automatiškai išskaičiuota
+needHelp: Turite Klausimą?
+pleaseMail: Prašome El
+topupAmount: Įkrovimo Suma
+USD: Doleris
+# EUR: Eurai
+topUpFailed: Nepavyko Įkrauti
+rtRetry: Grįžkite Ir Bandykite Dar Kartą
+amount: Kiekis
+# Valiutos Kursas: Valiutos Kursas
+pay: Mokėti
+topupOk: Sėkmingai Įkrauti
+addCard: Pridėkite Papildymo Kortelę
+addNewCard: Pridėkite Naują Papildymo Kortelę
+setDefault: Nustatyti Kaip Numatytąjį
+expire: Galiojimo Laikas
+cardFee: Tvarkymo Mokestis
+topupApplyed: Pateiktas Prašymas Dėl Atskaitymo
+waitTopupRecv: Laukia Atvykstant
+whenTopupRecv: Kai Ateina Įkrovimas
+willMailNotify: Pranešti El. Paštu

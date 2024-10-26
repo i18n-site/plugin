@@ -1,0 +1,32 @@
+bill: Conto
+translate: Trafficare
+topup: Ricarica
+manual: Manuale
+bonus: Bonus
+creditCard: Carta di credito
+asset: Attività
+amountInTotal: Totale
+needTopup: Ricarica prima, per favore
+topupOnWay: Ricarica in corso
+autoChargeTip: Quando il saldo è insufficiente, la预付款将被自动执行
+autoChargeHelp: Quando il saldo è insufficiente, l'importo dovuto sarà addebitato automaticamente
+needHelp: Hai un problema?
+pleaseMail: Inviare una email, per favore
+topupAmount: Importo della ricarica
+USD: Dollaro
+# EUR: Euro
+topUpFailed: Ricarica fallita
+rtRetry: Torna indietro e riprova
+amount: Quantità
+# tasso di cambio: tasso di cambio
+pay: Pagamento
+topupOk: Ricarica riuscita
+addCard: Aggiungi una carta di ricarica
+addNewCard: Aggiungi una nuova carta di ricarica
+setDefault: Imposta come predefinito
+expire: Data di scadenza
+cardFee: Commissione
+topupApplyed: La richiesta di addebito è stata presentata
+waitTopupRecv: In attesa di accredito
+whenTopupRecv: Al momento del accredito della ricarica
+willMailNotify: Le invierò una notifica via email

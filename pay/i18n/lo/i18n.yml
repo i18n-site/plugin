@@ -1,0 +1,32 @@
+bill: ໃບເກັບເງິນ
+translate: ແປ
+topup: ຕື່ມເງິນ
+manual: ຄູ່ມື
+bonus: ໂບນັດ
+creditCard: ບັດເຄຣດິດ
+asset: ຊັບສິນ
+amountInTotal: ທັງໝົດ
+needTopup: ກະລຸນາເຕີມເງິນກ່ອນ
+topupOnWay: ກຳລັງດຳເນີນການຕື່ມ
+autoChargeTip: ເມື່ອຍອດເງິນບໍ່ພຽງພໍ, ການຈ່າຍເງິນລ່ວງໜ້າຈະຖືກເຮັດໂດຍອັດຕະໂນມັດ
+autoChargeHelp: ເມື່ອຍອດເງິນບໍ່ພຽງພໍ, ຈໍານວນທີ່ຄ້າງຈ່າຍຈະຖືກຫັກໂດຍອັດຕະໂນມັດ
+needHelp: ມີຄຳຖາມບໍ?
+pleaseMail: ກະລຸນາອີເມລ໌
+topupAmount: ຕື່ມເງິນຈໍານວນ
+USD: ໂດລາ
+# EUR: ເອີໂຣ
+topUpFailed: ການເຕີມເງິນບໍ່ສຳເລັດ
+rtRetry: ກັບໄປແລະລອງອີກຄັ້ງ
+amount: ປະລິມານ
+# ExchangeRate: ອັດຕາແລກປ່ຽນ
+pay: ຈ່າຍ
+topupOk: ເຕີມເງິນສຳເລັດແລ້ວ
+addCard: ເພີ່ມບັດເຕີມເງິນ
+addNewCard: ເພີ່ມບັດເຕີມເງິນໃໝ່
+setDefault: ຕັ້ງເປັນຄ່າເລີ່ມຕົ້ນ
+expire: ວັນໝົດອາຍຸ
+cardFee: ຄ່າທໍານຽມການຈັດການ
+topupApplyed: ຄໍາຮ້ອງສະຫມັກຫັກໄດ້ຖືກສົ່ງ
+waitTopupRecv: ລໍຖ້າການມາຮອດ
+whenTopupRecv: ເມື່ອການເຕີມເງິນມາຮອດ
+willMailNotify: ແຈ້ງໃຫ້ທ່ານໂດຍອີເມລ໌

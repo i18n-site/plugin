@@ -1,0 +1,32 @@
+bill: Bil
+translate: Menterjemah
+topup: Tambah Nilai
+manual: Manual
+bonus: Bonus
+creditCard: Kad Kredit
+asset: Aset
+amountInTotal: Jumlah
+needTopup: Sila Cas Semula Dahulu
+topupOnWay: Caj Semula Sedang Dijalankan
+autoChargeTip: Apabila baki tidak mencukupi, bayaran pendahuluan akan dibuat secara automatik
+autoChargeHelp: Apabila baki tidak mencukupi, jumlah tertunggak akan ditolak secara automatik
+needHelp: Ada Soalan?
+pleaseMail: Sila Email
+topupAmount: Jumlah Cas Semula
+USD: Dolar
+# EUR: Euro
+topUpFailed: Caj Semula Gagal
+rtRetry: Kembali Dan Cuba Lagi
+amount: Kuantiti
+# Kadar Pertukaran: Kadar Pertukaran
+pay: Bayar
+topupOk: Caj Semula Berjaya
+addCard: Tambah Kad Cas Semula
+addNewCard: Tambah Kad Cas Semula Baharu
+setDefault: Tetapkan Sebagai Lalai
+expire: Tarikh Luput
+cardFee: Yuran Pengendalian
+topupApplyed: Permohonan Potongan Telah Dikemukakan
+waitTopupRecv: Menunggu Ketibaan
+whenTopupRecv: Apabila Cas Semula Tiba
+willMailNotify: Beritahu Anda Melalui E-Mel

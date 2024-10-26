@@ -1,0 +1,32 @@
+bill: Fattura
+translate: Traduce
+topup: Culpisce
+manual: Manuale
+bonus: Bonus
+creditCard: Carta Di Creditu
+asset: Beni
+amountInTotal: Tutale
+needTopup: Per Piacè Ricaricate Prima
+topupOnWay: Ricarica in Corso
+autoChargeTip: Quandu u saldo hè insufficiente, u prepagamentu serà automaticamente fattu
+autoChargeHelp: Quandu u saldo hè insufficiente, l'ammontu in arrears serà automaticamente dedutu
+needHelp: Avete Una Quistione?
+pleaseMail: Per Piacè Email
+topupAmount: A Quantità Di Ricaricà
+USD: Dollaru
+# EUR: Euro
+topUpFailed: A Ricarica Hà Fiascatu
+rtRetry: Torna È Pruvate Di Novu
+amount: Quantità
+# exchangeRate : Tassu Di Scambiu
+pay: Pagà
+topupOk: Ricarica Successu
+addCard: Aghjunghjite a Carta Di Ricarica
+addNewCard: Aghjunghjite una nova carta di ricarica
+setDefault: Stabilite Cum'è Predefinitu
+expire: Data Di Perenzione
+cardFee: Tassa Di Gestione
+topupApplyed: L'applicazione di deduzzione hè stata presentata
+waitTopupRecv: Aspittendu L'arrivu
+whenTopupRecv: Quandu a Recarga Ghjunghje
+willMailNotify: Avissi Per Email

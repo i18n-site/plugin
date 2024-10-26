@@ -1,0 +1,28 @@
+{
+  "name": "@8p/shash",
+  "version": "0.3.8",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n/plugin.git"
+  },
+  "homepage": "https://atomgit.com/i18n/plugin/tree/dev/shash",
+  "keywords": [
+    "i18n.site/plugin"
+  ],
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    ".": "./lib/index.js",
+    "./*": "./lib/*"
+  },
+  "files": [
+    "lib/*"
+  ],
+  "devDependencies": {},
+  "scripts": {},
+  "type": "module",
+  "peerDependencies": {
+    "@2-/doc": "^0.1.8",
+    "@3-/fall": "^0.1.1"
+  }
+}

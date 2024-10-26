@@ -1,0 +1,32 @@
+bill: Kont
+translate: Tittraduċi
+topup: Top Up
+manual: Manwal
+bonus: Bonus
+creditCard: Karta Tal-Kreditu
+asset: Assi
+amountInTotal: Totali
+needTopup: Jekk Jogħġbok Iċċarġja Mill-Ġdid L-Ewwel
+topupOnWay: Recharge Fil-Progress
+autoChargeTip: Meta l-bilanċ ma jkunx biżżejjed, il-ħlas bil-quddiem isir awtomatikament
+autoChargeHelp: Meta l-bilanċ ma jkunx biżżejjed, l-ammont fl-arretrati jitnaqqas awtomatikament
+needHelp: Għandek Xi Mistoqsija?
+pleaseMail: Jekk Jogħġbok Ibgħat Email
+topupAmount: Ammont Tal-Iċċarġjar Mill-Ġdid
+USD: Dollaru
+# EUR: Ewro
+topUpFailed: Recharge Falliet
+rtRetry: Mur Lura U Erġa' Pprova
+amount: Kwantità
+# exchangeRate: Rata Tal-Kambju
+pay: Tħallas
+topupOk: Recharge B'suċċess
+addCard: Żid Recharge Card
+addNewCard: Żid Karta Recharge Ġdida
+setDefault: Issettja Bħala Default
+expire: Data Ta' Skadenza
+cardFee: Ħlas Għall-Immaniġġjar
+topupApplyed: Applikazzjoni Għat-Tnaqqis Ġiet Sottomessa
+waitTopupRecv: Stennija Għall-Wasla
+whenTopupRecv: Meta Tasal Ir-Recharge
+willMailNotify: Innotifikak Bl-Email

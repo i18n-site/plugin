@@ -1,0 +1,32 @@
+bill: Rechnung
+translate: Iwwersetzen
+topup: Eropluede
+manual: Manuell
+bonus: Bonus
+creditCard: Kreditkaart
+asset: Verméigen
+amountInTotal: Am Ganzen
+needTopup: Oplued w.e.g. Éischt
+topupOnWay: Recharge Amgaang
+autoChargeTip: Wann d'Gläichgewiicht net genuch ass, gëtt d'Virbezuelung automatesch gemaach
+autoChargeHelp: Wann d'Gläichgewiicht net genuch ass, gëtt de Betrag am Réckstand automatesch ofgezunn
+needHelp: Hutt Dir Eng Fro?
+pleaseMail: Weg Email
+topupAmount: Recharge Betrag
+USD: Dollar
+# EUR: Eur
+topUpFailed: Recharge Gescheitert
+rtRetry: Gitt zréck a probéiert nach eng Kéier
+amount: Quantitéit
+# exchangeRate: Wechselkurs
+pay: Bezuelen
+topupOk: Recharge Erfollegräich
+addCard: Füügt Eng Opluedkaart
+addNewCard: Füügt Eng Nei Opluedkaart
+setDefault: Set Als Standard
+expire: Auslafdatum
+cardFee: Ëmgank Dossier
+topupApplyed: Deduktiounsapplikatioun Ass Agereecht Ginn
+waitTopupRecv: Waarden Op Arrivée
+whenTopupRecv: Wann d'Recharge Kënnt
+willMailNotify: Informéiert Iech Per E-Mail

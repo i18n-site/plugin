@@ -1,0 +1,32 @@
+bill: Ibhili
+translate: Humusha
+topup: Faka Ngaphezulu
+manual: Imanuwali
+bonus: Ibhonasi
+creditCard: Ikhadi Lesikweletu
+asset: Amafa
+amountInTotal: Ingqikithi
+needTopup: Sicela Ushaje Kabusha Kuqala
+topupOnWay: Ukushajwa Kabusha Kuyaqhubeka
+autoChargeTip: Uma ibhalansi inganele, ukukhokha kusengaphambili kuzokwenziwa ngokuzenzakalelayo
+autoChargeHelp: Uma ibhalansi inganele, inani elisilele emuva lizodonswa ngokuzenzekelayo
+needHelp: Unombuzo?
+pleaseMail: Sicela Uthumele I-Imeyili
+topupAmount: Inani Lokushajwa Kabusha
+USD: Idola
+# I-Euro: I-Euro
+topUpFailed: Ukushajwa Kabusha Kwehlulekile
+rtRetry: Buyela Emuva Bese Uzama Futhi
+amount: Ubuningi
+# I-exchangeRate: Izinga Lokushintshisana
+pay: Khokha
+topupOk: Ukushajwa Kabusha Kuphumelele
+addCard: Engeza Ikhadi Lokushajwa
+addNewCard: Engeza Ikhadi Elisha Lokushajwa
+setDefault: Setha Njengokuzenzakalelayo
+expire: Usuku Lokuphelelwa Isikhathi
+cardFee: Imali Yokuphatha
+topupApplyed: Isicelo Sokudonswa Kwemali Sithunyelwe
+waitTopupRecv: Ilinde Ukufika
+whenTopupRecv: Lapho I-Recharge Ifika
+willMailNotify: Ikwazise Nge-Imeyili

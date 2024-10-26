@@ -1,0 +1,32 @@
+bill: Factura
+translate: Traducir
+topup: Recargar
+manual: Manual
+bonus: Bonificación
+creditCard: Tarxeta De Crédito
+asset: Activos
+amountInTotal: Total
+needTopup: Recarga Primeiro
+topupOnWay: Recarga en Curso
+autoChargeTip: Cando o saldo sexa insuficiente, o prepago realizarase automaticamente
+autoChargeHelp: Cando o saldo resulte insuficiente, o importe atrasado descontarase automaticamente
+needHelp: Tes Algunha Pregunta?
+pleaseMail: Por Favor Correo Electrónico
+topupAmount: Cantidade De Recarga
+USD: Dólar
+# EUR: Euro
+topUpFailed: Produciuse Un Erro Na Recarga
+rtRetry: Volve E Téntao De Novo
+amount: Cantidade
+# exchangeRate: Tipo De Cambio
+pay: Pagar
+topupOk: Recarga Correcta
+addCard: Engadir Tarxeta De Recarga
+addNewCard: Engade unha nova tarxeta de recarga
+setDefault: Establecer Como Predeterminado
+expire: Data De Caducidade
+cardFee: Taxa De Manexo
+topupApplyed: Presentouse a Solicitude De Dedución
+waitTopupRecv: Agardando a Chegada
+whenTopupRecv: Cando Chegue a Recarga
+willMailNotify: Avisalo Por Correo Electrónico

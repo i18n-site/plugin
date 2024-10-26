@@ -1,0 +1,20 @@
+signUp: Registrace
+signIn: Přihlásit se
+mail: E-mail
+password: Heslo
+agree: Souhlasím
+resetPassword: Obnovit heslo
+userAgreement: Uživatelská smlouva
+setPassword: Nastavit heslo
+name: Název
+code: Ověřovací kód
+enterCode: Zadejte ověřovací kód, který jste obdrželi
+checkSpam: Nezapomeňte zkontrolovat spam
+accountExist: Účet již existuje, přihlaste se přímo
+created: Účet byl úspěšně vytvořen
+exit: Odhlásit se
+userAdmin: Správa uživatelů
+addAccount: Přidat nový účet
+exitAll: Odhlásit všechny
+nowMail: Aktuální e-mail
+newMail: NOvý e-mail

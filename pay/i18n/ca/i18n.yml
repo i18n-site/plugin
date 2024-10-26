@@ -1,0 +1,32 @@
+bill: Factura
+translate: Traduir
+topup: Recarregar
+manual: Manual
+bonus: Bonificació
+creditCard: Targeta De Crèdit
+asset: Actius
+amountInTotal: Total
+needTopup: Si Us Plau, Recarregueu Primer
+topupOnWay: Recàrrega en Curs
+autoChargeTip: Quan el saldo sigui insuficient, el prepagament es farà automàticament
+autoChargeHelp: Quan el saldo sigui insuficient, es descomptarà automàticament l'import en mora
+needHelp: Tens Alguna Pregunta?
+pleaseMail: Si Us Plau, Correu Electrònic
+topupAmount: Import De Recàrrega
+USD: Dòlar
+# EUR: Euros
+topUpFailed: La Recàrrega Ha Fallat
+rtRetry: Torna enrere i torna-ho a provar
+amount: Quantitat
+# exchangeRate: Tipus De Canvi
+pay: Pagar
+topupOk: Recàrrega Correctament
+addCard: Afegeix Una Targeta De Recàrrega
+addNewCard: Afegeix una nova targeta de recàrrega
+setDefault: Estableix Com a Predeterminat
+expire: Data De Caducitat
+cardFee: Quota De Gestió
+topupApplyed: S'ha presentat la sol·licitud de deducció
+waitTopupRecv: Esperant L'arribada
+whenTopupRecv: Quan Arriba La Recàrrega
+willMailNotify: Aviseu-Vos Per Correu Electrònic

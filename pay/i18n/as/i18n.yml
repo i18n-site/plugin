@@ -1,0 +1,32 @@
+bill: বিল
+translate: অনুবাদ কৰা
+topup: টপ আপ
+manual: হাতপুথি
+bonus: বোনাছ
+creditCard: ক্ৰেডিট কাৰ্ড
+asset: সম্পত্তিসমূহ
+amountInTotal: মুঠ
+needTopup: প্ৰথমে ৰিচাৰ্জ কৰিবলৈ নাপাহৰিব
+topupOnWay: ৰিচাৰ্জ চলি আছে
+autoChargeTip: যেতিয়া বেলেঞ্চ অপৰ্যাপ্ত হ’ব তেতিয়া স্বয়ংক্ৰিয়ভাৱে প্ৰিপেমেণ্ট কৰা হ’ব
+autoChargeHelp: যেতিয়া বেলেঞ্চ অপৰ্যাপ্ত হ’ব তেতিয়া বকেয়া ধন স্বয়ংক্ৰিয়ভাৱে কৰ্তন কৰা হ’ব
+needHelp: এটা প্ৰশ্ন আছেনে?
+pleaseMail: অনুগ্ৰহ কৰি ইমেইল কৰক
+topupAmount: ৰিচাৰ্জৰ পৰিমাণ
+USD: ডলাৰ
+# ইউৰো: ইউৰো
+topUpFailed: ৰিচাৰ্জ বিকল হ’ল
+rtRetry: পিছলৈ ঘূৰি গৈ আকৌ চেষ্টা কৰক
+amount: পৰিমাণ
+# exchangeRate: বিনিময় হাৰ
+pay: পৰিশোধ কৰা
+topupOk: ৰিচাৰ্জ সফল
+addCard: ৰিচাৰ্জ কাৰ্ড যোগ কৰক
+addNewCard: নতুন ৰিচাৰ্জ কাৰ্ড যোগ কৰক
+setDefault: অবিকল্পিত হিচাপে নিৰ্ধাৰণ কৰক
+expire: মেয়াদ উকলি যোৱাৰ তাৰিখ
+cardFee: হেণ্ডলিং মাচুল
+topupApplyed: কৰ্তনৰ আবেদন দাখিল কৰা হৈছে
+waitTopupRecv: আগমনৰ বাবে অপেক্ষা কৰি আছে
+whenTopupRecv: যেতিয়া ৰিচাৰ্জ আহিব
+willMailNotify: ইমেইলযোগে আপোনাক অৱগত কৰক

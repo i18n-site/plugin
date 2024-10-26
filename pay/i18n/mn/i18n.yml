@@ -1,0 +1,32 @@
+bill: Билл
+translate: Орчуулах
+topup: Дүүргэх
+manual: Гарын Авлага
+bonus: Урамшуулал
+creditCard: Зээлийн Карт
+asset: Хөрөнгө
+amountInTotal: Нийт
+needTopup: Эхлээд Цэнэглэнэ Үү
+topupOnWay: Цэнэглэж Байна
+autoChargeTip: Үлдэгдэл хүрэлцэхгүй бол урьдчилгаа төлбөр автоматаар хийгдэнэ
+autoChargeHelp: Үлдэгдэл хүрэлцэхгүй бол хугацаа хэтэрсэн өрийг автоматаар хасна
+needHelp: Асуулт Байна Уу?
+pleaseMail: Имэйл Илгээнэ Үү
+topupAmount: Цэнэглэх Хэмжээ
+USD: Доллар
+# EUR: Евро
+topUpFailed: Цэнэглэж Чадсангүй
+rtRetry: Буцаад Дахин Оролдоно Уу
+amount: Тоо Хэмжээ
+# Валютын Ханш: Валютын Ханш
+pay: Төлөх
+topupOk: Амжилттай Цэнэглэлээ
+addCard: Цэнэглэх Карт Нэмнэ Үү
+addNewCard: Шинэ Цэнэглэх Карт Нэмнэ Үү
+setDefault: Өгөгдмөл Болгож Тохируулах
+expire: Дуусах Хугацаа
+cardFee: Харьцах Төлбөр
+topupApplyed: Суутгалын Өргөдөл Гаргасан
+waitTopupRecv: Ирэхийг Хүлээж Байна
+whenTopupRecv: Цэнэг Ирэх Үед
+willMailNotify: Танд Имэйлээр Мэдэгдэнэ Үү
