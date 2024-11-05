@@ -36,6 +36,7 @@ elemLi = (toc)=>
   #   topli.sort((a,b)=>a-b)
   #   return
 
+HASH = location.hash.slice(1)
 
 < (main, ali, toc, main_scroll)=>
   if not main
@@ -73,17 +74,31 @@ elemLi = (toc)=>
 
   srv = new IntersectionObserver(
     (li)=>
+      + a
       {scrollTop} = main_scroll
-      for i in li
-        a = id_a.get(i.target.id)
-        if a
-          [a, pos] = a
-          if i.isIntersecting
-            now a
-            break
-          else if a == pre and scrollTop < top and pos
-            # 避免一个很长的章节往上滚动不显示
-            now ali[pos-1]
+
+      now_hash = location.hash.slice(1)
+      # 点击章节的导致滚动
+      if HASH != now_hash
+        # 这里 a 也有可能不存在, 比如 now_hash 的乱写的
+        a = id_a.get(now_hash)
+
+      if a
+        HASH = now_hash
+        now a[0]
+      else
+        for i in li
+          # 获取正文标题对应侧栏链接
+          a = id_a.get(i.target.id)
+          if a
+            [a, pos] = a
+            if i.isIntersecting
+              now a
+              break
+            else if a == pre and scrollTop < top and pos
+              # 避免一个很长的章节往上滚动不显示
+              now ali[pos-1]
+
       top = scrollTop
       return
     threshold: 1

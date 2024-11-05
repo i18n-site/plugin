@@ -1,6 +1,6 @@
 {
   "name": "@8p/menu",
-  "version": "0.3.17",
+  "version": "0.3.18",
   "repository": {
     "type": "git",
     "url": "git+https://atomgit.com/i18n/plugin.git"
@@ -23,6 +23,6 @@
   "peerDependencies": {
     "@2-/new": "^0.1.2",
     "@8p/smnt": "workspace:^",
-    "svelte": "^5.0.3"
+    "svelte": "^5.1.9"
   }
 }

@@ -12,7 +12,7 @@
 
 < A
 
-[set,init,fToc] = A
+[set,doRender,fToc] = A
 
 onMount =>
   pathname = location.pathname.slice(1)
@@ -45,7 +45,7 @@ onMount =>
     await fToc(prefix)
     # ver
     ver
-    init
+    doRender
   ]
   return
 

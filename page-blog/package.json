@@ -1,6 +1,6 @@
 {
   "name": "@8p/page-blog",
-  "version": "0.3.77",
+  "version": "0.3.78",
   "repository": {
     "type": "git",
     "url": "git+https://atomgit.com/i18n/plugin.git"
@@ -19,13 +19,13 @@
     "lib/*"
   ],
   "peerDependencies": {
-    "@3-/mark": "^0.1.5",
+    "@3-/mark": "^0.1.19",
     "@3-/time": "^0.1.14",
     "@3-/tinyml": "^0.1.5",
     "@8p/base-toc": "workspace:^",
     "@8p/md": "workspace:^",
     "@3-/fli": "^0.1.6",
-    "svelte": "^5.0.3"
+    "svelte": "^5.1.9"
   },
   "type": "module",
   "dependencies": {}

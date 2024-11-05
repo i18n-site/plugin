@@ -21,5 +21,6 @@
 b :global(a.A)
   color #000
   font-variation-settings 'wght' 600, 'BEVL' 30
+  font-weight 800
 </style>
 

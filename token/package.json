@@ -1,6 +1,6 @@
 {
   "name": "@8p/token",
-  "version": "0.3.13",
+  "version": "0.3.14",
   "repository": {
     "type": "git",
     "url": "git+https://atomgit.com/i18n/plugin.git"
@@ -21,9 +21,9 @@
   "scripts": {},
   "type": "module",
   "peerDependencies": {
-    "@2-/copy": "^0.1.1",
-    "@2-/tag0": "^0.1.1",
-    "@5-/token": "^0.2.2",
+    "@2-/copy": "^0.1.2",
+    "@2-/tag0": "^0.1.2",
+    "@5-/token": "^0.2.5",
     "@8p/wait": "workspace:^",
     "@8p/drop": "workspace:^"
   },

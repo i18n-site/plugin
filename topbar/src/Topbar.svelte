@@ -149,29 +149,26 @@ nav
       :global(a)
         color #888
 
-      :global(a:hover)
-        color #f40
-
       :global(a.n)
         color #555
 
-nav :global(m-c), nav>i
-  border-radius 12px
-  height 24px
-  width 24px
-
-  &.w
-    background var(--svgWait) 50% 50% / 30px
+      &>a:hover
+        color #000
+        filter btn-hover-filter
 
 @layer
-  :global(m-c)
-    background 50% 50% / 20px no-repeat
+  nav :global(m-c), nav>i
+    background 50% 50% / 16px no-repeat
+    border-radius 12px
     border-radius 12px
     display inline-block
     height 24px
-    opacity 0.5
-    transition all 0.5s
-    width 24px
+    opacity 0.4
+    transition opacity 0.5s
+    width 30px
+
+    &.w
+      background var(--svgWait) 50% 50% / 30px
 
     &:hover
       filter invert(42%) sepia() saturate(47)
@@ -195,10 +192,10 @@ nav :global(m-c), nav>i
 
     &>i
       background var(--svgSide) 50% 50% / 20px no-repeat
-      border 2px solid #000
+      border 1px solid #000
       cursor pointer
       display none
-      opacity 0.5
+      opacity 0.4
 
       &:hover
         filter btn-hover-filter
@@ -229,7 +226,7 @@ nav :global(m-c), nav>i
       border-radius 0 !important
       cursor e-resize
       filter none
-      height 100vh !important
+      height 100dvh !important
       left 0
       opacity 0.4
       position absolute
@@ -259,7 +256,7 @@ nav :global(m-c), nav>i
       box-shadow #999 0 0 5px
       display flex
       flex-direction column-reverse
-      height 100vh
+      height 100dvh
       justify-content center
       position fixed
       right 0

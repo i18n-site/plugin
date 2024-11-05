@@ -1,6 +1,6 @@
 {
   "name": "@8p/md",
-  "version": "0.3.64",
+  "version": "0.3.78",
   "repository": {
     "type": "git",
     "url": "git+https://atomgit.com/i18n/plugin.git"
@@ -23,7 +23,7 @@
   "peerDependencies": {
     "@2-/tag0": "^0.1.2",
     "@2-/title": "^0.1.8",
-    "@3-/mark": "^0.1.18",
+    "@3-/mark": "^0.1.19",
     "@8p/h404": "workspace:^",
     "@8p/wait": "workspace:^",
     "@8p/_sync": "workspace:^"

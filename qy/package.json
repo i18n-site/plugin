@@ -1,6 +1,6 @@
 {
   "name": "@8p/qy",
-  "version": "0.1.31",
+  "version": "0.1.41",
   "repository": {
     "type": "git",
     "url": "git+https://atomgit.com/i18n/plugin.git"
@@ -23,7 +23,7 @@
   "type": "module",
   "peerDependencies": {
     "@2-/new": "^0.1.2",
-    "@2-/qy": "^0.1.29",
+    "@2-/qy": "^0.1.33",
     "@2-/watch": "^0.1.7",
     "@3-/debounce": "^0.1.2",
     "@8p/box": "workspace:^"

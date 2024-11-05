@@ -1,6 +1,6 @@
 {
   "name": "@8p/box",
-  "version": "0.3.21",
+  "version": "0.3.22",
   "repository": "https://atomgit.com/i18n/plugin.git",
   "homepage": "https://atomgit.com/i18n/plugin/tree/dev/box",
   "keywords": [
@@ -17,10 +17,10 @@
   ],
   "type": "module",
   "peerDependencies": {
-    "@2-/focus": "^0.1.1",
-    "@2-/new": "^0.1.1",
+    "@2-/focus": "^0.1.2",
+    "@2-/new": "^0.1.2",
     "@8p/smnt": "workspace:^",
-    "svelte": "^5.0.3"
+    "svelte": "^5.1.9"
   },
   "devDependencies": {}
 }

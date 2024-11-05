@@ -1,6 +1,6 @@
 {
   "name": "@8p/page-doc",
-  "version": "0.3.71",
+  "version": "0.3.72",
   "repository": {
     "type": "git",
     "url": "git+https://atomgit.com/i18n/plugin.git"
@@ -22,7 +22,7 @@
     "@8p/base-toc": "workspace:^",
     "@8p/md": "workspace:^",
     "@8p/wait": "workspace:^",
-    "svelte": "^5.0.3"
+    "svelte": "^5.1.9"
   },
   "type": "module"
 }

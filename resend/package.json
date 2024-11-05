@@ -1,6 +1,6 @@
 {
   "name": "@8p/resend",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "repository": {
     "type": "git",
     "url": "git+https://atomgit.com/i18n/plugin.git"
@@ -21,6 +21,6 @@
   "scripts": {},
   "type": "module",
   "dependencies": {
-    "@2-/tag0": "^0.1.1"
+    "@2-/tag0": "^0.1.2"
   }
 }

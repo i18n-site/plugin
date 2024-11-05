@@ -1,6 +1,6 @@
 {
   "name": "@8p/menu-nb",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "repository": {
     "type": "git",
     "url": "git+https://atomgit.com/i18n/plugin.git"
@@ -20,7 +20,7 @@
   ],
   "peerDependencies": {
     "@8p/menu": "workspace:^",
-    "@3-/title_tip": "^0.1.8",
+    "@3-/title_tip": "^0.1.9",
     "@8p/wait": "workspace:^"
   },
   "scripts": {},

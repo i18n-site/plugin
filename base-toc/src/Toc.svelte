@@ -12,6 +12,7 @@
   x/_.js > fMd
   x/selfA.js
   x/route.js > setUrl
+  x/isPrefix.js
 
 N = 'N'
 W = 'W'
@@ -21,7 +22,7 @@ NW = [N,W]
 # set toc ver
 < A
 
-[set, [prefix,...toc], ver, init] = A
+[set, [prefix,...toc], ver, doRender] = A
 
 
 tocFlat(
@@ -41,17 +42,21 @@ tocFlat(
 
 + title, M, tip, h1a, ver, pre_b, unmount
 
-urlA = =>
-  pathname = location.pathname.slice(1)
+urlA = (pathname)=>
   ali = M.getElementsByTagName('a')
   if not h1a
     ali = [...ali]
     ali.shift()
   if not h1a and pathname != prefix
     for i from ali
-      if i.pathname == '/'+pathname
+      if i.pathname.slice(1) == pathname
         return [pathname,i]
-  init(ali, pathname)
+  if doRender(pathname)
+    for i from ali
+      p = i.pathname.slice(1)
+      if isPrefix pathname,p
+        return [p,i]
+  return
 
 onMount =>
   title = toc[0]
@@ -64,8 +69,12 @@ onMount =>
 
   await tick()
 
-  pi = urlA()
+  url = location.pathname.slice(1)
+  pi = urlA url
   if pi
+    # 比如 重定向到了第一章
+    if pi[0] != url
+      setUrl pi[0]
     shash await setNow ...pi
   else
     set 0
@@ -74,7 +83,7 @@ onMount =>
     return
 
 
-pager = (toc,dom)=>
+pager = (dom)=>
   ali = []
 
   tocFlat toc, (i)=>
@@ -82,39 +91,33 @@ pager = (toc,dom)=>
     return
 
   li = []
-  addA = (p, wrap)=>
-    t = ali[p]
+  addA = (p, offset, arrow, wrap)=>
+    t = ali[p+offset]
     if t
       [txt, href] = t
       {a,b} = New
       a.href = href
+      a.className = 'a'+offset
       b.innerText = txt
-      b.style='font-weight:400;border-bottom:1px solid;padding-bottom:8px'
       a.appendChild b
-      wrap a, New.b
-      a.style.margin='0 '+if li.length then '0 0 auto' else '16px 16px 0'
+      {b} = New
+      b.innerText = arrow
+      wrap a, b
       li.push a
     return
   {pathname} = location
   for [txt,path], p in ali
     if path == pathname
-      addA p-1, (a,b)=>
-        b.innerText = '⇦'
-        b.style = 'margin-right:8px'
+      addA p, -1,'⇦',(a,b)=>
         a.insertBefore b,a.firstChild
         return
-      addA p+1, (a,b)=>
-        b.innerText = '⇨'
-        b.style = 'margin-left:8px'
+      addA p, 1, '⇨', (a,b)=>
         a.appendChild b
         return
 
   if li.length
-    {div, hr, b} = New
-    b.style= "display:flex;justify-content:space-between;flex-wrap:wrap"
-    div.appendChild hr
-    hr.style = 'opacity:.5'
-    div.style = 'margin:48px 0 -16px'
+    {div, b} = New
+    div.className = "P"
     for i from li
       b.appendChild i
     div.appendChild(b)
@@ -123,7 +126,6 @@ pager = (toc,dom)=>
 
 
 setNow = (url, e)=>
-  setUrl url
   # for show wait
   set undefined
 
@@ -149,7 +151,7 @@ setNow = (url, e)=>
 
   if pre_b == b # 防上面 await 期间点了其他章节
     if main
-      pager toc,main
+      pager main
 
       if need_mount
         args = tocSM ...sm
@@ -194,21 +196,31 @@ a = (e)=>
                 i.classList.remove c
               return
 
+            # 如果 没有标题链接 并且 当前请求为 根目录 跳转第一章
+
+
+            ali_has_url = 1
             if not h1a and prefix == url
-              r = urlA()
+              r = urlA(url)
               if r
                 [url, p] = r
               else
-                setUrl url
-                url = 0
+                ali_has_url = 0
 
-            if url
+            setUrl url
+
+            if ali_has_url
               setNow url, p
             else
               set 0
           else if hash
             if location.hash == hash
               location.hash = ''
+            A = 'A'
+            M.querySelectorAll('a.'+A).forEach (i)=>
+              i.classList.remove A
+              return
+            p.classList.add A
             location.hash = hash
           else
             p.classList.toggle 'S'
@@ -234,6 +246,8 @@ main(@&M @click=a)
 </template>
 
 <style lang="stylus">
+@import '~/styl/var.styl'
+
 main
   display flex
   flex-direction column
@@ -266,16 +280,25 @@ h1
 
   &>i:first-child
     &>a
-      border-bottom 1px dashed #666
       color #666
       display inline-block
       margin-bottom 7px
       padding-bottom 0
+      position relative
       transition all 0.3s
 
+      &:after
+        background var(--svgHline) 0 0 / 500px repeat-x
+        bottom -2px
+        content ''
+        height 1px
+        left 0
+        opacity 0.8
+        position absolute
+        width 100%
+
       &:hover
-        border-bottom 1px solid #00f
-        color #00f
+        filter btn-hover-filter
 
     &>i
       display block

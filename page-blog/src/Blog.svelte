@@ -8,7 +8,8 @@
   svelte > tick
   x/On.js
   x/_.js > fJson fMd
-  x/isPrefix.js
+
+# B 是 blog 的 url 前缀
 
 + M, md, B, LI, TITLE, PRE_TITLE, INDEX, scroll, unbindScroll
 
@@ -83,15 +84,8 @@ A = [
     md = _md
     await tick()
     return M
-  # init
-  (ali, pathname)=>
-    if B == pathname
-      return
-    for i from ali
-      p = i.pathname.slice(1)
-      if isPrefix pathname,p
-        return [p,i]
-    return
+  # 返回是否应该高亮链接
+  (pathname)=> B != pathname
   # fToc
   (prefix)=>
     LI = []

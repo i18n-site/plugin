@@ -1,6 +1,6 @@
 {
   "name": "@8p/edit",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "repository": {
     "type": "git",
     "url": "git+https://atomgit.com/i18n/plugin.git"
@@ -21,7 +21,7 @@
   "scripts": {},
   "type": "module",
   "peerDependencies": {
-    "@2-/tag0": "^0.1.1",
-    "@2-/errer": "^0.1.4"
+    "@2-/tag0": "^0.1.2",
+    "@2-/errer": "^0.1.5"
   }
 }

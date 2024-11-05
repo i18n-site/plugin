@@ -50,7 +50,8 @@ a
   & > i
     cursor pointer
     flex 1
-    margin-left 12px
+    margin-left 6px
+    min-width 20px
     position relative
 
     &:before, &:after
@@ -59,10 +60,10 @@ a
       top 50%
 
     &:before
-      background var(--svgHline) repeat-x 0 55%
+      background var(--svgHline) 0 55% / 600px repeat-x
       height 1px
       left 0
-      opacity 0.3
+      opacity 0.4
       right 16px
 
     &:after

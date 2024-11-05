@@ -1,9 +1,10 @@
-> x/_.js > vUrl trieN TRIE
+> x/_.js > vUrl trieN TRIE reset
   x/f.js > fTxt
   # ./Q.coffee > bind inited qUrl
 
 MDLI = []
 export default =>
+  reset()
   # {lang} = document.documentElement
   MDLI.splice(0)
   await Promise.allSettled _P.map(
@@ -43,6 +44,12 @@ export fMd = (lang, url, ver)=>
 #     return
 # )
 
+
+prefixK = (prefix, k)=>
+  if prefix and k
+    k = '/'+k
+  return prefix+k
+
 mdUrl = (prefix,ver_li,md)=>
   if not md
     return
@@ -50,13 +57,11 @@ mdUrl = (prefix,ver_li,md)=>
   if Array.isArray md
     [md, sub] = md
     for [k,t] from Object.entries sub
-      mdUrl(prefix+'/'+k,ver_li,t)
+      mdUrl(prefixK(prefix,k),ver_li,t)
 
   for [k,ver] from Object.entries md
-    if k and prefix
-      k = '/'+k
     t = [
-      prefix + k
+      prefixK(prefix,k)
       ver_li[ver]
     ]
     # qUrl langUrl t

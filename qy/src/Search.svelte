@@ -41,7 +41,7 @@ onMount =>
 
 <template lang="pug">
 form(@submit|preventDefault=submit)
-  input(@&I placeholder:>qHolder)
+  input(type="text" @&I placeholder:>qHolder)
   m-c
     button(title:>search type="submit")
 </template>
@@ -99,13 +99,12 @@ form
       display none
 
     m-c
-      background-image var(--svgQm)
-      background-position 2px 3px
-      border 2px solid #000
+      background var(--svgQm) 50% 50% / 16px no-repeat
+      border 1px solid #000
       border-radius 12px
       height 24px
-      opacity 0.5
-      width 24px
+      opacity 0.4
+      width 30px
 
       &:hover
         opacity 1

@@ -21,7 +21,7 @@ onMount =>
         md = md.slice(end+4)
 
     try
-      h = mark(md).replace(/(src|href)="([^"]+)"/g, (_, attr, val) => attr + '=' + val.replace('$LANG', document.documentElement.lang))
+      h = mark(md)
       await tick()
       return seth1(R) # unmount
     catch err
@@ -38,24 +38,11 @@ onMount =>
 </template>
 
 <style lang="stylus">
-@layer
-  b.m
-    :global(ul li:before)
-      background #ffc
-      border-radius 8px
-      box-shadow 0 0 3px inset #666
-      content ''
-      height 8px
-      margin-left -31px
-      position absolute
-      top 13px
-      width 8px
-
 // wait for fix https://github.com/stylus/stylus/issues/2890
 b.m
   display block
 
-  :global(p a)
+  :global(a)
     display inline-block
     position relative
 
@@ -86,10 +73,6 @@ b.m
     margin-right 6px
     vertical-align -3px
 
-  :global(ul), :global(ul li), :global(ol), :global(ol li)
-    padding 0
-    white-space normal
-
   :global(code)
     margin 0 3px
     vertical-align 2px
@@ -97,10 +80,6 @@ b.m
   :global(pre>code)
     margin 0
     vertical-align 0
-
-  :global(ul li), :global(ol li)
-    margin 8px 0
-    position relative
 
   :global(ul)
     list-style none
@@ -121,24 +100,25 @@ b.m
 @media (max-width 950px)
   b.m
     :global(ol)
-      margin-left 36px
+      margin-left 2.25rem
 
     :global(ul)
-      margin-left 26px
+      margin-left 1.625rem
 
     :global(ul li:before)
-      margin-left -26px
-      top 12px !important
+      margin-left -1.45rem
+
+    :global(details>ul)
+      margin-left 2.5rem
+
+    :global(details>ol)
+      margin-left 3rem
 
 @media (max-width 560px)
   b.m
-    :global(ol)
-      margin-left 32px
-
     :global(ul)
-      margin-left 20px
+      margin-left 1.25rem
 
     :global(ul li:before)
-      margin-left -20px
-      top 12px !important
+      margin-left -1.25rem
 </style>

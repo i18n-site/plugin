@@ -2,7 +2,6 @@
 > @8p/md/MdTxt.svelte
   @8p/base-toc/BaseToc.svelte
   @8p/wait:Wait
-  x/isPrefix.js
   svelte > tick
   x/_.js > fJson
 
@@ -14,13 +13,8 @@ A = [
     md = _md
     await tick()
     return M
-  # init
-  (ali, pathname)=>
-    for i from ali
-      p = i.pathname.slice(1)
-      if isPrefix pathname,p
-        return [p,i]
-    return
+  # 返回是否应该高亮链接
+  (pathname)=>1
   # fToc
   (prefix)=>
     fJson prefix+'/_'

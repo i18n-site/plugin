@@ -16,21 +16,21 @@ resize = =>
   if B
     {classList:c} = B
     if S
-      c.remove R
-    else
       c.add R
+    else
+      c.remove R
   return
 
 onMount =>
   for i in BODY.children
     if i.tagName == 'NAV'
-      B = New['m-c']
+      B = New.i
       Object.assign(
         B
         {
-          className:'toc'
+          className:'toc R'
           onclick: =>
-            S = !B.classList.toggle R
+            S = B.classList.toggle R
             return
         }
       )
@@ -61,6 +61,7 @@ click = (e)=>
       pp = p.pathname
       if pp and (pp != pathname or not p.nextSibling?.children.length)
         S = 0
+        B.classList.remove R
     pathname = p.pathname
     return
   return
@@ -75,6 +76,8 @@ click = (e)=>
 </template>
 
 <style lang="stylus">
+@import '~/styl/var.styl'
+
 b
   background linear-gradient(90deg, #fff, #fcfcfc)
   bottom 0
@@ -108,29 +111,64 @@ b + :global(b)
   box-sizing border-box
   padding-left 400px
 
-@media (max-width 990px)
-  b + :global(b)
-    padding 0
-
-@media (max-width 440px)
-  b
-    width 100%
-
-    &>i
-      display none
-
-:global(body>nav>b>m-c.toc)
-  background-image var(--svgToc)
-  border 2px solid #000
-  box-shadow #999 0 0 3px inset
-  margin-left 0
-  margin-right 24px
-
-:global(body>nav>b>m-c.toc.R)
+:global(body>nav>b>i.toc)
+  background var(--svgToc) 50% 50% / 18px no-repeat
+  border 1px solid #000
+  border-radius 12px
   box-shadow none
+  cursor e-resize
+  height 24px
+  margin-left 0
+  margin-right 18px
+  opacity 0.4
   transform rotate(180deg)
+  transition transform 0.5s
+  width 30px
+
+  &:hover
+    filter btn-hover-filter
+    opacity 1
+
+:global(body>nav>b>i.toc.R)
+  box-shadow #999 0 0 3px inset
+  cursor w-resize
+  transform none
 
 :global(body>nav.H + b>div>div>b), :global(body>nav.N + b>div>div>b)
   top 0 !important
+
+@media (max-width 990px)
+  b
+    position fixed
+    top 0
+    z-index 1100
+
+    & + :global(b)
+      padding 0
+
+  :global(body>nav:has(b>i.toc.R))
+    display flex
+
+  :global(body>nav>b>i.toc.R)
+    background #000
+    border 0
+    border-radius 0
+    filter none
+    height 200dvh
+    margin 0
+    opacity 0.4
+    position fixed
+    top 0
+    transform rotate(180deg)
+    width 100%
+    z-index 2
+
+@media (max-width 440px)
+  b
+    right 60px
+    width auto
+
+    &>i
+      display none
 </style>
 
