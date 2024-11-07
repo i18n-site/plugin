@@ -2,6 +2,7 @@
 nav(@&nav)
   b
     //- 目录按钮的容器
+    i-h(data-h="t1")
   b.T(@&T)
     b
       +if L
@@ -12,6 +13,7 @@ nav(@&nav)
               a(href:i[1]) { i[0] }
         +else
           i.w
+      i-h(data-h="t2")
     b
       slot
   i(@click=bS)
@@ -158,14 +160,13 @@ nav
 
 @layer
   nav :global(m-c), nav>i
-    background 50% 50% / 16px no-repeat
-    border-radius 12px
-    border-radius 12px
+    background 50% 50% / 18px no-repeat
+    border-radius 16px
     display inline-block
-    height 24px
+    height 29px
     opacity 0.4
     transition opacity 0.5s
-    width 30px
+    width 36px
 
     &.w
       background var(--svgWait) 50% 50% / 30px

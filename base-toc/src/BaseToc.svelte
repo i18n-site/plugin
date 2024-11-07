@@ -61,7 +61,7 @@ onMount =>
     b
       Mc
         slot
-      i-h.F foot
+      i-h.F(data-h="foot")
   +else
     Wait
 </template>

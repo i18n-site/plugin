@@ -114,16 +114,16 @@ b + :global(b)
 :global(body>nav>b>i.toc)
   background var(--svgToc) 50% 50% / 18px no-repeat
   border 1px solid #000
-  border-radius 12px
+  border-radius 16px
   box-shadow none
   cursor e-resize
-  height 24px
+  height 29px
   margin-left 0
   margin-right 18px
   opacity 0.4
   transform rotate(180deg)
   transition transform 0.5s
-  width 30px
+  width 36px
 
   &:hover
     filter btn-hover-filter

@@ -99,12 +99,12 @@ form
       display none
 
     m-c
-      background var(--svgQm) 50% 50% / 16px no-repeat
+      background var(--svgQm) 50% 50% / 18px no-repeat
       border 1px solid #000
-      border-radius 12px
-      height 24px
+      border-radius 16px
+      height 29px
       opacity 0.4
-      width 30px
+      width 36px
 
       &:hover
         opacity 1

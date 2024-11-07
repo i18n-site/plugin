@@ -10,7 +10,7 @@ Scroll(bind:R=R)
   i
     b
       slot
-    i-h.F foot
+    i-h.F(data-h="foot")
 </template>
 
 <style lang="stylus">
